@@ -20,7 +20,7 @@ _(mоже би ще се раздели в крайна сметка на час
 EN  | BG | Link
 --- | -- | ----
 audit | преглед, оценка, но може и одит | https://bg.wikipedia.org/wiki/%D0%9E%D0%B4%D0%B8%D1%82
-authentication | удостоверяване
+authentication | удостоверяване |
 authorization | оторизация (?!)
 
 ### B
