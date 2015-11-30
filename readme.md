@@ -42,6 +42,7 @@ background | фонов
 background task | фонов задача
 basic | базов 
 blacklist | забранен списък, черен списък |
+branch | разклонение, клон | _най-често при системите за управление на програмен код (SCMs)_
 bug | недостатък
 
 ### C
@@ -93,6 +94,7 @@ EN  | BG  | Коментар
 --- | --- | ---
 integer | целочислен | [Wiki](https://bg.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BB%D0%BE%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8_%D1%82%D0%B8%D0%BF%D0%BE%D0%B2%D0%B5_%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8)
 incremental | Нрастващ
+issue | казус | [Wiki](https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D1%83%D1%81) _често се ползва и проблем, което също е чуждица_
 
 ### L
 
@@ -143,7 +145,8 @@ raw | суроватен, изходен | _най-често за данни_
 raw data | първообраз, суроватни данни | _даните в техния суров, необработен вид_
 reference | препратка | _грешно преведено като псевдоним (alias) в литературата на български_ 
 regular expression | регулярен израз | [Wiki](https://bg.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%B5%D0%BD_%D0%B8%D0%B7%D1%80%D0%B0%D0%B7) 
-resolution | разделителна способност (на екрана)
+resolution (gfx) | разделителна способност (на екрана)
+resolution (of issue) | разрешаване на казус
 request | заявка |
 
 ### S
