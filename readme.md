@@ -95,6 +95,7 @@ essentially | по същество | _или "на практика"_
 evaluation | оценяване, оценка | _"всеки израз, част от програмен код се оценява"_ 
 event | събитие
 event handling | обработка на събития
+export | износ | на данни
 
 ### F
 
@@ -123,6 +124,8 @@ hash array, hash | асоциативен списък
 EN  | BG  | Коментар
 --- | --- | ---
 immediate | незабавен
+import | внос | на данни
+input | вход, въвеждане | _за входни данни_
 integer | целочислен | [Wiki](https://bg.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BB%D0%BE%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8_%D1%82%D0%B8%D0%BF%D0%BE%D0%B2%D0%B5_%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8)
 integral part | неразделима част
 incremental | Нрастващ
