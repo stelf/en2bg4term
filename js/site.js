@@ -5,6 +5,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
     var req = new XMLHttpRequest();
     req.addEventListener("load", loadHandeler);
-    req.open("GET", "https://github.com/stelf/en2bg4term/blob/master/readme.md");
+    req.open("GET", "https://github.com/IliaIdakiev/en2bg4term/tree/master");
     req.send();
 });
