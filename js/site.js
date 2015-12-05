@@ -7,9 +7,11 @@
     var sep = '*****';
     var inputField = document.getElementById('search-word');
     var searchBtn = document.getElementById('search-btn');
+    var resultBox = document.getElementById('result-box');
     var resultBG = document.getElementById('result-bg');
     var resultEN = document.getElementById('result-en');
     var errorDiv = document.getElementById('error');
+    var resultCell = document.getElementById('result-cell');
     var searchResult = '';
 
     function genReg(word) {
@@ -21,7 +23,7 @@
     }
 
     function parseWord(line) {
-        var lineArr = line.replace(/(\s)*\|(\s)*/, sep).split(sep);
+        var lineArr = line.replace(/(\s)*\|(\s)*/g, sep).split(sep);
         return {
             en: lineArr[0] || null,
             bg: lineArr[1] || null,
@@ -62,8 +64,14 @@
 
     function setSearchResult(result) {
         errorDiv.classList.add('hidden');
-        result.forEach(function(el){
-            console.log(el);
+        result.forEach(function(el, index) {
+            var newCell = resultCell.cloneNode(true);
+            newCell.id = 'cell-' + index;
+            newCell.querySelector('.result-bg').innerHTML = el.bg;
+            newCell.querySelector('.result-en').innerHTML = el.en;
+            newCell.querySelector('.result-comment').innerHTML = el.comment;
+            newCell.classList.remove('hidden');
+            resultBox.appendChild(newCell);
         });
     }
 
@@ -73,10 +81,12 @@
     }
 
     function search(event) {
+        resultBox.classList.remove('hidden');
+        resultBox.innerHTML = '';
         var inputValue = inputField.value;
-        inputField.value = '';
+        //inputField.value = '';
         var firstChar = inputValue[0];
-        if(!firstChar) setError('Моля въведете текст!');
+        if(!firstChar) return setError('Моля въведете текст!');
         var symbolIndex = symbolArray.indexOf(inputValue[0].toUpperCase());
         if(symbolIndex === -1) return setError('Няма намерени резултати.');
         var re = new RegExp("\n" + inputValue + "(.*)\n", "g");
@@ -85,5 +95,10 @@
         return setSearchResult(resultArray.map(parseWord));
     }
 
+    function selectText() {
+        inputField.select();
+    }
+
     searchBtn.addEventListener('click', search);
+    inputField.addEventListener('click', selectText);
 }());
