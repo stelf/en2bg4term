@@ -210,7 +210,8 @@ issue | казус | [Wiki](https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D1%
 
 EN  | BG  | Коментар
 --- | --- | ---
-join | свързване
+join | свързване, съединяване, присъединаване | 
+joint | свръзка, съединение, сглобка | (http://www.ezikov.com/translate/joint)
 
 ### К
 
