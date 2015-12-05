@@ -17,6 +17,7 @@ body, html {
     background-color: #2980b9;
     padding: 0px;
     overflow-x: hidden;
+    overflow-y: auto;
 }
 
 h1#main-title {
@@ -121,7 +122,32 @@ td.result-comment {
 }
 
 @media (max-width: 662px) {
+
+    h1#main-title {
+        font-size: 36px;
+    }
+
+    h2#sub-title {
+        font-size: 12px;
+    }
+
+    h4 {
+        font-size: 14px;
+    }
+
     div#search-holder input#search-word {
         width: 60%;
+    }
+
+    div#content {
+        padding-top: 0px;
+    }
+}
+
+@media (max-width: 392px) {
+    button#search-btn {
+        margin-top: 20px;
+        width: 69%;
+        margin-left: 0px;
     }
 }
