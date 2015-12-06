@@ -99,6 +99,23 @@
         inputField.select();
     }
 
+    function isPropertySupported(property) {
+        return property in document.body.style;
+    }
+
+    var hasBGC = isPropertySupported('background-clip') || isPropertySupported('-webkit-background-clip');
+    var hasTFC = isPropertySupported('-webkit-text-fill-color') || isPropertySupported('text-fill-color');
+
+    if(!hasBGC || !hasTFC) {
+        var enFlag = document.getElementById('en-flag');
+        var bgFlag = document.getElementById('bg-flag');
+        enFlag.style.backgroundImage = 'none';
+        enFlag.style.color = 'white';
+
+        bgFlag.style.backgroundImage = 'none';
+        bgFlag.style.color = 'white !important';
+    }
+
     searchBtn.addEventListener('click', search);
     inputField.addEventListener('click', selectText);
 }());

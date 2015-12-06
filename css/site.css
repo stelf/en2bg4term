@@ -43,8 +43,9 @@ h4 {
 span#en-flag, span#bg-flag{
     background-size: contain;
     background-repeat: no-repeat;
-    color: transparent !important;
+    color: transparent;
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     background-position: -1px -4px;
 }
