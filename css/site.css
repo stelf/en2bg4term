@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+@import url(https://fonts.googleapis.com/css?family=Poiret+One&subset=latin,cyrillic);
 @import url(https://fonts.googleapis.com/css?family=Orbitron:900);
 
 * {
@@ -119,6 +119,11 @@ td.outer {
 
 td.result-comment {
     position: absolute;
+}
+
+a#github-link img{
+    height: 30px;
+    width: auto;
 }
 
 @media (max-width: 662px) {
