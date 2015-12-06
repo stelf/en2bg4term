@@ -14,13 +14,13 @@ body, html {
     height: 100%;
     min-height: 535px;
     position: relative;
-    background-color: #2980b9;
+    background-color: #2c3e50;
     padding: 0px;
     overflow-x: hidden;
     overflow-y: auto;
 }
 
-h1#main-title {
+h1#main-title, h1#main-title span {
     font-family: Orbitron;
     color: white;
     font-size: 50px;
@@ -36,8 +36,25 @@ h2#sub-title {
 
 h4 {
     color: white;
-    font-size: 20px;
+    font-size: 15px;
     margin-bottom: 10px;
+}
+
+span#en-flag, span#bg-flag{
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: transparent !important;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-position: -1px -4px;
+}
+
+span#en-flag {
+    background-image: url('../img/eng.png');
+}
+
+span#bg-flag {
+    background-image: url('../img/bg.png');
 }
 
 div#search-holder input {
