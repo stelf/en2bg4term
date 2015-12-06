@@ -109,6 +109,10 @@
         bgFlag.style.color = 'white';
     }
 
+    function keyUpHandler(e) {
+        if (e.keyCode == 13) search();
+    }
     searchBtn.addEventListener('click', search);
     inputField.addEventListener('click', selectText);
+    inputField.addEventListener('keyup', keyUpHandler); 
 }());
