@@ -1,4 +1,4 @@
-;var EN2BG = (function() {
+;(function() {
     'use strict';
     var inputField = document.getElementById('search-word');
     var resultCell = document.getElementById('result-cell');
@@ -111,9 +111,4 @@
 
     searchBtn.addEventListener('click', search);
     inputField.addEventListener('click', selectText);
-
-    return {
-        wordArray: wordArray,
-        symbolArray: symbolArray
-    };
 }());
