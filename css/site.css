@@ -150,6 +150,10 @@ a#github-link img{
         font-size: 36px;
     }
 
+    h1#main-title span{
+        font-size: 36px;
+    }
+
     h2#sub-title {
         font-size: 12px;
     }

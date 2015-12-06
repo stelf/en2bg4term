@@ -1,17 +1,16 @@
 ;var EN2BG = (function() {
     'use strict';
-    var storage = window.localStorage;
-    var excapeWordArray = ['---', 'EN', 'BG', 'Коментар'];
-    var symbolArray = null;
-    var wordArray = JSON.parse(storage.getItem('wordArray')) || [];
-    var sep = '*****';
     var inputField = document.getElementById('search-word');
+    var resultCell = document.getElementById('result-cell');
     var searchBtn = document.getElementById('search-btn');
     var resultBox = document.getElementById('result-box');
     var resultBG = document.getElementById('result-bg');
     var resultEN = document.getElementById('result-en');
     var errorDiv = document.getElementById('error');
-    var resultCell = document.getElementById('result-cell');
+    var excapeWordArray = ['---', 'EN', 'BG', 'Коментар'];
+    var symbolArray = null;
+    var wordArray = null;
+    var sep = '*****';
     var searchResult = '';
 
     function genReg(word) {
@@ -49,13 +48,7 @@
     document.addEventListener("DOMContentLoaded", function() {
         var req = new XMLHttpRequest();
         req.addEventListener("load", function loadHandeler() {
-            var respText = this.responseText;
-            if(respText.length  === wordArray.length) {
-                wordArray = JSON.parse(storage.get('wordArray'));
-                return ready();
-            }
-            parser(respText);
-            storage.setItem('wordArray', JSON.stringify(wordArray));
+            parser(this.responseText);
             ready();
         });
         req.open("GET", "https://raw.githubusercontent.com/stelf/en2bg4term/master/readme.md");
@@ -113,9 +106,14 @@
         enFlag.style.color = 'white';
 
         bgFlag.style.backgroundImage = 'none';
-        bgFlag.style.color = 'white !important';
+        bgFlag.style.color = 'white';
     }
 
     searchBtn.addEventListener('click', search);
     inputField.addEventListener('click', selectText);
+
+    return {
+        wordArray: wordArray,
+        symbolArray: symbolArray
+    };
 }());
