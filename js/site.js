@@ -62,7 +62,11 @@
             newCell.id = 'cell-' + index;
             newCell.querySelector('.result-bg').innerHTML = el.bg;
             newCell.querySelector('.result-en').innerHTML = el.en;
-            newCell.querySelector('.result-comment').innerHTML = el.comment;
+            /*if(!el.comment) {
+                var comment = newCell.querySelector('.result-comment');
+                comment.innerHTML = el.comment;
+                newCell.querySelector('.comment-icon').classList.remove('hidden');
+            }*/
             newCell.classList.remove('hidden');
             resultBox.appendChild(newCell);
         });
@@ -112,7 +116,17 @@
     function keyUpHandler(e) {
         if (e.keyCode == 13) search();
     }
+
+    function tableClick(e) {
+        return;
+        var target = e.target;
+        if(target.classList.contains('comment-holder') || target.classList.contains('comment-icon')) {
+            target.parentNode.querySelector('.result-comment').classList.toggle('hidden');
+        }
+    }
+
     searchBtn.addEventListener('click', search);
     inputField.addEventListener('click', selectText);
-    inputField.addEventListener('keyup', keyUpHandler); 
+    inputField.addEventListener('keyup', keyUpHandler);
+    resultBox.addEventListener('click', tableClick);
 }());
