@@ -116,7 +116,7 @@ table#result-box {
     border-collapse: collapse;
 }
 
-table td {
+table#result-box td {
     padding-left: 10px;
     padding-right: 10px;
     padding-bottom: 5px;
@@ -124,26 +124,65 @@ table td {
     width: 50%;
 }
 
-table tr:not(:last-child){
+table#result-box tr {
+    position: relative;
+}
+
+table#result-box tr:not(:last-child){
     border-bottom: 1px solid white;
 }
 
-table td:first-child {
+table#result-box td:first-child {
     border-right: 1px solid white;
 }
 
-td.outer {
+table#result-box td.outer {
     display: none;
-}
-
-td.result-comment {
-    position: absolute;
 }
 
 a#github-link img{
     height: 30px;
     width: auto;
     margin: 10px;
+}
+
+.result-comment {
+    position: absolute;
+    background: rgba(255,255,255,.9);
+    padding: 15px;
+    bottom: 40px;
+    right: 0px;
+    width: 400px;
+    word-break: break-word;
+}
+
+.white-bg {
+    background-color: white;
+}
+
+div.result-comment:before {
+    width: 0;
+    height: 0;
+    content: '';
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid rgba(255,255,255,.9);
+    position: absolute;
+    bottom: -10px;
+    right: 5px;
+}
+
+td.comment-holder {
+    position: relative;
+    min-width: 10px;
+}
+
+img.comment-icon {
+    height: 20px;
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    cursor: pointer;
 }
 
 @media (max-width: 662px) {
@@ -178,5 +217,14 @@ a#github-link img{
         margin-top: 20px;
         width: 69%;
         margin-left: 0px;
+    }
+}
+
+@media (max-width: 662px) {
+    table#result-box {
+        width: 90%;
+    }
+    .result-comment {
+        width: 300px;
     }
 }

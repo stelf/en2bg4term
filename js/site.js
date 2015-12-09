@@ -62,11 +62,11 @@
             newCell.id = 'cell-' + index;
             newCell.querySelector('.result-bg').innerHTML = el.bg;
             newCell.querySelector('.result-en').innerHTML = el.en;
-            /*if(!el.comment) {
+            if(el.comment) {
                 var comment = newCell.querySelector('.result-comment');
                 comment.innerHTML = el.comment;
                 newCell.querySelector('.comment-icon').classList.remove('hidden');
-            }*/
+            }
             newCell.classList.remove('hidden');
             resultBox.appendChild(newCell);
         });
@@ -81,7 +81,6 @@
         resultBox.classList.remove('hidden');
         resultBox.innerHTML = '';
         var inputValue = inputField.value;
-        //inputField.value = '';
         var firstChar = inputValue[0];
         if(!firstChar) return setError('Моля въведете текст!');
         var symbolIndex = symbolArray.indexOf(inputValue[0].toUpperCase());
@@ -118,10 +117,15 @@
     }
 
     function tableClick(e) {
-        return;
         var target = e.target;
-        if(target.classList.contains('comment-holder') || target.classList.contains('comment-icon')) {
-            target.parentNode.querySelector('.result-comment').classList.toggle('hidden');
+        if(target.classList.contains('comment-icon')) {
+            var openComment = resultBox.querySelector('.comment-holder.white-bg');
+            if(openComment && !openComment.contains(target)) {
+                openComment.querySelector('.comment-icon').click();
+            }
+            var parent = target.parentNode;
+            parent.querySelector('.result-comment').classList.toggle('hidden');
+            parent.classList.toggle('white-bg');
         }
     }
 
