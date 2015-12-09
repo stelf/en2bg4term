@@ -17,16 +17,22 @@
         return new RegExp('(\\|){0,1}(\\s)*' + word + '(\\s)*(\\|){0,1}', "\g");
     }
 
+    function parseLinks(text) {
+        return text.replace(/\[(.*?)\]\((.*?)\)/g, '<a href="$2" target="_blank">$1</a>');
+    }
+
     function replaceWithNL(text, expr) {
         return text.replace(expr, '\n');
     }
 
     function parseWord(line) {
         var lineArr = line.replace(/(\s)*\|(\s)*/g, sep).split(sep);
+        var comment = lineArr[2];
+        if(comment) comment = parseLinks(comment);
         return {
             en: lineArr[0] || null,
             bg: lineArr[1] || null,
-            comment: lineArr[2] || null
+            comment: comment || null
         };
     }
 
