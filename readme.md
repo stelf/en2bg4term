@@ -294,6 +294,7 @@ open source | отворен/свободно-достъпен код | _тук 
 
 EN  | BG  | Коментар
 --- | --- | ---
+parse | разбор
 participant | участник
 pattern | шаблон
 payload | товар
