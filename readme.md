@@ -431,6 +431,7 @@ EN  | BG  | Коментар
 --- | --- | ---
 value | стойност, величина
 var, variable | променлива
+verbose | многословен
 vertex | връх | [WIki](https://en.wikipedia.org/wiki/Vertex_(geometry))
 view | изглед
 visitor | посетител
