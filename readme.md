@@ -137,6 +137,7 @@ denial | отказ
 dependency | зависимост |  _най-често между обекти или пакети в ОС_
 detached | разкачен, откачен | _напр. "detached from the DOM tree" - разкачен от DOM дървото_
 device | устройство
+divider | разделител
 digit | цифра
 digital | цифров
 discontinue | преустановявам
