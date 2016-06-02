@@ -239,6 +239,7 @@ inspect | преглеждам, изследвам
 instant | незабавен, неотложен
 ip address | мрежови адрес
 issue | казус | [Wiki](https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D1%83%D1%81) _често се ползва и проблем, което също е чуждица_
+item | вещ, артикул | [Тълковен Речник](http://talkoven.onlinerechnik.com/duma/%D0%B2%D0%B5%D1%89)
 
 ### J
 
