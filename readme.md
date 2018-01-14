@@ -150,6 +150,7 @@ distributed architecture | разпределена архитектура
 distributed execution | разпределено изпълнение
 draft | чернова
 download | свалям, взимам, разтоварвам | _за файл най-често е свалям/взимам, за сваляне на данни от..._
+due date | падеж | _най-често падеж на плащане. [WiKi](https://bg.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D0%B5%D0%B6_(%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%B8))_
 dump | изхвърлям
 
 ### E
