@@ -82,7 +82,7 @@ background | фонов
 background task | фонова задача
 bandwidth | дебит | буквално означава _пропускателна способност_
 basic | основен, базов
-batch | пакет, пакетен
+batch | купчина, партида, пакет | _макар че пакет е чуждица, а партида идва от латинското [pars](https://bg.wiktionary.org/wiki/%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B4%D0%B0)_ 
 behind the scenes | зад кадър
 binary | двоичен
 biding | свързване | _като може да е двупосочно свързване - 'two way biding'_
