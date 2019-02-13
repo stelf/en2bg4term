@@ -258,6 +258,7 @@ integer | целочислен | [Wiki](https://bg.wikipedia.org/wiki/%D0%A6%D0%
 integral part | неразделима част
 incremental | Нaрастващ
 inject | внасям | dependency injection - внасяне на зависимости
+interceptor | прихващач
 intermediate | непосредствен | _примерно: непосредствена стойност на променлива при проследяване на изпълнението_
 intrusion | взлом
 inspect | преглеждам, изследвам
