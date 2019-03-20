@@ -491,7 +491,7 @@ target | цел | _може да е target атрибут на <a> или цел
 task | задача, назначение | 
 task management | управление на задачи
 teambuilding | сплотяване на екип, възпитаване на екипна работа | _изграждане на екипно съзнание_
-template | шаблон | [Речник](http://rechnik.info/%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD)
+template | калъп, заготовка, шаблон | [Речник](http://rechnik.info/%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD)
 test environment | тестова установка
 third party | трета страна
 thread | нишка
