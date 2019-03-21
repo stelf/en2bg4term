@@ -506,7 +506,7 @@ tracking | проследяване | _например на казуси - issu
 transform | преобразуване | _макар дословното да би било [преформиране](http://rechnik.chitanka.info/w/%D0%BF%D1%80%D0%B5%D1%84%D0%BE%D1%80%D0%BC%D0%B8%D1%80%D0%B0%D0%BD%D0%B5) или по-вялото преобразуване. някои източници посочват [трансформиране](http://rechnik.chitanka.info/w/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B8%D1%80%D0%B0%D0%BD%D0%B5) като възможен превод, което си е заемка._
 transpile | превеждам, пренасям | _'превод', защото един програмен език се превежда (преподрежда) до друг или'пренос' защото trans (пре) и pile (натрупвам, купчина) и реално кодът се пренася от един в друг_
 trend | течение, тенденция |  _реално погледнато 'тенденция' също е чуждица_
-tuple | свита, кортеж | [Речник](http://sinonimen.onlinerechnik.com/duma/%D0%BA%D0%BE%D1%80%D1%82%D0%B5%D0%B6) _най-често за наредена N-орка от данни в СУБД. 'кортвж' е възприет превод, но е от френски cortege - mid 17th century: from French, from Italian corteggio, from corteggiare ‘attend court’, from corte ‘court’, from Latin cohors, cohort- ‘retinue’._
+tuple | свита, кортеж | [Речник](http://sinonimen.onlinerechnik.com/duma/%D0%BA%D0%BE%D1%80%D1%82%D0%B5%D0%B6) _най-често за наредена N-орка от данни в СУБД. 'кортеж' е възприет превод, но е от френски cortege - mid 17th century: from French, from Italian corteggio, from corteggiare ‘attend court’, from corte ‘court’, from Latin cohors, cohort- ‘retinue’._
 
 ### U
 
