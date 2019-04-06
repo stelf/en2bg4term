@@ -192,7 +192,7 @@ execution | изпълнение
 exception | изключение
 explicit | явен
 export | износ | на данни
-expired | изтекъл, изхабен, изветрял, фирясал | _напр: expired session = изтекла сесия_
+expired | изтекла давност, изхабен, изветрял, фирясал | _напр: expired session = изтекла сесия, expired mail = писмо с изтекла данност_
 
 ### F
 
