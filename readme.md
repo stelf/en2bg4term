@@ -1,6 +1,6 @@
 ## Индекс
 
-(премини към [речника](речник) без да четеш увода)
+(премини към [речника](#речник) без да четеш увода)
 
 [A](#a) &middot; [B](#b) &middot; [C](#c) &middot; [D](#d) &middot; [E](#e) &middot; [F](#f) &middot; [G](#g) &middot; [H](#h) &middot; [I](#i) &middot; [J](#j) &middot; [K](#k) &middot; [L](#l) &middot; [M](#m) &middot; [N](#n) &middot; [O](#o) &middot; [P](#p) &middot; [Q](#q) &middot; [R](#r) &middot; [S](#s) &middot; [T](#t) &middot; [U](#u) &middot; [V](#v) &middot; [W](#w) &middot; [X](#x) &middot; [Y](#y) &middot; [Z](#z)
 
