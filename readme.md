@@ -76,6 +76,7 @@ EN  | BG  | Коментар
 --- | --- | ---
 background | фонов | _заб. фон произлиза от френското fond «дъно», и лат. fundus. справка [wiktionary](https://ru.wiktionary.org/wiki/%D1%84%D0%BE%D0%BD#%D0%AD%D1%82%D0%B8%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)_
 background task | фонова задача
+backup | резервно копие
 bandwidth | дебит | буквално означава _пропускателна способност_
 basic | основен | _базов също се ползва, но е с корена на base_
 batch | купчина, партида, пакет | _макар че пакет е чуждица, а партида идва от латинското [pars](https://bg.wiktionary.org/wiki/%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B4%D0%B0)_ 
