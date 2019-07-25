@@ -563,7 +563,7 @@ value | стойност, величина
 validation | одобрение
 var, variable | променлива
 verbose | многословен
-vertex | връх | [WIki](https://en.wikipedia.org/wiki/Vertex_(geometry))
+vertex | връх | [Wiki](https://en.wikipedia.org/wiki/Vertex_(geometry))
 view | изглед
 visitor | посетител
 visualize, visualise | показвам, онагледявам, изобразявам
