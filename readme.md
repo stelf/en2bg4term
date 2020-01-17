@@ -190,6 +190,7 @@ circular | кръгов, периодичен | _позлва се и цикли
 clear | зачиствам | _като например да си 'зачистя конзолата'_
 clearence | одобрение | _...на операция_
 click | цъкам, натискам, щракам | 
+client | купувач, поръчител
 clipboard | междинна памет
 collapse | свивам
 colon | двоеточие (:)
@@ -704,6 +705,7 @@ vague | смътен, съмнителен
 validation | одобрение
 value | стойност, величина
 var, variable | променлива
+vendor | доставчик
 verbose | многословен
 vertex | връх | [Wiki](https://en.wikipedia.org/wiki/Vertex_(geometry))
 view | изглед
