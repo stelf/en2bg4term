@@ -216,6 +216,7 @@ condensed |  тесен | за шрифт
 condition | условие
 conjunction | съединение, връзка; свързване;
 connect to | (с)връзвам се, закачам се (към)
+connected | прикачен, свързан
 connection | връзка
 connection pool | набор връзки
 constraint | ограничение | _най-често в база данни_
