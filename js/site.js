@@ -91,7 +91,7 @@
         if(!firstChar) return setError('Моля въведете текст!');
         var symbolIndex = symbolArray.indexOf(inputValue[0].toUpperCase());
         if(symbolIndex === -1) return setError('Няма намерени резултати.');
-        var re = new RegExp("^" + inputValue + ".*", "gm");
+        var re = new RegExp("^(\\(?(an|a|to|on)\\)?\\s+)?" + inputValue + ".*", "gm");
         var resultArray = wordArray[symbolIndex].match(re);
         if(resultArray === null) return setError('Няма намерени резултати.');
         return setSearchResult(resultArray.map(parseWord));
