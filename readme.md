@@ -673,7 +673,7 @@ reject | отхвърлям, отказ |
 remote | отдалечен
 remote end | (на) другия край
 (to) render | изграждам |  _'render image' - „изграждане изображение“_
-(a) report | доклад |
+(a) report | [доклад](https://ibl.bas.bg/rbe/lang/bg/%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4/), [отчет](https://ibl.bas.bg/rbe/lang/bg/%D0%BE%D1%82%D1%87%D0%B5%D1%82/) | 
 repository | [хранилище](https://ibl.bas.bg/rbe/lang/bg/%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5/), склад | _най-често за някакъв вид данни или програмен код (git)_
 (a) request | заявка, запитване |
 (to) request | заявявам, викам (жарг.)
