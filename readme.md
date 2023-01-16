@@ -316,6 +316,7 @@ dependency  injection | вмъкване на зависимости |  _или 
 (to) deploy | качвам, занасям (жарг.)
 (a) deployment | въвеждане в производство
 destination | [назначение](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/), крайна цел
+description | описание | _в някои случаи може би и 'надпис'_
 (to) destroy | зачиствам
 detached | разкачен, откачен | _напр. "detached from the DOM tree" - разкачен от DOM дървото_
 (a) deviation | отклонение | _в статистиката и извличането на закономерности от данни_
