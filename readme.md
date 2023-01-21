@@ -573,6 +573,7 @@ numeric | числов
 
 EN  | BG  | Забележка
 --- | --- | ---
+to obfuscate | забулвам, маскирам | _или просто скривам_
 (an) objective | цел
 (an) observable | наблюдаем, проследим
 (an) observer | наблюдател
