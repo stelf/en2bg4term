@@ -326,6 +326,7 @@ detached | разкачен, откачен | _напр. "detached from the DOM 
 digital | цифров
 (to) disable | изключвам, забранявам
 discontinue | [преустановявам](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%80%D0%B5%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%8F%D0%B2%D0%B0%D0%BC/)
+disorder | [безпорядък](http://ibl.bas.bg/rbe/lang/bg/%D0%B1%D0%B5%D0%B7%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D1%8A%D0%BA/), суматоха, бъркотия | _обратното на order сиреч. БАН посочква, че (безпорядък)[https://ru.wiktionary.org/wiki/%D0%B1%D0%B5%D1%81%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA], че е от руски, но в корена си от старославянското *рѧдъ*_
 distributed architecture | разпределена архитектура/структура
 distributed execution | разпределено изпълнение
 (a) divider | разделител
