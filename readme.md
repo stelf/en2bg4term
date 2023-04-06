@@ -455,6 +455,8 @@ inbound | входящ, влизащ
 include | включвам
 incoming | входящ, пристигащ
 incremental | нaрастващ
+informed | известен
+(to) inform | да известя
 initiate | започвам, откривам, въвеждам
 inject | внасям | dependency injection - внасяне на зависимости
 input | вход, въвеждане | _за входни данни_
