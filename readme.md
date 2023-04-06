@@ -275,7 +275,7 @@ coworking space | споделено място за работа | _или до
 crash | провал, срив
 (to) create | създавам
 creation | създаване, творение
-credentials | пълномощия | _но в #53 върви обсъждане и за други предложения, това за сега не е оплюто_
+credentials | пълномощия, данни за достъп | _но в #53 върви обсъждане и за други предложения, това за сега не е [оплюто](http://ibl.bas.bg/rbe/lang/bg/%D0%BE%D0%BF%D0%BB%D1%8E%D0%B2%D0%B0%D0%BC/)_
 (to) crop | [подрязвам](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D0%BE%D0%B4%D1%80%D1%8F%D0%B7%D0%B2%D0%B0%D0%BC/), [обрязвам](https://ibl.bas.bg/rbe/lang/bg/%D0%BE%D0%B1%D1%80%D1%8F%D0%B7%D0%B2%D0%B0%D0%BC/)
 cryptography | тайнопис
 (a) current | (същ). поток
