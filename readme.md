@@ -429,7 +429,7 @@ hash array, hash | асоциативен списък
 hate | злина, омраза | _популярно явление в от социалните мрежи :)_
 hater | [злобар](https://ibl.bas.bg/rbe/lang/bg/%D0%B7%D0%BB%D0%BE%D0%B1%D0%B0%D1%80/) | _заб: злосторник е този, който прави злото, а злобарят просто... си злобее_
 header | заглавна част, заглавно поле | _в контекста на HTTP header_
-header | горен колонтитул(ч) | _макар че [колонтитул](https://ibl.bas.bg/rbe/lang/bg/%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D1%82%D0%B8%D1%82%D1%83%D0%BB/) е чуждица - идва от френското colonne — «стълб» и лат. titulus — «надпис, заглавие». може би сме го прихванали от [_братушките_](https://ru.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D1%82%D0%B8%D1%82%D1%83%D0%BB).
+header | [заглавка](http://ibl.bas.bg/rbe/lang/bg/%D0%B7%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BA%D0%B0/), [колонтитул](https://ibl.bas.bg/rbe/lang/bg/%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D1%82%D0%B8%D1%82%D1%83%D0%BB/)(ч) | _макар че [колонтитул](https://ibl.bas.bg/rbe/lang/bg/%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D1%82%D0%B8%D1%82%D1%83%D0%BB/) е в речника на БАН, то [очевадно чуждица](http://ibl.bas.bg/rbe/lang/bg/%D0%BE%D1%87%D0%B5%D0%B2%D0%B0%D0%B4%D0%BD%D0%BE/) - идва от френското colonne — «стълб» и лат. titulus — «надпис, заглавие». може би сме го прихванали от [_братушките_](https://ru.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D1%82%D0%B8%D1%82%D1%83%D0%BB).
 heading | заглавие
 headquarter(s) | [седалище](https://ibl.bas.bg/rbe/lang/bg/%D1%81%D0%B5%D0%B4%D0%B0%D0%BB%D0%B8%D1%89%D0%B5) | _или щаб-квартира, което... е не една, а цели две чуждици_
 history | история, хронология | като [хронология](https://ibl.bas.bg/rbe/lang/bg/%D1%85%D1%80%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/) очевидно е от гръцки, но БАН го записва в речника.
