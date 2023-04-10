@@ -196,6 +196,7 @@ certificate | [удостоверение](https://ibl.bas.bg/rbe/lang/bg/%D1%83
 (a) chain of events | верига събития
 changelog | дневник на промените
 char, character | знак, символ | _но... символ е от гръцкото σύμβολον_
+chat | [раздумване](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B0%D0%B7%D0%B4%D1%83%D0%BC%D0%B2%D0%B0%D0%BD%D0%B5/), [раздумка](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B0%D0%B7%D0%B4%D1%83%D0%BC%D0%BA%D0%B0/) | става и [лаф](https://ibl.bas.bg/rbe/lang/bg/%D0%BB%D0%B0%D1%84/), предвид, че сигурно е на 1000 години...
 (a) charge | [разноски](http://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D1%81%D0%BA%D0%B8/), разход, задължение | дума "разноска" не се открива в речника на БАН, така че може би е само в множествено число.
 (to) charge | зареждам
 (to) charge | [разходвам](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B0%D0%B7%D1%85%D0%BE%D0%B4%D0%B2%D0%B0%D0%BC/)
