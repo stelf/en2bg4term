@@ -653,6 +653,7 @@ polygon | [многоъгълник](https://ibl.bas.bg/rbe/lang/bg/%D0%BC%D0%BD
 port | гнездо, букса | _@kunev предложи 'муфа', после се навихме и за 'букса', но и двете (трите вкл. 'куплунг') са от немски. та така накрая - 'гнездо' - по идея на @metala_
 (to) post (verb) | изпращам | _напр. "post a pull request" -> „изпращам заявка за сливане“_
 (to) post to | публикувам в, пускам в | _напр 'post message to the group' = „пускам съобщение в групата“_
+preferences | предпочитания
 (a) preview | преглед, (предварителен) изглед
 (to) preview | преглеждам
 pricing | ценообразуване | би ни се искало да има дума _ценоопределяне_, но и според [chitanka](https://rechnik.chitanka.info/w/%D1%86%D0%B5%D0%BD%D0%BE%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F%D0%BD%D0%B5) и [според БАН](https://ibl.bas.bg/rbe/lang/bg/%D1%86%D0%B5%D0%BD%D0%BE%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F%D0%BD%D0%B5/) - такава не е записана. според БАН няма и [ценообразуване](https://ibl.bas.bg/rbe/lang/bg/%D1%86%D0%B5%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D1%83%D0%B2%D0%B0%D0%BD%D0%B5/), но има [ценов](http://ibl.bas.bg/rbe/lang/bg/%D1%86%D0%B5%D0%BD%D0%BE%D0%B2/) и така може би е правилно "ценово образуване", както и в примера "ценова политика".
