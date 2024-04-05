@@ -836,6 +836,7 @@ template | [калъп](https://ibl.bas.bg/rbe/lang/bg/%D0%BA%D0%B0%D0%BB%D1%8A%
 (to) terminate | прекратявам
 terms of service | условия ([за ползване](https://en.wikipedia.org/wiki/Terms_of_service)) на услугата
 test environment | изпитателна среда, учебна установка | тестова е от [английски, латински](https://ru.wiktionary.org/wiki/%D1%82%D0%B5%D1%81%D1%82#%D0%AD%D1%82%D0%B8%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F), както и „пробна“ [от френски, латински](https://ru.wiktionary.org/wiki/%D0%BF%D1%80%D0%BE%D0%B1%D0%B0#%D0%AD%D1%82%D0%B8%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
+(a) tile, tiles | [мозайка](https://ibl.bas.bg/rbe/lang/bg/%D0%BC%D0%BE%D0%B7%D0%B0%D0%B9%D0%BA%D0%B0/), мозайки | _често срещано в картния (картовия) софтуер. например основен формат за пренос на векторни картни данни е map vector tile, който превеждаме като векторна мозайка. самата дума мозайка се оказва с произход от италиянски, но все пак книжовна според БАН_ 
 third party | трета страна
 (a) thread | [нишка](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B8%D1%88%D0%BA%D0%B0/)
 (to) thread | [преда](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%80%D0%B5%D0%B4%D0%B0/) | _букв. превод_
