@@ -225,6 +225,7 @@ clearence | одобрение | _...на операция_
 (to) click | [цъкам](https://ibl.bas.bg/rbe/lang/bg/%D1%86%D1%8A%D0%BA%D0%B0%D0%BC/), натискам, [щракам](http://ibl.bas.bg/rbe/lang/bg/%D1%89%D1%80%D0%B0%D0%BA%D0%B0%D0%BC/) |
 client | купувач, [поръчител](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D0%BE%D1%80%D1%8A%D1%87%D0%B8%D1%82%D0%B5%D0%BB/) | второто е по-скоро преносен смисъл
 clipboard | [планшет](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D0%BB%D0%B0%D0%BD%D1%88%D0%B5%D1%82/)(ч), междинна памет. буфер за обмяна  | _буквално би представлявало дъска с която се захващат бележки, това руснаците му викат [планшет](https://en.wikipedia.org/wiki/Clipboard), но думата е френски. в БГ май няма определена дума за това. clip е нещо, което прикрепя други неща заедно. Понятието "буфер за обмяна" се ползва обикновено в руската литература._
+(a) cluster | [струпване](https://ibl.bas.bg/rbe/lang/bg/%D1%81%D1%82%D1%80%D1%83%D0%BF%D0%B2%D0%B0%D0%BD%D0%B5/), [скупчване](https://ibl.bas.bg/rbe/lang/bg/%D1%81%D0%BA%D1%83%D0%BF%D1%87%D0%B2%D0%B0%D0%BD%D0%B5/), куп |_по определение: a group of similar things or people positioned or occurring closely together.
 coexist | съществувам съвместно, съжителствам | _най-честно за някакви характеристики_
 collaborator | сътрудник, съучастник | _най-вече при съвместна работа по някакво писание (код, текст, и т.н.)_
 collapse | свивам
