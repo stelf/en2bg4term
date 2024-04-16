@@ -601,8 +601,8 @@ nick, nickname | прякор
 night job | нощна работа | _букв._
 (a) node | връх, възел, елемент(ч) | обикновено елемент от мрежова топология
 notebook | тетрадка(ч), тефтер(ч) | _ако някой се чуди защо е включена думата, например защото има понятието *R notebook*_
-notification | известие
-notion | понятие
+notification | известие, [уведомление](https://ibl.bas.bg/rbe/lang/bg/%D1%83%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/) | _може и съобщение, защото е синоним поне в българския_
+notion (of) | понятие, представа (за), разбиране (за) |
 null | [нищожество](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B8%D1%89%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE/), нищожен | понякога свързано с nil от лат nīl, съкращение на nihil, nihilum (“нищо”).
 number | [число](https://ibl.bas.bg/rbe/lang/bg/%D1%87%D0%B8%D1%81%D0%BB%D0%BE/)
 numeric | числов
@@ -845,6 +845,7 @@ task | задача |
 task management | управление на задачи
 teambuilding | [сплотяване](https://ibl.bas.bg/rbe/lang/bg/%D1%81%D0%BF%D0%BB%D0%BE%D1%82%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5/), екипно изграждане, сдружаване | _изграждане на екипно съзнание. екип е от equipe (фр.)_
 template | [калъп](https://ibl.bas.bg/rbe/lang/bg/%D0%BA%D0%B0%D0%BB%D1%8A%D0%BF/)(ч), [заготовка](https://ibl.bas.bg/rbe/lang/bg/%D0%B7%D0%B0%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0/), шаблон(ч) | [Речник](http://rechnik.info/%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD), но заготовка е руска.
+(a) term | понятие | _за тази важна за настоящия проект дума се твърди в единия речник на БАН, че е с произход от рус. понять (разбирам), но в етимологичния речник (пак на БАН и който е с такова качество, че едвам се разчита), на страница [519 долу](https://ibl.bas.bg/lib/ber_5/#page/261/mode/1up) е отбелязално, че в произхода си тази дума е от старобългарски [поѩт](https://histdict.uni-sofia.bg/dictionary/show/d_07068#), което означава 'да уловя'. тоест в руски се е запазило едното спрежение на на глагола (може би помѫ) и се е върнало като 'понятие' в наши дни_.
 (to) terminate | прекратявам
 terms of service | условия ([за ползване](https://en.wikipedia.org/wiki/Terms_of_service)) на услугата
 test environment | изпитателна среда, учебна установка | тестова е от [английски, латински](https://ru.wiktionary.org/wiki/%D1%82%D0%B5%D1%81%D1%82#%D0%AD%D1%82%D0%B8%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F), както и „пробна“ [от френски, латински](https://ru.wiktionary.org/wiki/%D0%BF%D1%80%D0%BE%D0%B1%D0%B0#%D0%AD%D1%82%D0%B8%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
