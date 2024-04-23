@@ -355,6 +355,8 @@ digital | цифров(ч)
 (to) disable | изключвам, забранявам
 discontinue | [преустановявам](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%80%D0%B5%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%8F%D0%B2%D0%B0%D0%BC/)
 disorder | [безпорядък](http://ibl.bas.bg/rbe/lang/bg/%D0%B1%D0%B5%D0%B7%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D1%8A%D0%BA/), суматоха, бъркотия | _обратното на order сиреч. БАН посочква, че (безпорядък)[https://ru.wiktionary.org/wiki/%D0%B1%D0%B5%D1%81%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA], че е от руски, но в корена си от старославянското *рѧдъ*_
+discover | откривам | _може да е за "[откриване на устройство в мрежа](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/device-discovery?view=o365-worldwide)", а може и да е за откритие в науката (което е [различно от invent-изобретявам](https://github.com/stelf/en2bg4term/edit/master/readme.md), въпреки че се дава като синоним)_
+discovery | откритие, откриване | 
 distributed architecture | разпределена архитектура/структура
 distributed execution | разпределено изпълнение
 (a) divider | разделител
@@ -509,7 +511,10 @@ interface | повърхност/точка на взаимодействие | 
 intermediate | междинен, преходен, непосредствен | _примерно: непосредствена стойност на променлива при проследяване на изпълнението_
 interrupt | прекъсване | _буквално в превод и буквално отразява феноменът зад понятието_
 intrusion | проникване, нахлуване, [взлом](https://ibl.bas.bg/rbe/lang/bg/%D0%B2%D0%B7%D0%BB%D0%BE%D0%BC/) | според БАН взлом е от руски.
-inventory | [складова](https://ibl.bas.bg/rbe/lang/bg/%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2/) [наличност](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B0%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82/) | понякога се ползва _инвентар_, но това си съвсем очевАдна чуждица.
+(to) invent | (да) изобретя, изобретявам | _което е [различно от discover-откривам](https://github.com/stelf/en2bg4term/edit/master/readme.md), въпреки че се дава като синоним)_
+invention | изобретение | _етимологият на всички преводи с общ корен е през стар.фр. _invencion_ (13в.) от лат. _inventionem_
+inventor | изобретател | _очевидно от горените в някакъв смисъл, но различно дори етимологично от inventory_
+inventory | [складова](https://ibl.bas.bg/rbe/lang/bg/%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2/) [наличност](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B0%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82/), инвентар (ч) | _инвентар е записан в речника на БАН без пояснения за произход, но е чуждица. от фр. inventoire "detailed list of goods, a catalogue" според [тези](https://www.etymonline.com/word/inventory).
 invoke | призовавам, извиквам, зова
 ip address | мрежови адрес(ч)
 issue | спор, казус(ч) | [Wiki](https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D1%83%D1%81) _често се ползва и ***проблем***_, но и двете са чуждици с произход от латински_
