@@ -583,8 +583,9 @@ mapping | изображение, съпоставяне, отношение | _
 margin | [отстояние](https://ibl.bas.bg/rbe/lang/bg/%D0%BE%D1%82%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5/) | _когато става дума за дизайн_
 margin | горница | _този жаргон е подходящ, когато става дума за търговска система. в литературата се среща и „марж“_
 to mark up | [бележа](https://ibl.bas.bg/rbe/lang/bg/%D0%B1%D0%B5%D0%BB%D0%B5%D0%B6%D0%B0/) | и от тук - markup language - език за отбелязване
-(a) match | съвпадане, [съвпадение](https://ibl.bas.bg/rbe/lang/bg/%D1%81%D1%8A%D0%B2%D0%BF%D0%B0%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/)
-(to) match | съвпадам
+(a) match | [съвпадение](https://ibl.bas.bg/rbe/lang/bg/%D1%81%D1%8A%D0%B2%D0%BF%D0%B0%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/)
+(to) match | съвпадам, съпоставям
+matching | съпоставяне, съвпадане
 (a) measure | измерване, [замерване](https://ibl.bas.bg/rbe/lang/bg/%D0%B7%D0%B0%D0%BC%D0%B5%D1%80%D0%B2%D0%B0%D0%BC/) | _понякога казват „мярка“, което е по-скоро unit. има и [мера](https://ibl.bas.bg/rbe/lang/bg/%D0%BC%D0%B5%D1%80%D0%B0/), което е остаряло, но е свързано с измерване и е според БАН от араб. през тур. mera._
 (to) measure | [измервам](https://ibl.bas.bg/rbe/lang/bg/%D0%B8%D0%B7%D0%BC%D0%B5%D1%80%D0%B2%D0%B0%D0%BC/) | в руски е [измерить](https://ru.wiktionary.org/wiki/%D0%B8%D0%B7%D0%BC%D0%B5%D1%80%D0%B8%D1%82%D1%8C), което е от старослав. мѣра. От там и заглавието на филма на Руси Чанев "Мѣра според мѣра".
 media stream | медиен(ч) поток | _очакваме предложения за превод на media_
