@@ -926,7 +926,8 @@ vague | [смътен](https://ibl.bas.bg/rbe/lang/bg/%D1%81%D0%BC%D1%8A%D1%82%D
 validation | одобрение, потвърждение, утвърждаване | _в предприемачеството по-скоро се има предвид потвърждаване на работна хипотеза. 
 valid | [допустим](https://ibl.bas.bg/rbe/lang/bg/%D0%B4%D0%BE%D0%BF%D1%83%D1%81%D1%82%D0%B8%D0%BC/), одобрен, правилен | разбира се, БАН са записали и [валиден](https://ibl.bas.bg/rbe/lang/bg/%D0%B2%D0%B0%D0%BB%D0%B8%D0%B4%D0%B5%D0%BD/)
 value | стойност, [величина](https://ibl.bas.bg/rbe/lang/bg/%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B8%D0%BD%D0%B0/)
-var, variable | променлива
+var, variable | [променлива](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%80%D0%BE%D0%BC%D0%B5%D0%BD%D0%BB%D0%B8%D0%B2%D0%B0/) величина | _възприета и като съществително, така и като прилагателно за variable length - променлива дължина, променлив размер_
+variant, variety | [разновидност](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%BE%D1%81%D1%82/), разнообразие | написани са заедно, защото и variant и variety могат да означават разновидност (на нещо), но разнообразие е по-скоро variety_
 vendor | [доставчик](https://ibl.bas.bg/rbe/lang/bg/%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%87%D0%B8%D0%BA/), [снабдител](https://ibl.bas.bg/rbe/lang/bg/%D1%81%D0%BD%D0%B0%D0%B1%D0%B4%D0%B8%D1%82%D0%B5%D0%BB/)
 verbose | [многословен](https://ibl.bas.bg/rbe/lang/bg/%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD/)
 vertex | връх | [Wiki](https://en.wikipedia.org/wiki/Vertex_(geometry)) | _различно от vortex! понякога се бърка с virtex, което е друго_
