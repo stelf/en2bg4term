@@ -502,6 +502,9 @@ inbound | входящ, влизащ | _а може би и нахлуващ. и
 include | включвам
 incoming | входящ, пристигащ
 incremental | нaрастващ
+infinite | безчет, безкрай 
+infinite number | безкрайно число, безчет на брой 
+infinity | безкрайност
 index | [указател](https://ibl.bas.bg/rbe/lang/bg/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB/), показалец | _едно време имаше нещо наречено телефонен указател с всякакви номера на потребители на телефонни услуги в определена [подредба](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D0%BE%D0%B4%D1%80%D0%B5%D0%B4%D0%B1%D0%B0/)_
 inflate | раздувам, надувам, разпъвам  | _поняетието се използва при разпъване съдържанието на архив (примерно ZIP). обратното на [Deflate](https://en.wikipedia.org/wiki/Deflate), на което е кръстен и едноименния алгоритъм_ 
 informed | известен, обоснован | _to take informed decision - да взема обосновано решение. be informed that - бъдете известени, че..._
@@ -629,7 +632,7 @@ notebook | тетрадка(ч), тефтер(ч) | _ако някой се чу
 notification | известие, [уведомление](https://ibl.bas.bg/rbe/lang/bg/%D1%83%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/) | _може и съобщение, защото е синоним поне в българския_
 notion (of) | понятие, представа (за), разбиране (за) |
 null | [нищожество](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B8%D1%89%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE/), нищожен | понякога свързано с nil от лат nīl, съкращение на nihil, nihilum (“нищо”).
-number | [число](https://ibl.bas.bg/rbe/lang/bg/%D1%87%D0%B8%D1%81%D0%BB%D0%BE/)
+number | [число](https://ibl.bas.bg/rbe/lang/bg/%D1%87%D0%B8%D1%81%D0%BB%D0%BE/) | _повече по темата за общия корен [на число и чета от БАН.](https://ibl.bas.bg/ezikovi_spravki/za-obshtiya-koren-na-dumite-tcheta-potchit-i-tchislo/) препоръчително._
 numeric | числов
 
 ### O
