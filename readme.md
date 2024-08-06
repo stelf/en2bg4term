@@ -958,6 +958,8 @@ EN  | BG  | Забележка
 (to) walk | обхождам | _примерно обхождам върховете на граф или листата на дървовидна структура_.
 (a) walk of | обход (на)
 warranty | гаранция(ч), уверение, поръчителство | обещание, че дадена услуга ще отговаря на дадени изискванията. | https://rbe.chitanka.info/?q=%D0%93%D0%90%D0%A0%D0%90%D0%9D%D0%A6%D0%98%D0%AF
+(a) weight | тегло, тежест, [тежина](https://ibl.bas.bg/rbe/lang/bg/%D1%82%D0%B5%D0%B6%D0%B8%D0%BD%D0%B0/), маса | _в някой случай може да се преведе и като товар, макар че по-точната дума е loаd. напр. невронната мрежа е определена от [теглата си](https://en.wikipedia.org/wiki/Weighting)_
+(to) weight | претеглям, преценям
 widget | [заврънгачка](https://ibl.bas.bg/rbe/lang/bg/%D0%B7%D0%B0%D0%B2%D1%80%D1%8A%D0%BD%D0%B3%D0%B0%D1%87%D0%BA%D0%B0/)/[заврънкулка](https://ibl.bas.bg/rbe/lang/bg/%D0%B7%D0%B0%D0%B2%D1%80%D1%8A%D0%BD%D0%BA%D1%83%D0%BB%D0%BA%D0%B0/), [джаджа](https://ibl.bas.bg/rbe/lang/bg/%D0%B4%D0%B6%D0%B0%D0%B4%D0%B6%D0%B0/)(ч)/[джунджурия](https://ibl.bas.bg/rbe/lang/bg/%D0%B4%D0%B6%D1%83%D0%BD%D0%B4%D0%B6%D1%83%D1%80%D0%B8%D1%8F/)(ч) | _заб: жаргон_
 winding order | посока на въртене, посока на навиване | _The order of a triangle's vertices is called the winding order._
 window | прозорец
