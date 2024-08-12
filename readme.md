@@ -529,7 +529,7 @@ inspect | преглеждам, изследвам
 (an) installation | [установка](https://ibl.bas.bg/rbe/lang/bg/%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0/), постановка | предвид, че stall e 'спирам' и install е 'поставям'
 instant | незабавен, неотложен
 instruction set | набор инструкции(ч)
-intangible | [неосезаем](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B5%D0%BE%D1%81%D0%B5%D0%B7%D0%B0%D0%B5%D0%BC/) | _среща се като терминология в ITIL_
+intangible | [неосезаем](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B5%D0%BE%D1%81%D0%B5%D0%B7%D0%B0%D0%B5%D0%BC/), [нематериален](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B5%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%B5%D0%BD/) | _среща се като терминология в ITIL. според речник на [Кеймбридж](https://dictionary.cambridge.org/dictionary/english/intangible) думата се отнася до нещо, което не може да бъде пипнато, описано точно или зададено с определена стойност_
 integer | целочислен | [Wiki](https://bg.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BB%D0%BE%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8_%D1%82%D0%B8%D0%BF%D0%BE%D0%B2%D0%B5_%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8), макар тази дума БАНския речник да [не я открива](https://ibl.bas.bg/rbe/lang/bg/%D1%86%D0%B5%D0%BB%D0%BE%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD/)_
 integral part | неразделима част
 integrate | съставям, обединявам
@@ -541,12 +541,12 @@ intrusion | проникване, нахлуване, [взлом](https://ibl.b
 (to) invent | (да) изобретя, изобретявам | _което е [различно от discover-откривам](https://github.com/stelf/en2bg4term/edit/master/readme.md), въпреки че се дава като синоним)_
 invention | изобретение | _етимологият на всички преводи с общ корен е през стар.фр. _invencion_ (13в.) от лат. _inventionem_
 inventor | изобретател | _очевидно от горените в някакъв смисъл, но различно дори етимологично от inventory_
-inventory | [складова](https://ibl.bas.bg/rbe/lang/bg/%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2/) [наличност](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B0%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82/), инвентар (ч) | _инвентар е записан в речника на БАН без пояснения за произход, но е чуждица. от фр. inventoire "detailed list of goods, a catalogue" според [тези](https://www.etymonline.com/word/inventory).
+inventory | [складова](https://ibl.bas.bg/rbe/lang/bg/%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2/) [наличност](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B0%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82/), инвентар (ч) | _инвентар е записан в речника на БАН без пояснения за произход, но е чуждица. от фр. inventoire "detailed list of goods, a catalogue" според [тези](https://www.etymonline.com/word/inventory)._
 invoke | призовавам, извиквам, зова
 ip address | мрежови адрес(ч)
 isosceles | [равнобедрен](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B0%D0%B2%D0%BD%D0%BE%D0%B1%D0%B5%D0%B4%D1%80%D0%B5%D0%BD/) | _това е важно да го знаем, защото се отнася най-често до [равнобедрения триъгълник](https://en.wikipedia.org/wiki/Isosceles_triangle). любопитно е, че думата [бедра](https://histdict.uni-sofia.bg/oldbgdict/oldbg_show/d_00303/) е старобългарска, според историческия речник на СУ от 2011._
-issue | спор, казус(ч) | [Wiki](https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D1%83%D1%81) _често се ползва и ***проблем***_, но и двете са чуждици с произход от латински_
-item | вещ, артикул(ч) | заб: _артикул е oт лат. articulus ‘част; става’ през рус. артикул. и още [Тълковен Речник](http://talkoven.onlinerechnik.com/duma/%D0%B2%D0%B5%D1%89), но и в )[речник на БАН](https://ibl.bas.bg/rbe/lang/bg/%D0%B0%D1%80%D1%82%D0%B8%D0%BA%D1%83%D0%BB/)
+issue | спор, казус(ч) | [Wiki](https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D1%83%D1%81) _често се ползва и ***проблем***, но и двете са чуждици с произход от латински_
+item | вещ, артикул(ч) | заб: _артикул е oт лат. articulus ‘част; става’ през рус. артикул. и още [Тълковен Речник](http://talkoven.onlinerechnik.com/duma/%D0%B2%D0%B5%D1%89), но и в )[речник на БАН](https://ibl.bas.bg/rbe/lang/bg/%D0%B0%D1%80%D1%82%D0%B8%D0%BA%D1%83%D0%BB/)_
 ### J
 
 EN  | BG  | Забележка
