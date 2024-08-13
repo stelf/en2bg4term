@@ -649,7 +649,7 @@ notification | известие, [уведомление](https://ibl.bas.bg/rbe
 notion (of) | понятие, представа (за), разбиране (за) |
 null | [нищожество](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B8%D1%89%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE/), нищожен | понякога свързано с nil от лат nīl, съкращение на nihil, nihilum (“нищо”).
 number | [число](https://ibl.bas.bg/rbe/lang/bg/%D1%87%D0%B8%D1%81%D0%BB%D0%BE/) | _повече по темата за общия корен [на число и чета от БАН.](https://ibl.bas.bg/ezikovi_spravki/za-obshtiya-koren-na-dumite-tcheta-potchit-i-tchislo/) препоръчително._
-numeric | числов
+numeric | [числен](https://ibl.bas.bg/rbe/lang/bg/%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD/), [числов](https://ibl.bas.bg/rbe/lang/bg/%D1%87%D0%B8%D1%81%D0%BB%D0%BE%D0%B2/) | _заб: числов не присъства в РБЕ речника на бан, а в другия [тук Ч няма](https://ibl.bas.bg/ber/), но пък го има в [PONS](https://bg.pons.com/%D0%BF%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B8-%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8/%D1%87%D0%B8%D1%81%D0%BB%D0%BE%D0%B2). За сметка на това има [сльнъ](https://histdict.uni-sofia.bg/oldbgdict/oldbg_show/d_10760/) (числен) в старобългарския речник на СУ. 
 
 ### O
 
