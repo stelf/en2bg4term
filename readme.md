@@ -370,6 +370,9 @@ detached | разкачен, откачен | _напр. "detached from the DOM 
 dimensionality | [размерност](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82/) | 
 (a) digit | [цифра](https://ibl.bas.bg/rbe/lang/bg/%D1%86%D0%B8%D1%84%D1%80%D0%B0/)(ч) | _любопитно е, че всъщност произлиза от от ср.-лат. cifra и по-натам от арабск. صفر (ṣifr) «празен, нула»; сродна е и с „шифър“ :)_
 digital | цифров(ч)
+direct | [пряк](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%80%D1%8F%D0%BA/) | direct call - пряко извикване
+directed | насочен | _"...е прието да се наричат ребра или още ръбове на графа, а той от своя страна – неориентиран (ненасочен) граф. Когато тези двойки са наредени, елементите на Е се наричат дъги, а графът G – ориентиран (насочен) граф..."_
+directions | насоки, упътвания
 (to) disable | изключвам, забранявам
 discontinue | [преустановявам](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%80%D0%B5%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%8F%D0%B2%D0%B0%D0%BC/)
 disorder | [безпорядък](http://ibl.bas.bg/rbe/lang/bg/%D0%B1%D0%B5%D0%B7%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D1%8A%D0%BA/), суматоха, бъркотия | _обратното на order сиреч. БАН посочква, че (безпорядък)[https://ru.wiktionary.org/wiki/%D0%B1%D0%B5%D1%81%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA], че е от руски, но в корена си от старославянското *рѧдъ*_
@@ -515,6 +518,7 @@ inbound | входящ, влизащ | _а може би и нахлуващ. и
 include | включвам
 incoming | входящ, пристигащ
 incremental | нaрастващ
+indirect | [непряк](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B5%D0%BF%D1%80%D1%8F%D0%BA/)
 infinite | безкраен 
 infinite number | безкрайно число, безчет на брой 
 infinity | безкрайност, безкрай
