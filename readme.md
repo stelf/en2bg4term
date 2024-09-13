@@ -600,7 +600,7 @@ list | списък, изброявам
 listen on port | слушам на порт(ч) | _например за мрежови приложения, които „слушат“ за входящи връзки_
 (a) load | товар, зареждане
 (to) load | зареждам, товаря
-location | местонахождение | и както можеше да се очаква [според БАН](https://ibl.bas.bg/rbe/lang/bg/%D0%BC%D0%B5%D1%81%D1%82%D0%BE%D0%BD%D0%B0%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/) е от руски, но според братушките от старосл.: *město + *na + *hoďenьje
+location | местоположение, местонахождение(ч) | както можеше да се очаква [според БАН](https://ibl.bas.bg/rbe/lang/bg/%D0%BC%D0%B5%D1%81%D1%82%D0%BE%D0%BD%D0%B0%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/) е от руски, но според братушките е от старосл.: *město + *na + *hoďenьje. в руската википедия [нахождение](https://ru.wiktionary.org/wiki/%D0%BD%D0%B0%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5) е с някакъв неясен произход, много удобно. Обаче от СУ са записали [хождень](https://histdict.uni-sofia.bg/oldbgdict/oldbg_show/d_10555/) и глагола [ходт -хождѫ -ходш](https://histdict.uni-sofia.bg/oldbgdict/oldbg_show/d_10552/) в старобългарският си речник, та е малко спорно. 
 local | местен, [тукашен](https://ibl.bas.bg/rbe/lang/bg/%D1%82%D1%83%D0%BA%D0%B0%D1%88%D0%B5%D0%BD/)
 (to) lock | [заключвам](https://ibl.bas.bg/rbe/lang/bg/%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B2%D0%B0%D0%BC)
 (a) lock | ключалка
