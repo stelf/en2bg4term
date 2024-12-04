@@ -1040,6 +1040,11 @@ EN  | BG  | Забележка
 (to) walk | обхождам | _примерно обхождам върховете на граф или листата на дървовидна структура_.
 (a) walk of | обход (на)
 warranty | гаранция(ч), уверение, поръчителство | обещание, че дадена услуга ще отговаря на дадени изискванията. | https://rbe.chitanka.info/?q=%D0%93%D0%90%D0%A0%D0%90%D0%9D%D0%A6%D0%98%D0%AF
+[watermark](https://en.wikipedia.org/wiki/Watermark) | [воден знак](https://bg.wikipedia.org/wiki/%D0%92%D0%BE%D0%B4%D0%B5%D0%BD_%D0%B7%D0%BD%D0%B0%D0%BA)
+[wavelength](https://en.wikipedia.org/wiki/Wavelength) | [дължина на вълната](https://bg.wikipedia.org/wiki/%D0%94%D1%8A%D0%BB%D0%B6%D0%B8%D0%BD%D0%B0_%D0%BD%D0%B0_%D0%B2%D1%8A%D0%BB%D0%BD%D0%B0%D1%82%D0%B0)
+[wave](https://en.wikipedia.org/wiki/Wave) | вълна
+[waveform](https://en.wikipedia.org/wiki/Waveform) | вид/форма на вълната | 
+[wearable](https://en.wikipedia.org/wiki/Wearable_technology) | преносим(а) (технология) | _в ИТ смисъл обикновено обозначава у-во, което може да бъде носено/пренасяно или е част от дрехата_
 (a) weight | тегло, тежест, [тежина](https://ibl.bas.bg/rbe/lang/bg/%D1%82%D0%B5%D0%B6%D0%B8%D0%BD%D0%B0/), маса | _в някой случай може да се преведе и като товар, макар че по-точната дума е loаd. напр. невронната мрежа е определена от [теглата си](https://en.wikipedia.org/wiki/Weighting)_
 (to) weight | претеглям, преценям
 wide | широк | _което идва от тази добра [старобългарска дума 'шрокъ'](https://histdict.uni-sofia.bg/oldbgdict/oldbg_show/d_10645/) .
@@ -1050,10 +1055,13 @@ wire | жица, [влакно](https://ibl.bas.bg/rbe/lang/bg/%D0%B2%D0%BB%D0%B
 wireless | [безжичен](https://ibl.bas.bg/rbe/lang/bg/%D0%B1%D0%B5%D0%B7%D0%B6%D0%B8%D1%87%D0%B5%D0%BD/)
 work from home (WFH) | работа от (в)къщи, работа от дома (РОД, РОВ или дори РОК) | _забелязано от К.Ангелов_
 workgroup | работна група, бригада(ч) | _добавих го за радост на всички, които стигнаха чак до тази буква :)_
+workload | [натоварване](https://en.wikipedia.org/wiki/Workload)
 worksheet | лист, страница, чернова | _чернова - защото е в превод буквално - работен лист. но в повечето случаи, особено при електронните таблици тип Excel, се има предвид отделен страница от обща папка с виртуални листа, в която е описана таблицата_
 workshop | работилница
+workstation | работна станция (ч)
 world wide web | световна мрежa | _уточнено в #50. може би най-точно е световна широка мрежа, но никой не му вика СШМ_
 worm | червей | _злонамерена програма, разпространяваща се чрез е-поща_.
+wrapper | обвивка
 
 ### Y
 
