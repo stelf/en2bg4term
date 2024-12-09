@@ -499,6 +499,7 @@ generalization | обобщаване
 generic | общ, общоприет | _в смисъла на стандартен или обобщаващ, общ подход_
 (a) goal | цел
 (a/the) [gist](https://www.merriam-webster.com/dictionary/gist) | същност, съществено, есенция (ч) | _ако някога сте се чудили защо има gist.github.com, това е отговорът. за кратки записки с най-същественото от дадена тема_ 
+(the) go to (something) | обичаен, предпочитан | _израз (идиом), който се използва в изказвания като "This program is the go-to solution for photo editing.", в превод "Тази програма е обичайното/предпочитано решение за обработване на снимки"_
 governance | водене, управление
 greedy | [алчен](https://ibl.bas.bg/rbe/lang/bg/%D0%B0%D0%BB%D1%87%D0%B5%D0%BD/)
 (a) guide | ръководство, [упътване](https://ibl.bas.bg/rbe/lang/bg/%D1%83%D0%BF%D1%8A%D1%82%D0%B2%D0%B0%D0%BD%D0%B5/)
