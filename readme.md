@@ -434,6 +434,7 @@ encryption | тайнопис, тайнописане | _според [chitanka.
 enforce | налагам, привеждам в действие.
 (to) engineer | _глася, строя, сглабям_ | _според контекста се избира подходящото_
 enterprise | [предприятие](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5/) | _[виж тука](https://translate.google.com/#view=home&op=translate&sl=en&tl=bg&text=the%20enterprise)_
+entanglement | оплитане, преплитане, заплитане, обвързаност | _naprimer в смисъла на [квантово заплитане](https://bg.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%BE_%D0%B7%D0%B0%D0%BF%D0%BB%D0%B8%D1%82%D0%B0%D0%BD%D0%B5)_
 entry | запис, елемент(ч) | _като 'data entry' - запис данни или дори само запис_
 entry point | входна точка | _примерно main() е входна точка на програмите на C++_
 environment | среда, обкръжение
