@@ -689,6 +689,7 @@ mouse drag | [провлачване](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%8
 (to) move | местя, да преместя | _предвид, че има команда mv, за която е важно да знаем, че мести някои неща..._
 (a) move | ход, движение |
 multiple | множествен, многократен
+multidimensional, multi-dimensional | [многомерен](https://ibl.bas.bg/rbe/lang/bg/%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%BC%D0%B5%D1%80%D0%B5%D0%BD/) | _като имате предвид, че коренът и произходът е [мѣра](https://histdict.uni-sofia.bg/oldbgdict/oldbg_show/d_04688/) и [мѣрт -мѣрѭ -мѣрш ](https://histdict.uni-sofia.bg/oldbgdict/oldbg_show/d_04690/)_
 (to) mute | заглушавам, глъхна | _най-често звука на компютъра_
 mutex | ключалка | _дежурен превод, но търсим по-добър. до тогава всички ни се смеят на напъна :P_
 
