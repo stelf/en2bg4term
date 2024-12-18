@@ -388,7 +388,7 @@ detached | разкачен, откачен | _напр. "detached from the DOM 
 (a) deviation | отклонение | _в статистиката и извличането на закономерности от данни_
 (a) device | устройство
 (a) dimension | измерение | _БГ википедия му вика _размерност_, но според това [обяснение](https://english.stackexchange.com/questions/226061/what-is-the-difference-between-dimension-dimensional-and-dimensionality) изглежда да не е практически вярно, защото dimension е букв. измерение, dimension*al* е нещо, което може да има измерение, а dimension*ality* е нещо, което има изброима характеристика за измерения, т.е. има повече от едно измерение и е n-мерно._
-dimensionality | [размерност](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82/) | 
+dimensionality | [размерност](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82/) | _произход от раз + старобългарското [мѣра](https://histdict.uni-sofia.bg/oldbgdict/oldbg_show/d_04688/)_
 (a) digit | [цифра](https://ibl.bas.bg/rbe/lang/bg/%D1%86%D0%B8%D1%84%D1%80%D0%B0/)(ч) | _любопитно е, че всъщност произлиза от от ср.-лат. cifra и по-натам от арабск. صفر (ṣifr) «празен, нула»; сродна е и с „шифър“ :)_
 digital | цифров(ч)
 direct | [пряк](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%80%D1%8F%D0%BA/) | direct call - пряко извикване
