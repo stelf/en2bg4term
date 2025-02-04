@@ -600,7 +600,7 @@ ignorant | невеж, [невежа](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B
 (to) ignore | [пренебрегвам](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%80%D0%B5%D0%BD%D0%B5%D0%B1%D1%80%D0%B5%D0%B3%D0%B2%D0%B0%D0%BC/) | _разбира се, БАН са записали и [игнорирам](https://ibl.bas.bg/rbe/lang/bg/%D0%B8%D0%B3%D0%BD%D0%BE%D1%80%D0%B8%D1%80%D0%B0%D0%BC/) от латински, което е обяснено с 'пренебрагвам'_
 image | изображение, картина(ч) | _макар картина да е букв. превод на picture_
 immediate | пряк, непосредствен, незабавен, отма/одмах (нареч.) | напр. _immediate environment - пряко обкръжение. за отма виж тълковен речник, том iv, стр. 965._
-impact | влияние, въздействие
+impact | отражение, влияние, въздействие
 implementation | изпълнение, изработка, реализация(ч), прилагане | _по-често се ползва реализация, ама това си е чуждица и точният превод е с изпълнение (на задание, обкет от шаблон и т.н.)_
 import | [внос](https://ibl.bas.bg/rbe/lang/bg/%D0%B2%D0%BD%D0%BE%D1%81/), [внасяне](https://ibl.bas.bg/rbe/lang/bg/%D0%B2%D0%BD%D0%B0%D1%81%D1%8F%D0%BD%D0%B5/), [привнасяне](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%80%D0%B8%D0%B2%D0%BD%D0%B0%D1%81%D1%8F%D0%BD%D0%B5/) | _...на данни. но спокойно можем да кажем "наливаме данните в системата", въпреки че по-рядко ще срещнем израз 'inbound dataflow'._
 imported | внесен, [привнесен](https://rechnik.chitanka.info/w/%D0%BF%D1%80%D0%B8%D0%B2%D0%BD%D0%B5%D1%81%D0%B5%D0%BD), [присъединен](https://rechnik.chitanka.info/w/%D0%BF%D1%80%D0%B8%D1%81%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD) | _"...в пространството на имената" например._
@@ -872,6 +872,7 @@ publish | издавам, [оповествявам](https://ibl.bas.bg/rbe/lang
 EN  | BG  | Забележка
 --- | --- | ---
 quantifier | [числител](https://ibl.bas.bg/rbe/lang/bg/%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB/)
+quantitative | количествен, измерим | _в смисъла на 'измерими показатели' или 'количествени резултати' или '[количествени изследвания](https://en.wikipedia.org/wiki/Quantitative_research)'_
 (a) query | заявка, запитване | _обикновено заявка към някаква сървърна система_
 (to) query | запитвам, заявявам
 (a) queue | опашка | (абстрактен тип данни)[https://en.wikipedia.org/wiki/Queue_(abstract_data_type)]
