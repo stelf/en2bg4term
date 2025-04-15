@@ -1052,7 +1052,7 @@
 
 *   **deep learning** (обучение на многослойни невронни мрежи)
     *   EN: *Deep learning* is a subfield of machine learning.
-    *   BG: *Обучението на многослойни невронни мрежи* е подполе на машинното самообучение.
+    *   BG: *Обучението на многослойни невронни мрежи* е подобласт на машинното самообучение.
 
 *   **deep network** (многослойна невронна мрежа)
     *   EN: This task requires a *deep network* architecture.
@@ -1060,7 +1060,7 @@
 
 *   **defacing** (обезличаване)
     *   EN: Website *defacing* is a common type of cyber attack.
-    *   BG: *Обезличаването* на уебсайтове е често срещан тип кибератака.
+    *   BG: *Обезобразяване* на уебсайтове е често срещан тип кибератака.
 
 *   **default** (по подразбиране)
     *   EN: Use the *default* settings if you are unsure.
@@ -1070,22 +1070,22 @@
     *   EN: The *default value* for this field is zero.
     *   BG: *Стойността по подразбиране* за това поле е нула.
 
-*   **deferral** (отлагане)
+*   **deferral** (отсрочка)
     *   EN: Request a *deferral* of the payment deadline.
-    *   BG: Поискайте *отлагане* на крайния срок за плащане.
+    *   BG: Поискайте *отсрочка* на крайния срок за плащане.
 
 *   **deferred** (отложен)
-    *   EN: The execution of this task is *deferred* until resources are available.
-    *   BG: Изпълнението на тази задача е *отложено*, докато ресурсите станат налични.
+    *   EN: The execution of this task is *deferred* until resources are available again.
+    *   BG: Изпълнението на тази задача е *отложено*, докато ресурсите (не) станат отново налични.
 
 *   **(to) deflate** (спихвам)
     *   EN: Use this library *to deflate* the compressed data stream.
     *   BG: Използвайте тази библиотека, за *да спихнете* компресирания поток от данни.
 
 *   **degree** (степен)
-    *   EN: The node has a *degree* of 3 in the graph.
-    *   BG: Върхът има *степен* 3 в графа.
-
+    *   EN: The polynomial equation is of the third *degree*.
+    *   BG: Полиномиалното уравнение е от трета *степен*.
+    *   
 *   **(a) delay** (закъснение)
     *   EN: Network latency introduced a noticeable *delay*.
     *   BG: Мрежовото забавяне въведе забележимо *закъснение*.
@@ -1108,11 +1108,11 @@
 
 *   **delivery** (доставка)
     *   EN: Ensure timely *delivery* of the software update.
-    *   BG: Осигурете навременна *доставка* на софтуерното обновление.
+    *   BG: Осигурете навременна *доставка* на софтуерното обновление. 
 
-*   **demand** (търсене)
+*   **demand** (търсене на, нужда от)
     *   EN: There is high *demand* for skilled software engineers.
-    *   BG: Има голямо *търсене* на квалифицирани софтуерни инженери.
+    *   BG: Има голямо *търсене на/нужда от* умели/сръчни софтуерни инженери.
 
 *   **demo, demonstration** (показно)
     *   EN: Let's schedule a *demo* of the new features.
@@ -1120,23 +1120,23 @@
 
 *   **denial** (отказ)
     *   EN: A *denial* of service attack overloaded the server.
-    *   BG: Атака тип *отказ* на услуга претовари сървъра.
+    *   BG: Атака от вида *отказ* на услуга претовари сървъра.
 
 *   **dense** (гъст)
     *   EN: The connections in this part of the network are very *dense*.
-    *   BG: Връзките в тази част на мрежата са много *гъсти*.
+    *   BG: Връзките в тази част на мрежата са много *на гъсто/гъсти*.
 
 *   **density** (плътност)
     *   EN: Calculate the *density* of the data points in the cluster.
     *   BG: Изчислете *плътността* на точките от данни в струпването.
 
 *   **densification** (уплътняване)
-    *   EN: Network *densification* aims to improve coverage.
-    *   BG: *Уплътняването* на мрежата цели подобряване на покритието.
+    *   EN: Transmission network *densification* aims to improve coverage.
+    *   BG: *Уплътняването* на преносната мрежа цели подобряване на покритието.
 
 *   **department** (звено)
-    *   EN: Contact the IT *department* for technical support.
-    *   BG: Свържете се с ИТ *звеното* за техническа поддръжка.
+    *   EN: Contact the  *department* for technical support.
+    *   BG: Свържете се с *звеното* за техническа поддръжка.
 
 *   **(a) dependency** (зависимост)
     *   EN: The project has an external library *dependency*.
@@ -1152,7 +1152,7 @@
 
 *   **(a) deployment** (въвеждане в производство)
     *   EN: The *deployment* process was successful.
-    *   BG: Процесът на *въвеждане в производство* беше успешен.
+    *   BG: Процесът на *въвеждане в производство* бе успешен.
 
 *   **deprecated** (остарял)
     *   EN: This function is *deprecated* and will be removed soon.
@@ -1164,11 +1164,11 @@
 
 *   **depth first search** (търсене в дълбочина)
     *   EN: *Depth first search* explores as far as possible along each branch before backtracking.
-    *   BG: *Търсенето в дълбочина* изследва възможно най-далеч по всяко разклонение преди връщане назад.
+    *   BG: *Търсенето в дълбочина* изследва докрай всяко разклонение преди връщане назад.
 
-*   **designate** (обозначавам)
+*   **designate** (обозначавам, определям)
     *   EN: *Designate* one server as the primary node.
-    *   BG: *Обозначете* един сървър като основен възел.
+    *   BG: *Определете* един сървър като първичен/основен възел.
 
 *   **destination** (назначение)
     *   EN: Specify the *destination* folder for the copied files.
@@ -1176,19 +1176,19 @@
 
 *   **descent** (спускане)
     *   EN: Gradient *descent* is used to minimize the error function.
-    *   BG: Градиентното *спускане* се използва за минимизиране на функцията на грешката.
+    *   BG: Градиентното *спускане* се използва за минимизиране функцията на грешката.
 
 *   **description** (описание)
-    *   EN: Add a brief *description* of the function's purpose.
-    *   BG: Добавете кратко *описание* на предназначението на функцията.
+    *   EN: Add a brief *description* of the program's purpose.
+    *   BG: Добавете кратко *описание* на предназначението на програмата.
 
 *   **(to) destroy** (унищожавам)
     *   EN: Call this method *to destroy* the object and free memory.
     *   BG: Извикайте този метод, за *да унищожите* обекта и да освободите памет.
 
-*   **detached** (откачен)
+*   **detached** (разкачен)
     *   EN: The process is running in a *detached* screen session.
-    *   BG: Процесът се изпълнява в *откачена* екранна сесия.
+    *   BG: Процесът се изпълнява в *разкачен* екранна сесия.
 
 *   **(a) deviation** (отклонение)
     *   EN: Calculate the standard *deviation* of the results.
@@ -1200,19 +1200,19 @@
 
 *   **(a) dimension** (измерение)
     *   EN: The data has a high *dimension*.
-    *   BG: Данните имат голямо *измерение*.
+    *   BG: Данните са многомерни (имат висока *размерност*).
 
 *   **dimensionality** (размерност)
     *   EN: Reduce the *dimensionality* of the feature space.
-    *   BG: Намалете *размерността* на пространството от характеристики.
+    *   BG: Намалете *размерността* на пространството на характеристиките.
 
 *   **(a) digit** (цифра)
     *   EN: The code must contain at least one *digit*.
     *   BG: Кодът трябва да съдържа поне една *цифра*.
 
 *   **digital** (цифров)
-    *   EN: We are moving towards *digital* transformation.
-    *   BG: Движим се към *цифрова* трансформация.
+    *   EN: The company is investing in *digital* solutions.
+    *   BG: Компанията инвестира в *цифрови* решения.
 
 *   **direct** (пряк)
     *   EN: Establish a *direct* connection to the server.
@@ -1232,7 +1232,7 @@
 
 *   **(to) disable** (изключвам)
     *   EN: You can *disable* notifications in the settings.
-    *   BG: Можете да *изключите* известията в настройките.
+    *   BG: Можете да *изключите* известията през настройките.
 
 *   **discontinue** (преустановявам)
     *   EN: The company decided to *discontinue* the product.
