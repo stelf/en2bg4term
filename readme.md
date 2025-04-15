@@ -240,7 +240,7 @@ built-in | [вграден](https://ibl.bas.bg/rbe/lang/bg/%D0%B2%D0%B3%D1%80%D0
 bullet, bullet point | водещ знак, точка (разг.) | това - • - макар че буквално означава куршум. на френски го превеждат la balle, което е „малко топче“ най-общо казано. може би също „кръгче“, а ние разговорно казваме „да караме по точките“, което отразява видимото представяне на знака.
 bump map | карта(ч) на неравностите | _понятие от областта на комп.графика и по-точно изграждането на 3д изображения_
 (a) bundle | [вързоп](https://ibl.bas.bg/rbe/lang/bg/%D0%B2%D1%8A%D1%80%D0%B7%D0%BE%D0%BF/), пакет(ч) | _заб: пакет също е чуждица, но вече възприета в книжовния български_
-(to) bundle | [привързвам](http://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%80%D0%B8%D0%B2%D1%8A%D1%80%D0%B7%D0%B2%D0%B0%D0%BC/), [навързвам](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B0%D0%B2%D1%8A%D1%80%D0%B7%D0%B2%D0%B0%D0%BC/), връзвам
+(to) bundle | [привързвам](http://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%80%D0%B8%D0%B2%D1%8A%D1%80%D0%B7%D0%B2%D0%B0%D0%BC/), [навързвам](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B0%D0%B2%D1%8A%D1%80%D0%B7%D0%B2%D0%B0%D0%BC/), връзвам, [везвам/вежа](https://ibl.bas.bg/rbe/lang/bg/%D0%B2%D0%B5%D0%B7%D0%B2%D0%B0%D0%BC/) | _за 'навързвам' БАН твърди, че бил от руски, ама [руската етимопедия](https://ru.wiktionary.org/wiki/%D0%BD%D0%B0%D0%B2%D1%8F%D0%B7%D1%8B%D0%B2%D0%B0%D1%82%D1%8C#%D0%AD%D1%82%D0%B8%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F) си казва, че е от старосл. [вѧꙁат](https://histdict.uni-sofia.bg/oldbgdict/oldbg_show/d_01724/), което откриваме в старобългарския речник на СУ. Оставяме сами да проверите и прецените кое от къде може да е... Впрочем сигурно сте чували за бабите, които са "[везали](https://ibl.bas.bg/rbe/lang/bg/%D0%B2%D0%B5%D0%B6%D0%B0/)" сушени листа тютюн_
 (a) burnout | прегаряне, "пламна ми главата" | _първото някак е по-възприето като идиом и е близко до идеята и дори усешането за възпаление (inflammation - в пламъци). можем да срещнем и "изтрещяване", "изпращяване" в преносен, различен от БАН-ския, смисъл в разговорния език_
 [bus](https://en.wikipedia.org/wiki/Bus_(computing)) | шина(ч) | [Wiki](https://bg.wikipedia.org/wiki/%D0%A8%D0%B8%D0%BD%D0%B0_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8E%D1%82%D1%80%D0%B8))
 button | [копче](https://ibl.bas.bg/rbe/lang/bg/%D0%BA%D0%BE%D0%BF%D1%87%D0%B5/)(ч) | макар че и френското _bouton_ - „[бутон](https://ibl.bas.bg/rbe/lang/bg/%D0%B1%D1%83%D1%82%D0%BE%D0%BD/)“ - е възприето
@@ -264,7 +264,7 @@ ceiling | таван, [закръгляне](https://ibl.bas.bg/rbe/lang/bg/%D0%
 cell | клетка | от таблица, памет и т.н.
 certificate | [удостоверение](https://ibl.bas.bg/rbe/lang/bg/%D1%83%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D0%B5/) | _в речника на БАН няма дума [сертификат](https://ibl.bas.bg/rbe/lang/bg/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82/)
 chain | верига
-(a) chain of events | верига събития
+(a) chain of events | верига/поредица събития
 changelog | дневник на промените
 char, character | знак, символ(ч) | _но... символ е от гръцкото σύμβολον_
 chat | [раздумване](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B0%D0%B7%D0%B4%D1%83%D0%BC%D0%B2%D0%B0%D0%BD%D0%B5/), [раздумка](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B0%D0%B7%D0%B4%D1%83%D0%BC%D0%BA%D0%B0/) | става и [лаф](https://ibl.bas.bg/rbe/lang/bg/%D0%BB%D0%B0%D1%84/), предвид, че сигурно е на 1000 години...
