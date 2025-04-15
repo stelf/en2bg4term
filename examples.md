@@ -781,23 +781,20 @@
 
 *   **computation** (изчисление)
     *   EN: This requires significant *computation* resources.
-    *   BG: Това изисква значителни *изчислителни* средства.
+    *   BG: Това изисква значителни *изчислителни* мощности.
 
-*   **computer** (изчислителна машина)
-    *   EN: Turn off the *computer* when you leave.
-    *   BG: Изключете *изчислителната машина*, когато си тръгвате.
-
-*   **(to) concatenate** (съединявам)
+*   **(to) concatenate** (съединявам, слепям)
     *   EN: Use the '+' operator *to concatenate* strings.
     *   BG: Използвайте оператора '+', за *да съединявате* низове.
-
+    *   BG: Използвайте оператора '+', за *слепите* текстове.
+    *   
 *   **concave** (вдлъбнат)
     *   EN: The lens has a *concave* shape.
     *   BG: Лещата има *вдлъбната* форма.
 
 *   **concise** (сбит)
     *   EN: Keep your code comments *concise* and clear.
-    *   BG: Поддържайте коментарите в кода си *сбити* и ясни.
+    *   BG: Поддържайте бележките в кода си *сбити* и ясни.
 
 *   **condensed** (сгъстен)
     *   EN: Use a *condensed* font to fit more text.
@@ -805,19 +802,19 @@
 
 *   **condition** (условие)
     *   EN: Check the loop *condition* before iterating.
-    *   BG: Проверете *условието* на цикъла преди итерация.
+    *   BG: Проверете *условието* на цикъла преди повторене.
 
 *   **confidential** (поверителен)
     *   EN: This document contains *confidential* information.
     *   BG: Този документ съдържа *поверителна* информация.
 
-*   **(to) configure** (настройвам)
+*   **(to) configure** (настройвам, определям, задавам)
     *   EN: You need *to configure* the network settings first.
-    *   BG: Първо трябва *да настроите* мрежовите настройки.
+    *   BG: Първо трябва *да зададете* мрежовите настройки.
 
 *   **(to) confuse** (обърквам)
     *   EN: Similar variable names can *confuse* developers.
-    *   BG: Сходните имена на променливи могат да *объркат* разработчиците.
+    *   BG: Сходни имена на променливи могат да *объркат* разработчиците.
 
 *   **conjunction** (свързване)
     *   EN: Use this operator in *conjunction* with the filter command.
@@ -841,15 +838,15 @@
 
 *   **constraint** (ограничение)
     *   EN: Add a uniqueness *constraint* to the email column.
-    *   BG: Добавете *ограничение* за уникалност към стълба за имейл.
+    *   BG: Задайте *ограничение* за еднозначност към стълба за имейл.
 
 *   **contemporary** (съвременен)
     *   EN: This book discusses *contemporary* software development practices.
-    *   BG: Тази книга обсъжда *съвременни* практики за разработка на софтуер.
+    *   BG: Тази книга обсъжда *съвременни* практики за разработване на софтуер.
 
 *   **content** (съдържание)
-    *   EN: Load the dynamic *content* after the page loads.
-    *   BG: Заредете динамичното *съдържание* след зареждане на страницата.
+    *   EN: Load the dynamic *content* only after the page loads.
+    *   BG: Заредете динамичното *съдържание* едва след като се зареди страницата.
 
 *   **content moderation** (надзор на съдържанието)
     *   EN: The platform employs strict *content moderation*.
@@ -867,13 +864,9 @@
     *   EN: We welcome community *contributions* to the project.
     *   BG: Приветстваме *приносите* на общността към проекта.
 
-*   **contributor** (сътрудник)
-    *   EN: He is a frequent *contributor* to the open-source library.
-    *   BG: Той е чест *сътрудник* към библиотеката с отворен код.
-
 *   **convergence** (сходимост)
-    *   EN: The algorithm reached *convergence* after 100 iterations.
-    *   BG: Алгоритъмът достигна *сходимост* след 100 итерации.
+    *   EN: The algorithm reaches *convergence* after 100 iterations.
+    *   BG: Алгоритъмът достига *сходимост* след 100 итерации.
 
 *   **convert** (обръщам)
     *   EN: You can *convert* the file to a different format.
@@ -881,7 +874,7 @@
 
 *   **convex** (изпъкнал)
     *   EN: The optimization problem involves a *convex* function.
-    *   BG: Оптимизационната задача включва *изпъкнала* функция.
+    *   BG: Оптимизационната задача предполага *изпъкнала* функция.
 
 *   **cookie** (бисквитка)
     *   EN: The website uses a *cookie* to store your session ID.
@@ -896,8 +889,8 @@
     *   BG: Ранните операционни системи използваха *съвместна многозадачност*.
 
 *   **(a) copy** (препис)
-    *   EN: Keep a *copy* of the original file.
-    *   BG: Пазете *препис* на оригиналния файл.
+    *   EN: Keep a *copy* of the original document.
+    *   BG: Пазете *препис* на оригиналния документ.
 
 *   **core** (ядро)
     *   EN: This library forms the *core* of the application.
@@ -905,7 +898,7 @@
 
 *   **correlation** (взаимовръзка)
     *   EN: Analyze the *correlation* between the two variables.
-    *   BG: Анализирайте *взаимовръзката* между двете променливи.
+    *   BG: Проучете *взаимовръзката* между двете променливи.
 
 *   **cost** (разход)
     *   EN: Calculate the total *cost* of the project.
@@ -927,9 +920,9 @@
     *   EN: Implement security measures as a *counter* to potential attacks.
     *   BG: Приложете мерки за сигурност като *противодействие* на потенциални атаки.
 
-*   **countless** (безброй)
+*   **countless** (безброй, безчет)
     *   EN: There are *countless* ways to solve this problem.
-    *   BG: Има *безброй* начини за решаване на този проблем.
+    *   BG: Има *безброй/безчет* начини за решаване на този проблем.
 
 *   **coupling** (сдвояване)
     *   EN: Aim for loose *coupling* between software components.
@@ -944,12 +937,12 @@
     *   BG: Много хора на свободна практика използват *споделено работно място*.
 
 *   **crash** (срив)
-    *   EN: An unhandled exception caused the application to *crash*.
-    *   BG: Необработено изключение причини *срив* на приложението.
+    *   EN: An unhandled exception caused a *crash*.
+    *   BG: Необработено изключение причини *срив*.
 
 *   **(to) create** (създавам)
     *   EN: *Create* a new file for the configuration settings.
-    *   BG: *Създайте* нов файл за конфигурационните настройки.
+    *   BG: *Създайте* нов файл за настройки.
 
 *   **creation** (създаване)
     *   EN: Automate the *creation* of user accounts.
@@ -984,16 +977,12 @@
     *   BG: Преместете *показалеца* в началото на реда.
 
 *   **(a) curve** (крива)
-    *   EN: Plot the data points to see the *curve*.
-    *   BG: Начертайте точките от данни, за да видите *кривата*.
-
-*   **custom (sth)** (по избор)
-    *   EN: Define a *custom* error message.
-    *   BG: Дефинирайте съобщение за грешка *по избор*.
+    *   EN: Plot the data to see the *curve*.
+    *   BG: Начертайте данните, за да видите *кривата*.
 
 *   **(a) customer** (купувач)
     *   EN: Provide excellent support to every *customer*.
-    *   BG: Осигурете отлична поддръжка на всеки *купувач*.
+    *   BG: Осигурете отлична поддръжка за всеки *купувач*.
 
 *   **(to) customize** (настройвам)
     *   EN: You can *customize* the user interface theme.
@@ -1010,8 +999,8 @@
     *   BG: Екипът провежда *дневна среща* всяка сутрин.
 
 *   **damage** (повреда)
-    *   EN: Water can cause significant *damage* to electronic devices.
-    *   BG: Водата може да причини значителна *повреда* на електронните устройства.
+    *   EN: Water can cause significant *damage* to your devices.
+    *   BG: Водата може да причини значителна *повреда* на вашите устройства.
 
 *   **data** (данни)
     *   EN: The application processes large amounts of *data*.
@@ -1019,27 +1008,23 @@
 
 *   **data mining** (извличане на закономерности)
     *   EN: *Data mining* techniques help discover hidden patterns.
-    *   BG: Техниките за *извличане на закономерности* помагат за откриване на скрити модели.
+    *   BG: Техниките за *извличане на закономерности* (в данни) помагат за откриване на скрити модели.
 
 *   **database** (база данни)
     *   EN: Store the user information in the *database*.
     *   BG: Съхранявайте потребителската информация в *базата данни*.
 
 *   **dead** (умрял)
-    *   EN: The process became *dead* and unresponsive.
-    *   BG: Процесът стана *умрял* и неотговарящ.
+    *   EN: The process is now *dead* and unresponsive.
+    *   BG: Процесът *умря* и вече не отговаря.
 
 *   **dead-end** (задънен)
     *   EN: The algorithm reached a *dead-end* state.
-    *   BG: Алгоритъмът достигна *задънено* състояние.
-
-*   **deadlock** (закучка)
-    *   EN: A *deadlock* occurred when two processes tried to access the same resource.
-    *   BG: Възникна *закучка*, когато два процеса се опитаха да достъпят един и същ ресурс.
+    *   BG: Алгоритъмът достигна *задънено* състояние (улица).
 
 *   **debugging** (проследяване)
     *   EN: Spend time *debugging* the code to find the error.
-    *   BG: Прекарайте време в *проследяване* на кода, за да намерите грешката.
+    *   BG: Отделете време за *проследяване* на кода, за да намерите грешката.
 
 *   **decision** (решение)
     *   EN: Make an informed *decision* based on the available data.
