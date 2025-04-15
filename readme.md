@@ -404,7 +404,7 @@ deep learning | обучение на многослойни невронни м
 defacing | обезобразяване, обезличаване | _понятие от света на ... хакерите. обезличаване се наричва резултата от промяната на външния вид на сайт след атака. най-честно е гротескна самата промяна, така че този превод е подходящ_
 default | по подразбиране, обичаен | _най-вече за стойността по подразбиране на нещо. макар обичаен да се превежда като typical, usual, common, спокойно можем да говорим за обичайна стойност_
 default value | стойност по подразбиране, обичайна стойност
-[deferral](https://en.wikipedia.org/wiki/Deferral) | отлагане
+[deferral](https://en.wikipedia.org/wiki/Deferral) | отлагане, [отсрочка](https://ibl.bas.bg/rbe/lang/bg/%D0%BE%D1%82%D1%81%D1%80%D0%BE%D1%87%D0%BA%D0%B0/)
 deferred | отложен | _най-често в смисъла на отложен обект при работа обещани стойности_ [WiKi](https://en.wikipedia.org/wiki/Futures_and_promises). заб. [БАН не посочва](http://ibl.bas.bg/rbe/lang/bg/%D0%BE%D1%82%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD/) тази думи в онлайн речника си, макар да я намерите в други речници. има [отлагам/(да) отложа](http://ibl.bas.bg/rbe/lang/bg/%D0%BE%D1%82%D0%BB%D0%B0%D0%B3%D0%B0%D0%BC/).
 (to) [deflate](https://en.wikipedia.org/wiki/Deflate) | [да спихна](https://en.m.wiktionary.org/wiki/%D1%81%D0%BF%D0%B8%D1%85%D0%BD%D0%B0), спихвам, спадам, свивам, [компресирам](https://ibl.bas.bg/rbe/lang/bg/%D0%BA%D0%BE%D0%BC%D0%BF%D1%80%D0%B5%D1%81%D0%B8%D1%80%D0%B0%D0%BC/) (ч) | в етимологичния на [стр. 361](https://ibl.bas.bg/lib/ber_7_000-976/#page/391/mode/1up)_
 degree | степен | _от ст.б. [степень](https://histdict.uni-sofia.bg/oldbgdict/oldbg_show/d_08896/)_
