@@ -426,7 +426,7 @@
 
 *   **breach** (пробив)
     *   EN: The company reported a data *breach*.
-    *   BG: Компанията докладва за *пробив* в сигурността на данните.
+    *   BG: Компанията докладва за *пробив* в (сигурността на) данните.
 
 *   **breadth first search (BFS)** (търсене в ширина)
     *   EN: Use *breadth first search* to find the shortest path in the graph.
@@ -434,7 +434,7 @@
 
 *   **breakpoint** (точка на прекъсване)
     *   EN: Set a *breakpoint* to inspect the variable's value during debugging.
-    *   BG: Задайте *точка на прекъсване*, за да проверите стойността на променливата по време на проследяване.
+    *   BG: Задайте *(точка на) прекъсване*, за да проверите стойността на променливата по време на проследяване.
 
 *   **briefly** (накратко)
     *   EN: Explain the concept *briefly*.
@@ -446,15 +446,15 @@
 
 *   **bridge** (мост)
     *   EN: A network *bridge* connects two separate network segments.
-    *   BG: Мрежовият *мост* свързва два отделни мрежови сегмента.
+    *   BG: Мрежови *мост* свързва два отделни мрежови сегмента.
 
 *   **broad** (широк)
-    *   EN: The system supports a *broad* range of devices.
-    *   BG: Системата поддържа *широк* набор от устройства.
+    *   EN: The system supports a *broad* range of *devices*.
+    *   BG: Системата поддържа *широк* набор от *устройства*.
 
 *   **broadcasting** (разпръскване)
     *   EN: The server is *broadcasting* updates to all connected clients.
-    *   BG: Сървърът *разпръсква* обновления до всички свързани клиенти.
+    *   BG: Сървърът *излъчва/разпръсква* обновления към всички свързани клиенти.
 
 *   **(to) browse** (разглеждам)
     *   EN: You can *browse* the available files in this directory.
@@ -470,7 +470,7 @@
 
 *   **bug** (недъг)
     *   EN: We found a critical *bug* in the login module.
-    *   BG: Открихме критичен *недъг* в модула за вход.
+    *   BG: Открихме критичен *недъг* на модула за вход.
 
 *   **building** (градивен)
     *   EN: These components are the *building* blocks of the application.
@@ -480,21 +480,17 @@
     *   EN: The language has *built-in* support for asynchronous operations.
     *   BG: Езикът има *вградена* поддръжка за асинхронни операции.
 
-*   **bullet, bullet point** (водещ знак)
-    *   EN: Use *bullet points* to list the key features.
-    *   BG: Използвайте *водещи знаци*, за да изброите ключовите възможности.
+*   **bump map** (карта на неравности)
+    *   EN: Apply a *bump map* to create a rough surface effect.
+    *   BG: Приложете *карта на неравности*, за да създадете ефект на грапава повърхност.
 
-*   **bump map** (карта на неравностите)
-    *   EN: Apply a *bump map* to create a textured surface effect.
-    *   BG: Приложете *карта на неравностите*, за да създадете ефект на текстурирана повърхност.
-
-*   **(a) bundle** (пакет)
+*   **(a) bundle** (вързоп)
     *   EN: The application assets are included in the installation *bundle*.
-    *   BG: Ресурсите на приложението са включени в инсталационния *пакет*.
+    *   BG: Ресурсите на приложението са включени в инсталационния *вързоп*.
 
-*   **(to) bundle** (привързвам)
-    *   EN: We need *to bundle* the JavaScript files for production.
-    *   BG: Трябва *да привържем* JavaScript файловете за производствената среда.
+*   **(to) bundle** (навързвам)
+    *   EN: We need *to bundle* the JavaScript contents, so that it's ready for production.
+    *   BG: Трябва *да навържем* JavaScript съдържанието, така че да е готово за производствената среда.
 
 *   **(a) burnout** (прегаряне)
     *   EN: Long hours led to developer *burnout*.
@@ -511,8 +507,8 @@
 ## C
 
 *   **(a) call** (извикване)
-    *   EN: This function *call* triggers the calculation.
-    *   BG: Това *извикване* на функция задейства изчислението.
+    *   EN: This *call* triggers the calculation.
+    *   BG: Това *извикване*  задейства изчислението.
 
 *   **(to) call** (извиквам)
     *   EN: The main program will *call* several subroutines.
