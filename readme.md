@@ -289,7 +289,7 @@ circuit | верига | _най-често [електрическа](https://b
 circuit breaker | [прекъсвач](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%80%D0%B5%D0%BA%D1%8A%D1%81%D0%B2%D0%B0%D1%87/)
 circular | кръгов, периодичен | _позлва се и цикличен, но това е от cycle -> чуждица_
 (to) clear | зачиствам | _като например да си „зачистя конзолата“_
-clearence | одобрение | _...на операция_
+clearance | одобрение | _...на операция от гледна [точка на сигурността](https://en.wikipedia.org/wiki/Security_clearance), което означава също 'право на достъп до чувствителна информация'_
 (a) click | [щракане](http://ibl.bas.bg/rbe/lang/bg/%D1%89%D1%80%D0%B0%D0%BA%D0%B0%D0%BD%D0%B5/) | изненада - има такава дума в български според БАН :)
 (to) click | [цъкам](https://ibl.bas.bg/rbe/lang/bg/%D1%86%D1%8A%D0%BA%D0%B0%D0%BC/), натискам, [щракам](http://ibl.bas.bg/rbe/lang/bg/%D1%89%D1%80%D0%B0%D0%BA%D0%B0%D0%BC/) |
 client | купувач, [поръчител](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D0%BE%D1%80%D1%8A%D1%87%D0%B8%D1%82%D0%B5%D0%BB/) | второто е по-скоро преносен смисъл
@@ -365,6 +365,7 @@ crash | провал, [срив](https://ibl.bas.bg/rbe/lang/bg/%D1%81%D1%80%D0%
 (to) create | създавам
 creation | творение, изделие, създаване, произведение | _създание е creature, да не се бърка_
 credentials | [пълномощия](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%8A%D0%BB%D0%BD%D0%BE%D0%BC%D0%BE%D1%89%D0%B8%D0%B5/), данни за достъп | _но в #53 върви обсъждане и за други предложения. текущото предложение все още не е [оплюто](http://ibl.bas.bg/rbe/lang/bg/%D0%BE%D0%BF%D0%BB%D1%8E%D0%B2%D0%B0%D0%BC/)_
+credibility | благонадеждност
 (to) crop | [подрязвам](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D0%BE%D0%B4%D1%80%D1%8F%D0%B7%D0%B2%D0%B0%D0%BC/), [обрязвам](https://ibl.bas.bg/rbe/lang/bg/%D0%BE%D0%B1%D1%80%D1%8F%D0%B7%D0%B2%D0%B0%D0%BC/)
 cryptography | тайнопис | _от гр. κρυπτός, криптос – „скрит“, и γράφω, графо – „пиша“. притеснително е, че википедия знае за [тайнопис](https://bg.wikipedia.org/wiki/%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B8_%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%BE%D0%B2%D0%B5%D0%BA%D0%BE%D0%B2%D0%B5%D0%BD_%D1%82%D0%B0%D0%B9%D0%BD%D0%BE%D0%BF%D0%B8%D1%81), но [БАН не](https://ibl.bas.bg/rbe/lang/bg/%D1%82%D0%B0%D0%B9%D0%BD%D0%BE%D0%BF%D0%B8%D1%81/), а [chitanka - да](https://rechnik.chitanka.info/w/%D1%82%D0%B0%D0%B9%D0%BD%D0%BE%D0%BF%D0%B8%D1%81)._
 (a) current | (същ). поток
