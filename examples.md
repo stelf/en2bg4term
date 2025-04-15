@@ -516,11 +516,11 @@
 
 *   **(to) cancel** (отменям)
     *   EN: You can *cancel* the operation before it completes.
-    *   BG: Можете да *отмените* операцията, преди да е завършила.
+    *   BG: Можете да *отмените* операцията, още преди да е завършила.
 
 *   **capability** (възможност)
     *   EN: The system has the *capability* to handle large datasets.
-    *   BG: Системата има *възможността* да обработва големи набори от данни.
+    *   BG: Системата дава *възможност* за обработване на големи набори данни.
 
 *   **capital letter** (главна буква)
     *   EN: Start the sentence with a *capital letter*.
@@ -536,7 +536,7 @@
 
 *   **(to) capture** (прихващам)
     *   EN: The tool allows you *to capture* network traffic.
-    *   BG: Инструментът ви позволява *да прихващате* мрежовия трафик.
+    *   BG: Инструментът ви позволява *да прихващате* мрежовия поток.
 
 *   **(a) case** (случай)
     *   EN: Handle this edge *case* separately.
@@ -568,7 +568,7 @@
 
 *   **(a) chain of events** (верига събития)
     *   EN: The error triggered a *chain of events* that crashed the system.
-    *   BG: Грешката задейства *верига от събития*, която срина системата.
+    *   BG: Грешката задейства *верига/поредица от събития*, която срина системата.
 
 *   **changelog** (дневник на промените)
     *   EN: Check the *changelog* for recent updates.
@@ -584,35 +584,35 @@
 
 *   **(a) charge** (разход)
     *   EN: There is an additional *charge* for express shipping.
-    *   BG: Има допълнителен *разход* за експресна доставка.
+    *   BG: Има допълнителен *разход* за незабавна доставка.
 
 *   **(to) charge** (зареждам)
     *   EN: Remember *to charge* your phone overnight.
     *   BG: Не забравяйте *да заредите* телефона си през нощта.
 
 *   **(to) charge** (разходвам)
-    *   EN: The system will *charge* the cost to your department's budget.
-    *   BG: Системата ще *разходва* сумата от бюджета на вашия отдел.
+    *   EN: The system will *charge* the cost to your department's account.
+    *   BG: Системата ще *разходва* сумата от сметката на вашия отдел.
 
 *   **(a) check** (отметка)
     *   EN: Put a *check* next to the completed items.
     *   BG: Сложете *отметка* до завършените елементи.
 
 *   **(to) check** (проверявам)
-    *   EN: Please *check* your email for the confirmation link.
-    *   BG: Моля, *проверете* имейла си за връзката за потвърждение.
+    *   EN: Please *check* your email for confirmation link.
+    *   BG: Моля, *проверете* електронната си поща за връзка за потвърждение.
 
-*   **(to) check in** (вкарвам - код)
+*   **(to) check in** (предавам - код)
     *   EN: Remember *to check in* your code changes before leaving.
-    *   BG: Не забравяйте *да вкарате* промените в кода, преди да си тръгнете.
+    *   BG: Не забравяйте *да впишете* промените в кода, преди да си тръгнете.
 
 *   **(to) check in** (настанявам - хотел)
     *   EN: You can *check in* at the hotel after 2 PM.
     *   BG: Можете да се *настаните* в хотела след 14:00 часа.
 
 *   **(to) check out** (вадя - код)
-    *   EN: You need *to check out* the file before editing it.
-    *   BG: Трябва *да извадите* файла, преди да го редактирате.
+    *   EN: You need *to check out* the file from the repository before editing it.
+    *   BG: Трябва *да изпишете* файла от хранилището, преди да го редактирате.
 
 *   **(to) check out** (изнасям - хотел)
     *   EN: Please *check out* before noon.
@@ -644,7 +644,7 @@
 
 *   **ciphertext** (скрит текст)
     *   EN: The encrypted message is called *ciphertext*.
-    *   BG: Скритото съобщение се нарича *скрит текст*.
+    *   BG: Скритото съобщение се нарича *скрит текст* (заб. но може и таен текст/шифриран текст).
 
 *   **circuit** (верига)
     *   EN: Design an electrical *circuit* for the device.
@@ -652,7 +652,7 @@
 
 *   **circuit breaker** (прекъсвач)
     *   EN: The *circuit breaker* pattern prevents cascading failures.
-    *   BG: Шаблонът *прекъсвач* предотвратява верижни сривове.
+    *   BG: (Верижния) *прекъсвач* предотвратява стъпаловидни сривове.
 
 *   **circular** (кръгов)
     *   EN: Avoid *circular* dependencies in your code.
@@ -664,7 +664,7 @@
 
 *   **clearence** (одобрение)
     *   EN: We need security *clearance* to access this area.
-    *   BG: Нуждаем се от *одобрение* от сигурността за достъп до тази зона.
+    *   BG: Нуждаем се от *одобрение* (от сигурността) за достъп до тази зона.
 
 *   **(a) click** (щракане)
     *   EN: Register an event handler for the mouse *click*.
@@ -680,15 +680,15 @@
 
 *   **clipboard** (междинна памет)
     *   EN: Copy the text to the *clipboard*.
-    *   BG: Копирайте текста в *междинната памет*.
+    *   BG: Копирайте текста в *междинната/временна памет*.
 
 *   **(a) cluster** (струпване)
     *   EN: The data points form a distinct *cluster*.
-    *   BG: Точките от данни образуват ясно *струпване*.
+    *   BG: Точките от данни образуват отличимо *струпване*.
 
 *   **coexist** (съжителствам)
     *   EN: Different versions of the library can *coexist* on the same system.
-    *   BG: Различни версии на библиотеката могат да *съжителстват* на една и съща система.
+    *   BG: Различни версии на библиотеката могат да *съжителстват* в една и съща система.
 
 *   **collaborator** (сътрудник)
     *   EN: Add your team members as *collaborators* on the project.
@@ -700,7 +700,7 @@
 
 *   **(a) collapse** (срив)
     *   EN: The server experienced a complete *collapse* under heavy load.
-    *   BG: Сървърът претърпя пълен *срив* при голямо натоварване.
+    *   BG: Подложен на голямо натоварване, сървърът претърпя пълен *срив*.
 
 *   **colon** (двоеточие)
     *   EN: Use a *colon* (:) to separate the key and value.
@@ -742,9 +742,10 @@
     *   EN: The team needs *to commit to work* on the agreed tasks.
     *   BG: Екипът трябва *да се захване на работа* по договорените задачи.
 
-*   **committed** (целеустремен)
+*   **committed** (целеустремен, отдаден)
     *   EN: We need *committed* developers for this project.
     *   BG: Нуждаем се от *целеустремени* разработчици за този проект.
+    *   BG: Нуждаем се от разработчици *отдадени* на този проект.
 
 *   **common name** (общоприето име)
     *   EN: The certificate's *common name* must match the domain.
@@ -756,15 +757,15 @@
 
 *   **(to) control** (управлявам)
     *   EN: This component is used *to control* the playback.
-    *   BG: Този компонент се използва, за *да управлява* възпроизвеждането.
+    *   BG: Този компонент се използва, за *да управлява* просвирването.
 
 *   **control** (управление)
     *   EN: The application provides fine-grained *control* over settings.
     *   BG: Приложението предоставя фино *управление* на настройките.
 
 *   **compatible** (съвместим)
-    *   EN: Ensure the plugin is *compatible* with your software version.
-    *   BG: Уверете се, че приставката е *съвместима* с вашата версия на софтуера.
+    *   EN: Ensure the plugin is *compatible* with your version.
+    *   BG: Уверете се, че приставката е *съвместима* с вашата версия.
 
 *   **compilation** (изграждане)
     *   EN: The *compilation* process converts source code into executable code.
@@ -780,7 +781,7 @@
 
 *   **computation** (изчисление)
     *   EN: This requires significant *computation* resources.
-    *   BG: Това изисква значителни ресурси за *изчисление*.
+    *   BG: Това изисква значителни *изчислителни* средства.
 
 *   **computer** (изчислителна машина)
     *   EN: Turn off the *computer* when you leave.
