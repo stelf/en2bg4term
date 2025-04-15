@@ -172,7 +172,7 @@ attribute | свойство, качество, характеристика(ч)
 attribution | признание (за), принос (към) | понятието се среща в разните мрежи за реклама като [Google Ads например](https://support.google.com/google-ads/answer/6259715?hl=en) и се отнася примерно до това каква част от кой рекламен канал е допринесъл за дадено събитие.
 attributted to | дължащ се (на), се дължи (на), приписвани (на) | в авторското право в смисъкл на [признаване на участие](https://en.wikipedia.org/wiki/Attribution_(copyright))
 audio | звук, звуков
-(an) audit | преглед, оценка | [Wiki](https://bg.wikipedia.org/wiki/%D0%9E%D0%B4%D0%B8%D1%82)
+(an) audit | преглед, оценка, [обследване](https://ibl.bas.bg/rbe/lang/bg/%D0%BE%D0%B1%D1%81%D0%BB%D0%B5%D0%B4%D0%B2%D0%B0%D0%BD%D0%B5/) | [Wiki](https://bg.wikipedia.org/wiki/%D0%9E%D0%B4%D0%B8%D1%82)
 (to) audit | преглеждане
 augmentation | допълнение, разрширение, разширяване, уголемяване | _най-вероятно ще го срещнете във връзка с [RAG](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/), който сме превели по-долу. има го и във връзка с [data augmentation](https://en.wikipedia.org/wiki/Data_augmentation), което не бива да се бърка с [data enrichment](https://www.geeksforgeeks.org/what-is-data-enrichment/) - обогатяване на данни_
 audit trail | запис от надзор, проследяване на действията | _обсъдено в #46_
