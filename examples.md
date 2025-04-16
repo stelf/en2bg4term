@@ -1623,3 +1623,6 @@
 *   **frequency** (честота)
     *   EN: Monitor the *frequency* of errors in the logs.
     *   BG: Наблюдавайте *честотата* на грешките в журналите.
+
+
+TODO: останалите букви
