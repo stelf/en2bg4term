@@ -502,7 +502,7 @@ event | събитие
 event emitter | пораждащ събития, подател на събитие, излъчвател на събития
 event handling | обслужване, обработка на събития
 [exception](https://en.wikipedia.org/wiki/Exception_handling) | изключение
-exclude | изключвам
+(to) exclude | изключвам, пропускам 
 execution | изпълнение, извършване
 expired | изтекла [давност](https://ibl.bas.bg/rbe/lang/bg/%D0%B4%D0%B0%D0%B2%D0%BD%D0%BE%D1%81%D1%82/), изхабен, [изветрял](https://ibl.bas.bg/rbe/lang/bg/%D0%B8%D0%B7%D0%B2%D0%B5%D1%82%D1%80%D1%8F%D0%BB/) | _напр: expired session = изтекла сесия, expired mail = писмо с изтекла давност. има и жаргона 'фирясал', който може би е приложим тук_
 explicit | явен
@@ -537,6 +537,7 @@ file not found | [неоткриваем](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%
 (to) fine-tune | [донастройвам](https://ibl.bas.bg/rbe/lang/bg/%D0%B4%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B2%D0%B0%D0%BC/), [изяснявам](https://ibl.bas.bg/rbe/lang/bg/%D0%B8%D0%B7%D1%8F%D1%81%D0%BD%D1%8F%D0%B2%D0%B0%D0%BC/) | _например във връзка с [настройването](https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning)) (или ако предпочитате 'фината настройка') на големите езикови модели (и не само тях).
 (a) finetuning | прецизно настройване, [фина настройка](https://bg.linguee.com/%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B8-%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8/%D0%BF%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D1%84%D0%B8%D0%BD%D0%B0+%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0.html)
 firewall | защитна стена | _макар и почти дословен, този превод е възприет в множество издания в областта на телекомуникациите_
+fixes | поправки
 [focal point review](https://www.performyard.com/articles/focal-point-vs-anniversary-date-reviews) | преглед на развитието | _тоя термин си е ... такова де, просто шок. оценката се прави обикновено в големите организации на края на някакъв период_
 [flagman](https://bg.wikipedia.org/wiki/%D0%A4%D0%BB%D0%B0%D0%B3%D0%BC%D0%B0%D0%BD_(%D0%BF%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5)), flagship | водещ, първи, главен 
 flat | плосък, равен, сплескан
