@@ -1,4 +1,4 @@
-д# Примери за употреба / Usage Examplesйх
+# Примери за употреба / Usage Examples
 
 ## A
 
@@ -8,11 +8,11 @@
 
 *   **ablation studies** (изследване чрез отнемане)
     *   EN: The paper presents detailed *ablation studies* to validate the approach.
-    *   BG: За да се потвърди подхода, статията представя подробния *изследвания чрез отнемане*.
+    *   BG: За да се потвърди подхода, статията представя подробни *изследвания чрез отнемане*.
 
 *   **(to) abort** (прекратявам)
     *   EN: The system had to *abort* the processing due to an error.
-    *   BG: Грешка принуди системата да *прекрати* на обработването .
+    *   BG: Грешка принуди системата да *прекрати* обработването.
 
 *   **(an) access** (достъп)
     *   EN: You need special permissions for *access* the directory.
@@ -40,15 +40,15 @@
 
 *   **accurate** (точен)
     *   EN: Ensure the data entered is *accurate*.
-    *   BG: Уверете се, че въведените данни са *точни*.
+    *   BG: Уверете се, че въведената *информация* е *точна*.
 
 *   **acknowledge** (потвърждавам)
     *   EN: Please *acknowledge* receipt of this message.
     *   BG: Моля, *потвърдете* получаването на това съобщение.
 
 *   **(to) acquire** (добивам)
-    *   EN: The sensor can *acquire* data every second.
-    *   BG: Сензорът може *да добива* данни всяка секунда.
+    *   EN: The sensor can *acquire* *data* every second.
+    *   BG: Сензорът може *да добива* *сведения* всяка секунда.
 
 *   **action, activity** (действие, дейност)
     *   EN: Log every user *action* for auditing.
@@ -122,7 +122,7 @@
 
 *   **amount** (количество)
     *   EN: Enter the desired *amount* of memory.
-    *   BG: Въведете желаното *количество* памет.
+    *   BG: Въведете желаното *количество* памет.x
 
 *   **anchor** (отметка)
     *   EN: Click here to jump to the relevant *anchor* on the page.
@@ -357,8 +357,8 @@
     *   BG: Трябва *да привържете* обработващата функция към копчето.
 
 *   **(to) bind to port** (закачам на порт)
-    *   EN: The server will *bind to port* 8080.
-    *   BG: Сървърът ще се *закачи на порт* 8080.
+    *   EN: The application will *bind to port* 8080.
+    *   BG: Приложението ще се *закачи на порт* 8080.
 
 *   **binding** (обвързване)
     *   EN: This framework supports two-way data *binding*.
@@ -1079,13 +1079,13 @@
     *   BG: Изпълнението на тази задача е *отложено*, докато ресурсите (не) станат отново налични.
 
 *   **(to) deflate** (спихвам)
-    *   EN: Use this library *to deflate* the compressed data stream.
-    *   BG: Използвайте тази библиотека, за *да спихнете* компресирания поток от данни.
+    *   EN: Use this library *to deflate* the compressed stream.
+    *   BG: Използвайте тази библиотека, за *да спихнете* компресирания поток.
 
 *   **degree** (степен)
     *   EN: The polynomial equation is of the third *degree*.
     *   BG: Полиномиалното уравнение е от трета *степен*.
-    *   
+
 *   **(a) delay** (закъснение)
     *   EN: Network latency introduced a noticeable *delay*.
     *   BG: Мрежовото забавяне въведе забележимо *закъснение*.
@@ -1108,7 +1108,7 @@
 
 *   **delivery** (доставка)
     *   EN: Ensure timely *delivery* of the software update.
-    *   BG: Осигурете навременна *доставка* на софтуерното обновление. 
+    *   BG: Осигурете навременна *доставка* на софтуерното обновление.
 
 *   **demand** (търсене на, нужда от)
     *   EN: There is high *demand* for skilled software engineers.
@@ -1119,16 +1119,16 @@
     *   BG: Нека насрочим *показно* на новите възможности.
 
 *   **denial** (отказ)
-    *   EN: A *denial* of service attack overloaded the server.
-    *   BG: Атака от вида *отказ* на услуга претовари сървъра.
+    *   EN: A *denial* of service attack overloaded the system.
+    *   BG: Атака от вида *отказ* на услуга претовари системата.
 
 *   **dense** (гъст)
     *   EN: The connections in this part of the network are very *dense*.
     *   BG: Връзките в тази част на мрежата са много *на гъсто/гъсти*.
 
 *   **density** (плътност)
-    *   EN: Calculate the *density* of the data points in the cluster.
-    *   BG: Изчислете *плътността* на точките от данни в струпването.
+    *   EN: Calculate the *density* of the points in the cluster.
+    *   BG: Изчислете *плътността* на точките в струпването.
 
 *   **densification** (уплътняване)
     *   EN: Transmission network *densification* aims to improve coverage.
@@ -1213,10 +1213,12 @@
 *   **digital** (цифров)
     *   EN: The company is investing in *digital* solutions.
     *   BG: Компанията инвестира в *цифрови* решения.
+    *   EN: The artist creates *digital* illustrations for the website.
+    *   BG: Художникът създава *цифрови* илюстрации за уебсайта.
 
 *   **direct** (пряк)
-    *   EN: Establish a *direct* connection to the server.
-    *   BG: Установете *пряка* връзка със сървъра.
+    *   EN: Establish a *direct* connection to the peer.
+    *   BG: Установете *пряка* връзка с другата страна.
 
 *   **directed** (насочен)
     *   EN: This is a *directed* graph, where edges have a direction.
@@ -1251,8 +1253,10 @@
     *   BG: *Безпорядъкът* във файловата система може да забави времето за достъп.
 
 *   **discover** (откривам)
-    *   EN: The service helps *discover* devices on the local network.
-    *   BG: Услугата помага за *откриване* на устройства в локалната мрежа.
+    *   EN: Developers often *discover* new libraries on GitHub.
+    *   BG: Разработчиците често *откриват* нови библиотеки в GitHub.
+    *   EN: Use data analysis to *discover* trends in user behavior.
+    *   BG: Използвайте анализ на данни, за да *откриете* тенденции в поведението на потребителите.
 
 *   **discovery** (откриване)
     *   EN: Enable network *discovery* to see other computers.
@@ -1511,12 +1515,12 @@
     *   BG: Приложете механизъм за *отстъпление*, ако основната услуга не е налична.
 
 *   **fake** (фалшив)
-    *   EN: Beware of *fake* login pages designed to steal credentials.
-    *   BG: Пазете се от *фалшиви* страници за вход, предназначени да крадат данни за достъп.
+    *   EN: Beware of *fake* login pages designed to steal *credentials*.
+    *   BG: Пазете се от *фалшиви* страници за вход, предназначени да крадат *данни за достъп*.
 
 *   **feature** (възможност)
     *   EN: The latest update includes several new *features*.
-    *   BG: Последното обновление включва няколко нови *възможности*.
+    *   BG: Последното промени включва няколко нови *възможности*.
 
 *   **featured** (препоръчан)
     *   EN: Check out the *featured* articles on the homepage.
@@ -1531,8 +1535,8 @@
     *   BG: Оценяваме вашия *отзив* за новия дизайн.
 
 *   **(to) fetch** (вземам)
-    *   EN: The application needs *to fetch* data from the server.
-    *   BG: Приложението трябва *да вземе* данни от сървъра.
+    *   EN: The application needs *to fetch* one userlist from the server.
+    *   BG: Приложението трябва *да вземе* списък с потребители от сървъра.
 
 *   **field** (поле)
     *   EN: Enter your username in the corresponding *field*.
@@ -1567,12 +1571,12 @@
     *   BG: Структурата на данните е *плоска*, без влагане.
 
 *   **(a) flattening** (сплескване)
-    *   EN: Array *flattening* converts a multi-dimensional array into a single dimension.
-    *   BG: *Сплескването* на поредица преобразува многомерна поредица в едномерна.
+    *   EN: Array *flattening* converts a multi-dimensional one into a  structure of single dimension.
+    *   BG: *Сплескването* на масив преобразува многомерен такъв в едномерна структура.
 
 *   **flaw** (недостатък)
     *   EN: A security *flaw* was discovered in the authentication process.
-    *   BG: Беше открит *недостатък* в сигурността при процеса на удостоверяване.
+    *   BG: Беше открит *недостатък* в сигурността по отношение процеса на удостоверяване.
 
 *   **flawless** (безупречен)
     *   EN: The system performed a *flawless* update.
@@ -1582,9 +1586,9 @@
     *   EN: Visualize the data *flow* through the application.
     *   BG: Визуализирайте *потока* от данни през приложението.
 
-*   **(to) flow** (тека)
+*   **(to) flow** (тека, лея се)
     *   EN: Data will *flow* from the sensor to the database.
-    *   BG: Данните ще *текат* от сензора към базата данни.
+    *   BG: Данните *ще текат/се леят* от сензора към базата данни.
 
 *   **folder** (папка)
     *   EN: Organize your files into different *folders*.
@@ -1592,7 +1596,7 @@
 
 *   **followers** (последователи)
     *   EN: The project gained many *followers* on social media.
-    *   BG: Проектът спечели много *последователи* в социалните мрежи.
+    *   BG: Проектът набра много *последователи* в социалните мрежи.
 
 *   **font** (шрифт)
     *   EN: Choose an appropriate *font* for the document body.
@@ -1616,1452 +1620,4 @@
 
 *   **frequency** (честота)
     *   EN: Monitor the *frequency* of errors in the logs.
-    *   BG: Наблюдавайте *честотата* на грешките в записите.
-
-## G
-
-*   **(a) gaming gear** (игрално оборудване)
-    *   EN: He bought new *gaming gear* for the tournament.
-    *   BG: Той купи ново *игрално оборудване* за турнира.
-
-*   **gap** (празнина)
-    *   EN: There is a *gap* in the documentation for this feature.
-    *   BG: Има *празнина* в документацията за тази възможност.
-
-*   **garbage collector** (чистач)
-    *   EN: The *garbage collector* frees up unused memory automatically.
-    *   BG: *Чистачът* освобождава неизползваната памет автоматично.
-
-*   **gate** (порта)
-    *   EN: A logic *gate* performs a basic logical function.
-    *   BG: Логическата *порта* изпълнява основна логическа функция.
-
-*   **gears** (зъбни колела)
-    *   EN: The mechanism uses interlocking *gears*.
-    *   BG: Механизмът използва зацепващи се *зъбни колела*.
-
-*   **gear** (предавка)
-    *   EN: Switch to a lower *gear* when going uphill.
-    *   BG: Превключете на по-ниска *предавка*, когато изкачвате наклон.
-
-*   **generalization** (обобщаване)
-    *   EN: The model shows good *generalization* to unseen data.
-    *   BG: Моделът показва добро *обобщаване* върху невиждани данни.
-
-*   **generic** (общ)
-    *   EN: Use a *generic* function to handle different data types.
-    *   BG: Използвайте *обща* функция за обработка на различни типове данни.
-
-*   **(a) goal** (цел)
-    *   EN: The main *goal* of this project is to improve performance.
-    *   BG: Основната *цел* на този проект е да подобри производителността.
-
-*   **(a/the) gist** (същност)
-    *   EN: Can you give me the *gist* of the report?
-    *   BG: Можеш ли да ми кажеш *същността* на доклада?
-
-*   **(the) go to (something)** (обичаен)
-    *   EN: Python is the *go-to* language for data science.
-    *   BG: Python е *обичайният* език за наука за данните.
-
-*   **governance** (управление)
-    *   EN: Implement data *governance* policies.
-    *   BG: Приложете политики за *управление* на данните.
-
-*   **greedy algorithm** (алчен алгоритъм)
-    *   EN: A *greedy algorithm* makes the locally optimal choice at each step.
-    *   BG: *Алчният алгоритъм* прави локално оптималния избор на всяка стъпка.
-
-*   **(a) guide** (ръководство)
-    *   EN: Follow the installation *guide*.
-    *   BG: Следвайте *ръководството* за инсталация.
-
-*   **(to) guide** (водя)
-    *   EN: This tutorial will *guide* you through the process.
-    *   BG: Този самоучител ще ви *води* през процеса.
-
-## H
-
-*   **(to) handle** (боравя с)
-    *   EN: The function needs *to handle* null values correctly.
-    *   BG: Функцията трябва *да борави с* нулеви стойности правилно.
-
-*   **handler** (обработваща функция)
-    *   EN: Attach an event *handler* to the button.
-    *   BG: Прикрепете *обработваща функция* за събития към копчето.
-
-*   **hard drive** (твърд диск)
-    *   EN: Save the file to your *hard drive*.
-    *   BG: Запазете файла на вашия *твърд диск*.
-
-*   **handshake** (ръкостискане)
-    *   EN: The TLS *handshake* establishes a secure connection.
-    *   BG: TLS *ръкостискането* установява сигурна връзка.
-
-*   **hash array, hash** (асоциативен списък)
-    *   EN: Use a *hash* map for efficient key-value lookups.
-    *   BG: Използвайте *асоциативен списък* за ефективно търсене по ключ-стойност.
-
-*   **hate** (злина)
-    *   EN: Combat online *hate* speech.
-    *   BG: Борете се с онлайн речта, проповядваща *злина*.
-
-*   **hater** (злобар)
-    *   EN: Ignore the comments from online *haters*.
-    *   BG: Пренебрегвайте коментарите от онлайн *злобари*.
-
-*   **header** (заглавна част - HTTP)
-    *   EN: Check the 'Content-Type' *header* in the HTTP response.
-    *   BG: Проверете *заглавната част* 'Content-Type' в HTTP отговора.
-
-*   **header** (заглавка - документ)
-    *   EN: Add the document title to the page *header*.
-    *   BG: Добавете заглавието на документа в *заглавката* на страницата.
-
-*   **(a) heading** (заглавие)
-    *   EN: Use clear *headings* to structure the document.
-    *   BG: Използвайте ясни *заглавия*, за да структурирате документа.
-
-*   **headquarter(s)** (седалище)
-    *   EN: The company's *headquarters* are located in Sofia.
-    *   BG: *Седалището* на компанията се намира в София.
-
-*   **history** (история)
-    *   EN: View the browser *history* to find the page again.
-    *   BG: Прегледайте *историята* на браузъра, за да намерите страницата отново.
-
-*   **on hold** (в изчакване)
-    *   EN: Put the task *on hold* until we get more information.
-    *   BG: Поставете задачата *в изчакване*, докато получим повече информация.
-
-*   **homepage** (заглавна страница)
-    *   EN: Navigate back to the website's *homepage*.
-    *   BG: Върнете се към *заглавната страница* на уебсайта.
-
-*   **(a) hook** (кука)
-    *   EN: Use a lifecycle *hook* to run code when the component mounts.
-    *   BG: Използвайте *кука* за жизнения цикъл, за да изпълните код, когато компонентът се монтира.
-
-*   **(to) hook** (закачам)
-    *   EN: You can *hook* into the application's event system.
-    *   BG: Можете да се *закачите* към системата за събития на приложението.
-
-*   **(a) host** (крайна точка)
-    *   EN: Specify the server *host* name and port number.
-    *   BG: Посочете името на *крайната точка* на сървъра и номера на порта.
-
-## I
-
-*   **(an) identifier** (определител)
-    *   EN: Each user account has a unique *identifier*.
-    *   BG: Всяка потребителска сметка има уникален *определител*.
-
-*   **(an) identity** (самоличност)
-    *   EN: Verify the user's *identity* before granting access.
-    *   BG: Проверете *самоличността* на потребителя, преди да предоставите достъп.
-
-*   **(an) identity** (тъждество)
-    *   EN: The equation represents a mathematical *identity*.
-    *   BG: Уравнението представлява математическо *тъждество*.
-
-*   **idle time** (празен ход)
-    *   EN: Monitor the CPU *idle time* to check system load.
-    *   BG: Наблюдавайте времето на *празен ход* на процесора, за да проверите натоварването на системата.
-
-*   **ignorant** (невеж)
-    *   EN: Don't be *ignorant* of security best practices.
-    *   BG: Не бъдете *невежи* относно най-добрите практики за сигурност.
-
-*   **(to) ignore** (пренебрегвам)
-    *   EN: You can configure the system *to ignore* certain warnings.
-    *   BG: Можете да конфигурирате системата *да пренебрегва* определени предупреждения.
-
-*   **image** (изображение)
-    *   EN: Optimize the *image* size for faster loading.
-    *   BG: Оптимизирайте размера на *изображението* за по-бързо зареждане.
-
-*   **immediate** (непосредствен)
-    *   EN: The change had an *immediate* effect on performance.
-    *   BG: Промяната имаше *непосредствен* ефект върху производителността.
-
-*   **impact** (влияние)
-    *   EN: Assess the *impact* of the new feature on existing users.
-    *   BG: Оценете *влиянието* на новата възможност върху съществуващите потребители.
-
-*   **implementation** (изпълнение)
-    *   EN: The *implementation* of the algorithm was complex.
-    *   BG: *Изпълнението* на алгоритъма беше сложно.
-
-*   **import** (внасяне)
-    *   EN: Data *import* from the CSV file failed.
-    *   BG: *Внасянето* на данни от CSV файла се провали.
-
-*   **(to) import** (внасям)
-    *   EN: You need *to import* the library before using its functions.
-    *   BG: Трябва *да внесете* библиотеката, преди да използвате нейните функции.
-
-*   **imported** (внесен)
-    *   EN: Check the list of *imported* modules.
-    *   BG: Проверете списъка с *внесени* модули.
-
-*   **inbound** (входящ)
-    *   EN: Configure the firewall to allow *inbound* connections on port 443.
-    *   BG: Конфигурирайте защитната стена да позволява *входящи* връзки на порт 443.
-
-*   **include** (включвам)
-    *   EN: The price does not *include* taxes.
-    *   BG: Цената не *включва* данъци.
-
-*   **incoming** (входящ)
-    *   EN: Filter *incoming* emails for spam.
-    *   BG: Филтрирайте *входящите* имейли за нежелана поща.
-
-*   **incremental** (нарастващ)
-    *   EN: Perform an *incremental* backup to save space.
-    *   BG: Направете *нарастващо* резервно копие, за да спестите място.
-
-*   **indirect** (непряк)
-    *   EN: Access the property through an *indirect* reference.
-    *   BG: Достъпете свойството чрез *непряка* препратка.
-
-*   **infinite** (безкраен)
-    *   EN: Be careful not to create an *infinite* loop.
-    *   BG: Внимавайте да не създадете *безкраен* цикъл.
-
-*   **infinite number** (безкрайно число)
-    *   EN: There is an *infinite number* of points on a line segment.
-    *   BG: Има *безкрайно число* точки върху отсечка.
-
-*   **infinity** (безкрайност)
-    *   EN: Divide by zero results in *infinity*.
-    *   BG: Делението на нула води до *безкрайност*.
-
-*   **index** (указател)
-    *   EN: Create a database *index* to speed up queries.
-    *   BG: Създайте *указател* в базата данни, за да ускорите заявките.
-
-*   **inflate** (раздувам)
-    *   EN: The function will *inflate* the compressed data.
-    *   BG: Функцията ще *раздуе* компресираните данни.
-
-*   **(to be) informed** (да бъда известен)
-    *   EN: Ensure all stakeholders *are informed* about the changes.
-    *   BG: Уверете се, че всички заинтересовани страни *са известени* за промените.
-
-*   **informed** (обоснован)
-    *   EN: Make an *informed* choice after reviewing the options.
-    *   BG: Направете *обоснован* избор след преглед на опциите.
-
-*   **(to) inform** (да известя)
-    *   EN: Please *inform* the team about the meeting schedule.
-    *   BG: Моля, *известете* екипа за графика на срещата.
-
-*   **initiate** (започвам)
-    *   EN: Click the button *to initiate* the download process.
-    *   BG: Натиснете копчето, за *да започнете* процеса на изтегляне.
-
-*   **inject** (внасям)
-    *   EN: The framework will *inject* the required dependencies automatically.
-    *   BG: Рамката ще *внесе* необходимите зависимости автоматично.
-
-*   **(dependency) injection** (внасяне на зависимости)
-    *   EN: Use *dependency injection* for better testability.
-    *   BG: Използвайте *внасяне на зависимости* за по-добра възможност за тестване.
-
-*   **input** (вход)
-    *   EN: Validate the user *input* before processing.
-    *   BG: Проверете потребителския *вход*, преди да го обработите.
-
-*   **input** (въвеждам)
-    *   EN: Please *input* your password.
-    *   BG: Моля, *въведете* вашата парола.
-
-*   **inspect** (преглеждам)
-    *   EN: Use the browser's developer tools *to inspect* the element.
-    *   BG: Използвайте инструментите за разработчици на браузъра, за *да прегледате* елемента.
-
-*   **(to) install** (поставям)
-    *   EN: Follow the instructions *to install* the software.
-    *   BG: Следвайте инструкциите, за *да поставите* софтуера.
-
-*   **(an) installation** (установка)
-    *   EN: The software *installation* was successful.
-    *   BG: *Установката* на софтуера беше успешна.
-
-*   **instant** (незабавен)
-    *   EN: Get *instant* notifications for new messages.
-    *   BG: Получавайте *незабавни* известия за нови съобщения.
-
-*   **instruction set** (набор инструкции)
-    *   EN: The processor implements the x86 *instruction set*.
-    *   BG: Процесорът прилага x86 *набора инструкции*.
-
-*   **intangible** (неосезаем)
-    *   EN: Brand reputation is an *intangible* asset.
-    *   BG: Репутацията на марката е *неосезаема* собственост.
-
-*   **integer** (целочислен)
-    *   EN: The variable stores an *integer* value.
-    *   BG: Променливата съхранява *целочислена* стойност.
-
-*   **integral part** (неразделима част)
-    *   EN: Security is an *integral part* of the system design.
-    *   BG: Сигурността е *неразделима част* от дизайна на системата.
-
-*   **integrate** (обединявам)
-    *   EN: We need *to integrate* the new module with the existing codebase.
-    *   BG: Трябва *да обединим* новия модул със съществуващия код.
-
-*   **interceptor** (прихващач)
-    *   EN: Add an HTTP *interceptor* to modify requests.
-    *   BG: Добавете HTTP *прихващач*, за да променяте заявките.
-
-*   **interface** (повърхност на взаимодействие)
-    *   EN: The application has a user-friendly *interface*.
-    *   BG: Приложението има лесна за ползване *повърхност на взаимодействие*.
-
-*   **intermediate** (междинен)
-    *   EN: Save the *intermediate* results to a temporary file.
-    *   BG: Запазете *междинните* резултати във временен файл.
-
-*   **interrupt** (прекъсване)
-    *   EN: A hardware *interrupt* signals the CPU about an event.
-    *   BG: Хардуерно *прекъсване* сигнализира процесора за събитие.
-
-*   **intrusion** (проникване)
-    *   EN: The system detected a network *intrusion*.
-    *   BG: Системата откри мрежово *проникване*.
-
-*   **(to) invent** (изобретявам)
-    *   EN: He helped *to invent* the first graphical web browser.
-    *   BG: Той помогна *да се изобрети* първият графичен уеб браузър.
-
-*   **invention** (изобретение)
-    *   EN: The transistor was a revolutionary *invention*.
-    *   BG: Транзисторът беше революционно *изобретение*.
-
-*   **inventor** (изобретател)
-    *   EN: Tim Berners-Lee is the *inventor* of the World Wide Web.
-    *   BG: Тим Бърнърс-Лий е *изобретателят* на световната мрежа.
-
-*   **inventory** (складова наличност)
-    *   EN: Check the current *inventory* levels.
-    *   BG: Проверете текущите нива на *складова наличност*.
-
-*   **invoke** (извиквам)
-    *   EN: *Invoke* the function with the correct arguments.
-    *   BG: *Извикайте* функцията с правилните аргументи.
-
-*   **ip address** (мрежови адрес)
-    *   EN: Find the *IP address* of the server.
-    *   BG: Намерете *мрежовия адрес* на сървъра.
-
-*   **irradiance** (облъчване)
-    *   EN: Measure the solar *irradiance* levels.
-    *   BG: Измерете нивата на слънчево *облъчване*.
-
-*   **isosceles** (равнобедрен)
-    *   EN: An *isosceles* triangle has at least two equal sides.
-    *   BG: *Равнобедреният* триъгълник има поне две равни страни.
-
-*   **issue** (казус)
-    *   EN: Report the software bug as a new *issue*.
-    *   BG: Докладвайте софтуерния недъг като нов *казус*.
-
-*   **item** (артикул)
-    *   EN: Select an *item* from the list.
-    *   BG: Изберете *артикул* от списъка.
-
-## J
-
-*   **to join** (свързвам)
-    *   EN: Use the `join` command *to join* the two datasets.
-    *   BG: Използвайте командата `join`, за *да свържете* двата набора от данни.
-
-*   **joint** (свръзка)
-    *   EN: The robot arm has multiple *joints*.
-    *   BG: Ръката на робота има множество *свръзки*.
-
-*   **joystick** (игрови лост)
-    *   EN: Control the character's movement with the *joystick*.
-    *   BG: Управлявайте движението на героя с *игровия лост*.
-
-## K
-
-*   **kernel** (ядро)
-    *   EN: The Linux *kernel* manages the system's resources.
-    *   BG: *Ядрото* на Linux управлява ресурсите на системата.
-
-*   **key** (ключ)
-    *   EN: Use the primary *key* to uniquely identify each row.
-    *   BG: Използвайте основния *ключ*, за да идентифицирате уникално всеки ред.
-
-*   **Keyframe** (ключов кадър)
-    *   EN: Set a *keyframe* to mark the beginning of the animation.
-    *   BG: Задайте *ключов кадър*, за да отбележите началото на анимацията.
-
-*   **keystroke** (натискане на клавиш)
-    *   EN: The application logs every *keystroke*.
-    *   BG: Приложението записва всяко *натискане на клавиш*.
-
-*   **kill** (прекратявам)
-    *   EN: Use the task manager *to kill* the unresponsive process.
-    *   BG: Използвайте диспечера на задачите, за *да прекратите* неотговарящия процес.
-
-*   **knob** (врътка)
-    *   EN: Adjust the volume using the control *knob*.
-    *   BG: Регулирайте силата на звука с помощта на *врътката* за управление.
-
-*   **knot** (възел)
-    *   EN: Spline interpolation requires defining control points and *knots*.
-    *   BG: Сплайн интерполацията изисква дефиниране на контролни точки и *възли*.
-
-*   **knowledge base** (база знания)
-    *   EN: Search the *knowledge base* for troubleshooting articles.
-    *   BG: Търсете в *базата знания* за статии за отстраняване на неизправности.
-
-## K
-
-*   **kernel** (ядро)
-    *   EN: The Linux *kernel* manages the system's resources.
-    *   BG: *Ядрото* на Linux управлява ресурсите на системата.
-
-*   **key** (ключ)
-    *   EN: Use the primary *key* to uniquely identify each row.
-    *   BG: Използвайте основния *ключ*, за да идентифицирате уникално всеки ред.
-
-*   **Keyframe** (ключов кадър)
-    *   EN: Set a *keyframe* to mark the beginning of the animation.
-    *   BG: Задайте *ключов кадър*, за да отбележите началото на анимацията.
-
-*   **keystroke** (натискане на клавиш)
-    *   EN: The application logs every *keystroke*.
-    *   BG: Приложението записва всяко *натискане на клавиш*.
-
-*   **kill** (прекратявам)
-    *   EN: Use the task manager *to kill* the unresponsive process.
-    *   BG: Използвайте диспечера на задачите, за *да прекратите* неотговарящия процес.
-
-*   **knob** (врътка)
-    *   EN: Adjust the volume using the control *knob*.
-    *   BG: Регулирайте силата на звука с помощта на *врътката* за управление.
-
-*   **knot** (възел)
-    *   EN: Spline interpolation requires defining control points and *knots*.
-    *   BG: Сплайн интерполацията изисква дефиниране на контролни точки и *възли*.
-
-*   **knowledge base** (база знания)
-    *   EN: Search the *knowledge base* for troubleshooting articles.
-    *   BG: Търсете в *базата знания* за статии за отстраняване на неизправности.
-
-## J
-
-*   **to join** (свързвам)
-    *   EN: Use the `join` command *to join* the two datasets.
-    *   BG: Използвайте командата `join`, за *да свържете* двата набора от данни.
-
-*   **joint** (свръзка)
-    *   EN: The robot arm has multiple *joints*.
-    *   BG: Ръката на робота има множество *свръзки*.
-
-*   **joystick** (игрови лост)
-    *   EN: Control the character's movement with the *joystick*.
-    *   BG: Управлявайте движението на героя с *игровия лост*.
-
-## I
-
-*   **(an) identifier** (определител)
-    *   EN: Each user account has a unique *identifier*.
-    *   BG: Всяка потребителска сметка има уникален *определител*.
-
-*   **(an) identity** (самоличност)
-    *   EN: Verify the user's *identity* before granting access.
-    *   BG: Проверете *самоличността* на потребителя, преди да предоставите достъп.
-
-*   **(an) identity** (тъждество)
-    *   EN: The equation represents a mathematical *identity*.
-    *   BG: Уравнението представлява математическо *тъждество*.
-
-*   **idle time** (празен ход)
-    *   EN: Monitor the CPU *idle time* to check system load.
-    *   BG: Наблюдавайте времето на *празен ход* на процесора, за да проверите натоварването на системата.
-
-*   **ignorant** (невеж)
-    *   EN: Don't be *ignorant* of security best practices.
-    *   BG: Не бъдете *невежи* относно най-добрите практики за сигурност.
-
-*   **(to) ignore** (пренебрегвам)
-    *   EN: You can configure the system *to ignore* certain warnings.
-    *   BG: Можете да конфигурирате системата *да пренебрегва* определени предупреждения.
-
-*   **image** (изображение)
-    *   EN: Optimize the *image* size for faster loading.
-    *   BG: Оптимизирайте размера на *изображението* за по-бързо зареждане.
-
-*   **immediate** (непосредствен)
-    *   EN: The change had an *immediate* effect on performance.
-    *   BG: Промяната имаше *непосредствен* ефект върху производителността.
-
-*   **impact** (влияние)
-    *   EN: Assess the *impact* of the new feature on existing users.
-    *   BG: Оценете *влиянието* на новата възможност върху съществуващите потребители.
-
-*   **implementation** (изпълнение)
-    *   EN: The *implementation* of the algorithm was complex.
-    *   BG: *Изпълнението* на алгоритъма беше сложно.
-
-*   **import** (внасяне)
-    *   EN: Data *import* from the CSV file failed.
-    *   BG: *Внасянето* на данни от CSV файла се провали.
-
-*   **(to) import** (внасям)
-    *   EN: You need *to import* the library before using its functions.
-    *   BG: Трябва *да внесете* библиотеката, преди да използвате нейните функции.
-
-*   **imported** (внесен)
-    *   EN: Check the list of *imported* modules.
-    *   BG: Проверете списъка с *внесени* модули.
-
-*   **inbound** (входящ)
-    *   EN: Configure the firewall to allow *inbound* connections on port 443.
-    *   BG: Конфигурирайте защитната стена да позволява *входящи* връзки на порт 443.
-
-*   **include** (включвам)
-    *   EN: The price does not *include* taxes.
-    *   BG: Цената не *включва* данъци.
-
-*   **incoming** (входящ)
-    *   EN: Filter *incoming* emails for spam.
-    *   BG: Филтрирайте *входящите* имейли за нежелана поща.
-
-*   **incremental** (нарастващ)
-    *   EN: Perform an *incremental* backup to save space.
-    *   BG: Направете *нарастващо* резервно копие, за да спестите място.
-
-*   **indirect** (непряк)
-    *   EN: Access the property through an *indirect* reference.
-    *   BG: Достъпете свойството чрез *непряка* препратка.
-
-*   **infinite** (безкраен)
-    *   EN: Be careful not to create an *infinite* loop.
-    *   BG: Внимавайте да не създадете *безкраен* цикъл.
-
-*   **infinite number** (безкрайно число)
-    *   EN: There is an *infinite number* of points on a line segment.
-    *   BG: Има *безкрайно число* точки върху отсечка.
-
-*   **infinity** (безкрайност)
-    *   EN: Divide by zero results in *infinity*.
-    *   BG: Делението на нула води до *безкрайност*.
-
-*   **index** (указател)
-    *   EN: Create a database *index* to speed up queries.
-    *   BG: Създайте *указател* в базата данни, за да ускорите заявките.
-
-*   **inflate** (раздувам)
-    *   EN: The function will *inflate* the compressed data.
-    *   BG: Функцията ще *раздуе* компресираните данни.
-
-*   **(to be) informed** (да бъда известен)
-    *   EN: Ensure all stakeholders *are informed* about the changes.
-    *   BG: Уверете се, че всички заинтересовани страни *са известени* за промените.
-
-*   **informed** (обоснован)
-    *   EN: Make an *informed* choice after reviewing the options.
-    *   BG: Направете *обоснован* избор след преглед на опциите.
-
-*   **(to) inform** (да известя)
-    *   EN: Please *inform* the team about the meeting schedule.
-    *   BG: Моля, *известете* екипа за графика на срещата.
-
-*   **initiate** (започвам)
-    *   EN: Click the button *to initiate* the download process.
-    *   BG: Натиснете копчето, за *да започнете* процеса на изтегляне.
-
-*   **inject** (внасям)
-    *   EN: The framework will *inject* the required dependencies automatically.
-    *   BG: Рамката ще *внесе* необходимите зависимости автоматично.
-
-*   **(dependency) injection** (внасяне на зависимости)
-    *   EN: Use *dependency injection* for better testability.
-    *   BG: Използвайте *внасяне на зависимости* за по-добра възможност за тестване.
-
-*   **input** (вход)
-    *   EN: Validate the user *input* before processing.
-    *   BG: Проверете потребителския *вход*, преди да го обработите.
-
-*   **input** (въвеждам)
-    *   EN: Please *input* your password.
-    *   BG: Моля, *въведете* вашата парола.
-
-*   **inspect** (преглеждам)
-    *   EN: Use the browser's developer tools *to inspect* the element.
-    *   BG: Използвайте инструментите за разработчици на браузъра, за *да прегледате* елемента.
-
-*   **(to) install** (поставям)
-    *   EN: Follow the instructions *to install* the software.
-    *   BG: Следвайте инструкциите, за *да поставите* софтуера.
-
-*   **(an) installation** (установка)
-    *   EN: The software *installation* was successful.
-    *   BG: *Установката* на софтуера беше успешна.
-
-*   **instant** (незабавен)
-    *   EN: Get *instant* notifications for new messages.
-    *   BG: Получавайте *незабавни* известия за нови съобщения.
-
-*   **instruction set** (набор инструкции)
-    *   EN: The processor implements the x86 *instruction set*.
-    *   BG: Процесорът прилага x86 *набора инструкции*.
-
-*   **intangible** (неосезаем)
-    *   EN: Brand reputation is an *intangible* asset.
-    *   BG: Репутацията на марката е *неосезаема* собственост.
-
-*   **integer** (целочислен)
-    *   EN: The variable stores an *integer* value.
-    *   BG: Променливата съхранява *целочислена* стойност.
-
-*   **integral part** (неразделима част)
-    *   EN: Security is an *integral part* of the system design.
-    *   BG: Сигурността е *неразделима част* от дизайна на системата.
-
-*   **integrate** (обединявам)
-    *   EN: We need *to integrate* the new module with the existing codebase.
-    *   BG: Трябва *да обединим* новия модул със съществуващия код.
-
-*   **interceptor** (прихващач)
-    *   EN: Add an HTTP *interceptor* to modify requests.
-    *   BG: Добавете HTTP *прихващач*, за да променяте заявките.
-
-*   **interface** (повърхност на взаимодействие)
-    *   EN: The application has a user-friendly *interface*.
-    *   BG: Приложението има лесна за ползване *повърхност на взаимодействие*.
-
-*   **intermediate** (междинен)
-    *   EN: Save the *intermediate* results to a temporary file.
-    *   BG: Запазете *междинните* резултати във временен файл.
-
-*   **interrupt** (прекъсване)
-    *   EN: A hardware *interrupt* signals the CPU about an event.
-    *   BG: Хардуерно *прекъсване* сигнализира процесора за събитие.
-
-*   **intrusion** (проникване)
-    *   EN: The system detected a network *intrusion*.
-    *   BG: Системата откри мрежово *проникване*.
-
-*   **(to) invent** (изобретявам)
-    *   EN: He helped *to invent* the first graphical web browser.
-    *   BG: Той помогна *да се изобрети* първият графичен уеб браузър.
-
-*   **invention** (изобретение)
-    *   EN: The transistor was a revolutionary *invention*.
-    *   BG: Транзисторът беше революционно *изобретение*.
-
-*   **inventor** (изобретател)
-    *   EN: Tim Berners-Lee is the *inventor* of the World Wide Web.
-    *   BG: Тим Бърнърс-Лий е *изобретателят* на световната мрежа.
-
-*   **inventory** (складова наличност)
-    *   EN: Check the current *inventory* levels.
-    *   BG: Проверете текущите нива на *складова наличност*.
-
-*   **invoke** (извиквам)
-    *   EN: *Invoke* the function with the correct arguments.
-    *   BG: *Извикайте* функцията с правилните аргументи.
-
-*   **ip address** (мрежови адрес)
-    *   EN: Find the *IP address* of the server.
-    *   BG: Намерете *мрежовия адрес* на сървъра.
-
-*   **irradiance** (облъчване)
-    *   EN: Measure the solar *irradiance* levels.
-    *   BG: Измерете нивата на слънчево *облъчване*.
-
-*   **isosceles** (равнобедрен)
-    *   EN: An *isosceles* triangle has at least two equal sides.
-    *   BG: *Равнобедреният* триъгълник има поне две равни страни.
-
-*   **issue** (казус)
-    *   EN: Report the software bug as a new *issue*.
-    *   BG: Докладвайте софтуерния недъг като нов *казус*.
-
-*   **item** (артикул)
-    *   EN: Select an *item* from the list.
-    *   BG: Изберете *артикул* от списъка.
-
-## I
-
-*   **(an) identifier** (определител)
-    *   EN: Each user account has a unique *identifier*.
-    *   BG: Всяка потребителска сметка има уникален *определител*.
-
-*   **(an) identity** (самоличност)
-    *   EN: Verify the user's *identity* before granting access.
-    *   BG: Проверете *самоличността* на потребителя, преди да предоставите достъп.
-
-*   **(an) identity** (тъждество)
-    *   EN: The equation represents a mathematical *identity*.
-    *   BG: Уравнението представлява математическо *тъждество*.
-
-*   **idle time** (празен ход)
-    *   EN: Monitor the CPU *idle time* to check system load.
-    *   BG: Наблюдавайте времето на *празен ход* на процесора, за да проверите натоварването на системата.
-
-*   **ignorant** (невеж)
-    *   EN: Don't be *ignorant* of security best practices.
-    *   BG: Не бъдете *невежи* относно най-добрите практики за сигурност.
-
-*   **(to) ignore** (пренебрегвам)
-    *   EN: You can configure the system *to ignore* certain warnings.
-    *   BG: Можете да конфигурирате системата *да пренебрегва* определени предупреждения.
-
-*   **image** (изображение)
-    *   EN: Optimize the *image* size for faster loading.
-    *   BG: Оптимизирайте размера на *изображението* за по-бързо зареждане.
-
-*   **immediate** (непосредствен)
-    *   EN: The change had an *immediate* effect on performance.
-    *   BG: Промяната имаше *непосредствен* ефект върху производителността.
-
-*   **impact** (влияние)
-    *   EN: Assess the *impact* of the new feature on existing users.
-    *   BG: Оценете *влиянието* на новата възможност върху съществуващите потребители.
-
-*   **implementation** (изпълнение)
-    *   EN: The *implementation* of the algorithm was complex.
-    *   BG: *Изпълнението* на алгоритъма беше сложно.
-
-*   **import** (внасяне)
-    *   EN: Data *import* from the CSV file failed.
-    *   BG: *Внасянето* на данни от CSV файла се провали.
-
-*   **(to) import** (внасям)
-    *   EN: You need *to import* the library before using its functions.
-    *   BG: Трябва *да внесете* библиотеката, преди да използвате нейните функции.
-
-*   **imported** (внесен)
-    *   EN: Check the list of *imported* modules.
-    *   BG: Проверете списъка с *внесени* модули.
-
-*   **inbound** (входящ)
-    *   EN: Configure the firewall to allow *inbound* connections on port 443.
-    *   BG: Конфигурирайте защитната стена да позволява *входящи* връзки на порт 443.
-
-*   **include** (включвам)
-    *   EN: The price does not *include* taxes.
-    *   BG: Цената не *включва* данъци.
-
-*   **incoming** (входящ)
-    *   EN: Filter *incoming* emails for spam.
-    *   BG: Филтрирайте *входящите* имейли за нежелана поща.
-
-*   **incremental** (нарастващ)
-    *   EN: Perform an *incremental* backup to save space.
-    *   BG: Направете *нарастващо* резервно копие, за да спестите място.
-
-*   **indirect** (непряк)
-    *   EN: Access the property through an *indirect* reference.
-    *   BG: Достъпете свойството чрез *непряка* препратка.
-
-*   **infinite** (безкраен)
-    *   EN: Be careful not to create an *infinite* loop.
-    *   BG: Внимавайте да не създадете *безкраен* цикъл.
-
-*   **infinite number** (безкрайно число)
-    *   EN: There is an *infinite number* of points on a line segment.
-    *   BG: Има *безкрайно число* точки върху отсечка.
-
-*   **infinity** (безкрайност)
-    *   EN: Divide by zero results in *infinity*.
-    *   BG: Делението на нула води до *безкрайност*.
-
-*   **index** (указател)
-    *   EN: Create a database *index* to speed up queries.
-    *   BG: Създайте *указател* в базата данни, за да ускорите заявките.
-
-*   **inflate** (раздувам)
-    *   EN: The function will *inflate* the compressed data.
-    *   BG: Функцията ще *раздуе* компресираните данни.
-
-*   **(to be) informed** (да бъда известен)
-    *   EN: Ensure all stakeholders *are informed* about the changes.
-    *   BG: Уверете се, че всички заинтересовани страни *са известени* за промените.
-
-*   **informed** (обоснован)
-    *   EN: Make an *informed* choice after reviewing the options.
-    *   BG: Направете *обоснован* избор след преглед на опциите.
-
-*   **(to) inform** (да известя)
-    *   EN: Please *inform* the team about the meeting schedule.
-    *   BG: Моля, *известете* екипа за графика на срещата.
-
-*   **initiate** (започвам)
-    *   EN: Click the button *to initiate* the download process.
-    *   BG: Натиснете копчето, за *да започнете* процеса на изтегляне.
-
-*   **inject** (внасям)
-    *   EN: The framework will *inject* the required dependencies automatically.
-    *   BG: Рамката ще *внесе* необходимите зависимости автоматично.
-
-*   **(dependency) injection** (внасяне на зависимости)
-    *   EN: Use *dependency injection* for better testability.
-    *   BG: Използвайте *внасяне на зависимости* за по-добра възможност за тестване.
-
-*   **input** (вход)
-    *   EN: Validate the user *input* before processing.
-    *   BG: Проверете потребителския *вход*, преди да го обработите.
-
-*   **input** (въвеждам)
-    *   EN: Please *input* your password.
-    *   BG: Моля, *въведете* вашата парола.
-
-*   **inspect** (преглеждам)
-    *   EN: Use the browser's developer tools *to inspect* the element.
-    *   BG: Използвайте инструментите за разработчици на браузъра, за *да прегледате* елемента.
-
-*   **(to) install** (поставям)
-    *   EN: Follow the instructions *to install* the software.
-    *   BG: Следвайте инструкциите, за *да поставите* софтуера.
-
-*   **(an) installation** (установка)
-    *   EN: The software *installation* was successful.
-    *   BG: *Установката* на софтуера беше успешна.
-
-*   **instant** (незабавен)
-    *   EN: Get *instant* notifications for new messages.
-    *   BG: Получавайте *незабавни* известия за нови съобщения.
-
-*   **instruction set** (набор инструкции)
-    *   EN: The processor implements the x86 *instruction set*.
-    *   BG: Процесорът прилага x86 *набора инструкции*.
-
-*   **intangible** (неосезаем)
-    *   EN: Brand reputation is an *intangible* asset.
-    *   BG: Репутацията на марката е *неосезаема* собственост.
-
-*   **integer** (целочислен)
-    *   EN: The variable stores an *integer* value.
-    *   BG: Променливата съхранява *целочислена* стойност.
-
-*   **integral part** (неразделима част)
-    *   EN: Security is an *integral part* of the system design.
-    *   BG: Сигурността е *неразделима част* от дизайна на системата.
-
-*   **integrate** (обединявам)
-    *   EN: We need *to integrate* the new module with the existing codebase.
-    *   BG: Трябва *да обединим* новия модул със съществуващия код.
-
-*   **interceptor** (прихващач)
-    *   EN: Add an HTTP *interceptor* to modify requests.
-    *   BG: Добавете HTTP *прихващач*, за да променяте заявките.
-
-*   **interface** (повърхност на взаимодействие)
-    *   EN: The application has a user-friendly *interface*.
-    *   BG: Приложението има лесна за ползване *повърхност на взаимодействие*.
-
-*   **intermediate** (междинен)
-    *   EN: Save the *intermediate* results to a temporary file.
-    *   BG: Запазете *междинните* резултати във временен файл.
-
-*   **interrupt** (прекъсване)
-    *   EN: A hardware *interrupt* signals the CPU about an event.
-    *   BG: Хардуерно *прекъсване* сигнализира процесора за събитие.
-
-*   **intrusion** (проникване)
-    *   EN: The system detected a network *intrusion*.
-    *   BG: Системата откри мрежово *проникване*.
-
-*   **(to) invent** (изобретявам)
-    *   EN: He helped *to invent* the first graphical web browser.
-    *   BG: Той помогна *да се изобрети* първият графичен уеб браузър.
-
-*   **invention** (изобретение)
-    *   EN: The transistor was a revolutionary *invention*.
-    *   BG: Транзисторът беше революционно *изобретение*.
-
-*   **inventor** (изобретател)
-    *   EN: Tim Berners-Lee is the *inventor* of the World Wide Web.
-    *   BG: Тим Бърнърс-Лий е *изобретателят* на световната мрежа.
-
-*   **inventory** (складова наличност)
-    *   EN: Check the current *inventory* levels.
-    *   BG: Проверете текущите нива на *складова наличност*.
-
-*   **invoke** (извиквам)
-    *   EN: *Invoke* the function with the correct arguments.
-    *   BG: *Извикайте* функцията с правилните аргументи.
-
-*   **ip address** (мрежови адрес)
-    *   EN: Find the *IP address* of the server.
-    *   BG: Намерете *мрежовия адрес* на сървъра.
-
-*   **irradiance** (облъчване)
-    *   EN: Measure the solar *irradiance* levels.
-    *   BG: Измерете нивата на слънчево *облъчване*.
-
-*   **isosceles** (равнобедрен)
-    *   EN: An *isosceles* triangle has at least two equal sides.
-    *   BG: *Равнобедреният* триъгълник има поне две равни страни.
-
-*   **issue** (казус)
-    *   EN: Report the software bug as a new *issue*.
-    *   BG: Докладвайте софтуерния недъг като нов *казус*.
-
-*   **item** (артикул)
-    *   EN: Select an *item* from the list.
-    *   BG: Изберете *артикул* от списъка.
-
-## I
-
-*   **(an) identifier** (определител)
-    *   EN: Each user account has a unique *identifier*.
-    *   BG: Всяка потребителска сметка има уникален *определител*.
-
-*   **(an) identity** (самоличност)
-    *   EN: Verify the user's *identity* before granting access.
-    *   BG: Проверете *самоличността* на потребителя, преди да предоставите достъп.
-
-*   **(an) identity** (тъждество)
-    *   EN: The equation represents a mathematical *identity*.
-    *   BG: Уравнението представлява математическо *тъждество*.
-
-*   **idle time** (празен ход)
-    *   EN: Monitor the CPU *idle time* to check system load.
-    *   BG: Наблюдавайте времето на *празен ход* на процесора, за да проверите натоварването на системата.
-
-*   **ignorant** (невеж)
-    *   EN: Don't be *ignorant* of security best practices.
-    *   BG: Не бъдете *невежи* относно най-добрите практики за сигурност.
-
-*   **(to) ignore** (пренебрегвам)
-    *   EN: You can configure the system *to ignore* certain warnings.
-    *   BG: Можете да конфигурирате системата *да пренебрегва* определени предупреждения.
-
-*   **image** (изображение)
-    *   EN: Optimize the *image* size for faster loading.
-    *   BG: Оптимизирайте размера на *изображението* за по-бързо зареждане.
-
-*   **immediate** (непосредствен)
-    *   EN: The change had an *immediate* effect on performance.
-    *   BG: Промяната имаше *непосредствен* ефект върху производителността.
-
-*   **impact** (влияние)
-    *   EN: Assess the *impact* of the new feature on existing users.
-    *   BG: Оценете *влиянието* на новата възможност върху съществуващите потребители.
-
-*   **implementation** (изпълнение)
-    *   EN: The *implementation* of the algorithm was complex.
-    *   BG: *Изпълнението* на алгоритъма беше сложно.
-
-*   **import** (внасяне)
-    *   EN: Data *import* from the CSV file failed.
-    *   BG: *Внасянето* на данни от CSV файла се провали.
-
-*   **(to) import** (внасям)
-    *   EN: You need *to import* the library before using its functions.
-    *   BG: Трябва *да внесете* библиотеката, преди да използвате нейните функции.
-
-*   **imported** (внесен)
-    *   EN: Check the list of *imported* modules.
-    *   BG: Проверете списъка с *внесени* модули.
-
-*   **inbound** (входящ)
-    *   EN: Configure the firewall to allow *inbound* connections on port 443.
-    *   BG: Конфигурирайте защитната стена да позволява *входящи* връзки на порт 443.
-
-*   **include** (включвам)
-    *   EN: The price does not *include* taxes.
-    *   BG: Цената не *включва* данъци.
-
-*   **incoming** (входящ)
-    *   EN: Filter *incoming* emails for spam.
-    *   BG: Филтрирайте *входящите* имейли за нежелана поща.
-
-*   **incremental** (нарастващ)
-    *   EN: Perform an *incremental* backup to save space.
-    *   BG: Направете *нарастващо* резервно копие, за да спестите място.
-
-*   **indirect** (непряк)
-    *   EN: Access the property through an *indirect* reference.
-    *   BG: Достъпете свойството чрез *непряка* препратка.
-
-*   **infinite** (безкраен)
-    *   EN: Be careful not to create an *infinite* loop.
-    *   BG: Внимавайте да не създадете *безкраен* цикъл.
-
-*   **infinite number** (безкрайно число)
-    *   EN: There is an *infinite number* of points on a line segment.
-    *   BG: Има *безкрайно число* точки върху отсечка.
-
-*   **infinity** (безкрайност)
-    *   EN: Divide by zero results in *infinity*.
-    *   BG: Делението на нула води до *безкрайност*.
-
-*   **index** (указател)
-    *   EN: Create a database *index* to speed up queries.
-    *   BG: Създайте *указател* в базата данни, за да ускорите заявките.
-
-*   **inflate** (раздувам)
-    *   EN: The function will *inflate* the compressed data.
-    *   BG: Функцията ще *раздуе* компресираните данни.
-
-*   **(to be) informed** (да бъда известен)
-    *   EN: Ensure all stakeholders *are informed* about the changes.
-    *   BG: Уверете се, че всички заинтересовани страни *са известени* за промените.
-
-*   **informed** (обоснован)
-    *   EN: Make an *informed* choice after reviewing the options.
-    *   BG: Направете *обоснован* избор след преглед на опциите.
-
-*   **(to) inform** (да известя)
-    *   EN: Please *inform* the team about the meeting schedule.
-    *   BG: Моля, *известете* екипа за графика на срещата.
-
-*   **initiate** (започвам)
-    *   EN: Click the button *to initiate* the download process.
-    *   BG: Натиснете копчето, за *да започнете* процеса на изтегляне.
-
-*   **inject** (внасям)
-    *   EN: The framework will *inject* the required dependencies automatically.
-    *   BG: Рамката ще *внесе* необходимите зависимости автоматично.
-
-*   **(dependency) injection** (внасяне на зависимости)
-    *   EN: Use *dependency injection* for better testability.
-    *   BG: Използвайте *внасяне на зависимости* за по-добра възможност за тестване.
-
-*   **input** (вход)
-    *   EN: Validate the user *input* before processing.
-    *   BG: Проверете потребителския *вход*, преди да го обработите.
-
-*   **input** (въвеждам)
-    *   EN: Please *input* your password.
-    *   BG: Моля, *въведете* вашата парола.
-
-*   **inspect** (преглеждам)
-    *   EN: Use the browser's developer tools *to inspect* the element.
-    *   BG: Използвайте инструментите за разработчици на браузъра, за *да прегледате* елемента.
-
-*   **(to) install** (поставям)
-    *   EN: Follow the instructions *to install* the software.
-    *   BG: Следвайте инструкциите, за *да поставите* софтуера.
-
-*   **(an) installation** (установка)
-    *   EN: The software *installation* was successful.
-    *   BG: *Установката* на софтуера беше успешна.
-
-*   **instant** (незабавен)
-    *   EN: Get *instant* notifications for new messages.
-    *   BG: Получавайте *незабавни* известия за нови съобщения.
-
-*   **instruction set** (набор инструкции)
-    *   EN: The processor implements the x86 *instruction set*.
-    *   BG: Процесорът прилага x86 *набора инструкции*.
-
-*   **intangible** (неосезаем)
-    *   EN: Brand reputation is an *intangible* asset.
-    *   BG: Репутацията на марката е *неосезаема* собственост.
-
-*   **integer** (целочислен)
-    *   EN: The variable stores an *integer* value.
-    *   BG: Променливата съхранява *целочислена* стойност.
-
-*   **integral part** (неразделима част)
-    *   EN: Security is an *integral part* of the system design.
-    *   BG: Сигурността е *неразделима част* от дизайна на системата.
-
-*   **integrate** (обединявам)
-    *   EN: We need *to integrate* the new module with the existing codebase.
-    *   BG: Трябва *да обединим* новия модул със съществуващия код.
-
-*   **interceptor** (прихващач)
-    *   EN: Add an HTTP *interceptor* to modify requests.
-    *   BG: Добавете HTTP *прихващач*, за да променяте заявките.
-
-*   **interface** (повърхност на взаимодействие)
-    *   EN: The application has a user-friendly *interface*.
-    *   BG: Приложението има лесна за ползване *повърхност на взаимодействие*.
-
-*   **intermediate** (междинен)
-    *   EN: Save the *intermediate* results to a temporary file.
-    *   BG: Запазете *междинните* резултати във временен файл.
-
-*   **interrupt** (прекъсване)
-    *   EN: A hardware *interrupt* signals the CPU about an event.
-    *   BG: Хардуерно *прекъсване* сигнализира процесора за събитие.
-
-*   **intrusion** (проникване)
-    *   EN: The system detected a network *intrusion*.
-    *   BG: Системата откри мрежово *проникване*.
-
-*   **(to) invent** (изобретявам)
-    *   EN: He helped *to invent* the first graphical web browser.
-    *   BG: Той помогна *да се изобрети* първият графичен уеб браузър.
-
-*   **invention** (изобретение)
-    *   EN: The transistor was a revolutionary *invention*.
-    *   BG: Транзисторът беше революционно *изобретение*.
-
-*   **inventor** (изобретател)
-    *   EN: Tim Berners-Lee is the *inventor* of the World Wide Web.
-    *   BG: Тим Бърнърс-Лий е *изобретателят* на световната мрежа.
-
-*   **inventory** (складова наличност)
-    *   EN: Check the current *inventory* levels.
-    *   BG: Проверете текущите нива на *складова наличност*.
-
-*   **invoke** (извиквам)
-    *   EN: *Invoke* the function with the correct arguments.
-    *   BG: *Извикайте* функцията с правилните аргументи.
-
-*   **ip address** (мрежови адрес)
-    *   EN: Find the *IP address* of the server.
-    *   BG: Намерете *мрежовия адрес* на сървъра.
-
-*   **irradiance** (облъчване)
-    *   EN: Measure the solar *irradiance* levels.
-    *   BG: Измерете нивата на слънчево *облъчване*.
-
-*   **isosceles** (равнобедрен)
-    *   EN: An *isosceles* triangle has at least two equal sides.
-    *   BG: *Равнобедреният* триъгълник има поне две равни страни.
-
-*   **issue** (казус)
-    *   EN: Report the software bug as a new *issue*.
-    *   BG: Докладвайте софтуерния недъг като нов *казус*.
-
-*   **item** (артикул)
-    *   EN: Select an *item* from the list.
-    *   BG: Изберете *артикул* от списъка.
-
-## H
-
-*   **(to) handle** (боравя с)
-    *   EN: The function needs *to handle* null values correctly.
-    *   BG: Функцията трябва *да борави с* нулеви стойности правилно.
-
-*   **handler** (обработваща функция)
-    *   EN: Attach an event *handler* to the button.
-    *   BG: Прикрепете *обработваща функция* за събития към копчето.
-
-*   **hard drive** (твърд диск)
-    *   EN: Save the file to your *hard drive*.
-    *   BG: Запазете файла на вашия *твърд диск*.
-
-*   **handshake** (ръкостискане)
-    *   EN: The TLS *handshake* establishes a secure connection.
-    *   BG: TLS *ръкостискането* установява сигурна връзка.
-
-*   **hash array, hash** (асоциативен списък)
-    *   EN: Use a *hash* map for efficient key-value lookups.
-    *   BG: Използвайте *асоциативен списък* за ефективно търсене по ключ-стойност.
-
-*   **hate** (злина)
-    *   EN: Combat online *hate* speech.
-    *   BG: Борете се с онлайн речта, проповядваща *злина*.
-
-*   **hater** (злобар)
-    *   EN: Ignore the comments from online *haters*.
-    *   BG: Пренебрегвайте коментарите от онлайн *злобари*.
-
-*   **header** (заглавна част - HTTP)
-    *   EN: Check the 'Content-Type' *header* in the HTTP response.
-    *   BG: Проверете *заглавната част* 'Content-Type' в HTTP отговора.
-
-*   **header** (заглавка - документ)
-    *   EN: Add the document title to the page *header*.
-    *   BG: Добавете заглавието на документа в *заглавката* на страницата.
-
-*   **(a) heading** (заглавие)
-    *   EN: Use clear *headings* to structure the document.
-    *   BG: Използвайте ясни *заглавия*, за да структурирате документа.
-
-*   **headquarter(s)** (седалище)
-    *   EN: The company's *headquarters* are located in Sofia.
-    *   BG: *Седалището* на компанията се намира в София.
-
-*   **history** (история)
-    *   EN: View the browser *history* to find the page again.
-    *   BG: Прегледайте *историята* на браузъра, за да намерите страницата отново.
-
-*   **on hold** (в изчакване)
-    *   EN: Put the task *on hold* until we get more information.
-    *   BG: Поставете задачата *в изчакване*, докато получим повече информация.
-
-*   **homepage** (заглавна страница)
-    *   EN: Navigate back to the website's *homepage*.
-    *   BG: Върнете се към *заглавната страница* на уебсайта.
-
-*   **(a) hook** (кука)
-    *   EN: Use a lifecycle *hook* to run code when the component mounts.
-    *   BG: Използвайте *кука* за жизнения цикъл, за да изпълните код, когато компонентът се монтира.
-
-*   **(to) hook** (закачам)
-    *   EN: You can *hook* into the application's event system.
-    *   BG: Можете да се *закачите* към системата за събития на приложението.
-
-*   **(a) host** (крайна точка)
-    *   EN: Specify the server *host* name and port number.
-    *   BG: Посочете името на *крайната точка* на сървъра и номера на порта.
-
-## H
-
-*   **(to) handle** (боравя с)
-    *   EN: The function needs *to handle* null values correctly.
-    *   BG: Функцията трябва *да борави с* нулеви стойности правилно.
-
-*   **handler** (обработваща функция)
-    *   EN: Attach an event *handler* to the button.
-    *   BG: Прикрепете *обработваща функция* за събития към копчето.
-
-*   **hard drive** (твърд диск)
-    *   EN: Save the file to your *hard drive*.
-    *   BG: Запазете файла на вашия *твърд диск*.
-
-*   **handshake** (ръкостискане)
-    *   EN: The TLS *handshake* establishes a secure connection.
-    *   BG: TLS *ръкостискането* установява сигурна връзка.
-
-*   **hash array, hash** (асоциативен списък)
-    *   EN: Use a *hash* map for efficient key-value lookups.
-    *   BG: Използвайте *асоциативен списък* за ефективно търсене по ключ-стойност.
-
-*   **hate** (злина)
-    *   EN: Combat online *hate* speech.
-    *   BG: Борете се с онлайн речта, проповядваща *злина*.
-
-*   **hater** (злобар)
-    *   EN: Ignore the comments from online *haters*.
-    *   BG: Пренебрегвайте коментарите от онлайн *злобари*.
-
-*   **header** (заглавна част - HTTP)
-    *   EN: Check the 'Content-Type' *header* in the HTTP response.
-    *   BG: Проверете *заглавната част* 'Content-Type' в HTTP отговора.
-
-*   **header** (заглавка - документ)
-    *   EN: Add the document title to the page *header*.
-    *   BG: Добавете заглавието на документа в *заглавката* на страницата.
-
-*   **(a) heading** (заглавие)
-    *   EN: Use clear *headings* to structure the document.
-    *   BG: Използвайте ясни *заглавия*, за да структурирате документа.
-
-*   **headquarter(s)** (седалище)
-    *   EN: The company's *headquarters* are located in Sofia.
-    *   BG: *Седалището* на компанията се намира в София.
-
-*   **history** (история)
-    *   EN: View the browser *history* to find the page again.
-    *   BG: Прегледайте *историята* на браузъра, за да намерите страницата отново.
-
-*   **on hold** (в изчакване)
-    *   EN: Put the task *on hold* until we get more information.
-    *   BG: Поставете задачата *в изчакване*, докато получим повече информация.
-
-*   **homepage** (заглавна страница)
-    *   EN: Navigate back to the website's *homepage*.
-    *   BG: Върнете се към *заглавната страница* на уебсайта.
-
-*   **(a) hook** (кука)
-    *   EN: Use a lifecycle *hook* to run code when the component mounts.
-    *   BG: Използвайте *кука* за жизнения цикъл, за да изпълните код, когато компонентът се монтира.
-
-*   **(to) hook** (закачам)
-    *   EN: You can *hook* into the application's event system.
-    *   BG: Можете да се *закачите* към системата за събития на приложението.
-
-*   **(a) host** (крайна точка)
-    *   EN: Specify the server *host* name and port number.
-    *   BG: Посочете името на *крайната точка* на сървъра и номера на порта.
-
-## G
-
-*   **(a) gaming gear** (игрално оборудване)
-    *   EN: He bought new *gaming gear* for the tournament.
-    *   BG: Той купи ново *игрално оборудване* за турнира.
-
-*   **gap** (празнина)
-    *   EN: There is a *gap* in the documentation for this feature.
-    *   BG: Има *празнина* в документацията за тази възможност.
-
-*   **garbage collector** (чистач)
-    *   EN: The *garbage collector* frees up unused memory automatically.
-    *   BG: *Чистачът* освобождава неизползваната памет автоматично.
-
-*   **gate** (порта)
-    *   EN: A logic *gate* performs a basic logical function.
-    *   BG: Логическата *порта* изпълнява основна логическа функция.
-
-*   **gears** (зъбни колела)
-    *   EN: The mechanism uses interlocking *gears*.
-    *   BG: Механизмът използва зацепващи се *зъбни колела*.
-
-*   **gear** (предавка)
-    *   EN: Switch to a lower *gear* when going uphill.
-    *   BG: Превключете на по-ниска *предавка*, когато изкачвате наклон.
-
-*   **generalization** (обобщаване)
-    *   EN: The model shows good *generalization* to unseen data.
-    *   BG: Моделът показва добро *обобщаване* върху невиждани данни.
-
-*   **generic** (общ)
-    *   EN: Use a *generic* function to handle different data types.
-    *   BG: Използвайте *обща* функция за обработка на различни типове данни.
-
-*   **(a) goal** (цел)
-    *   EN: The main *goal* of this project is to improve performance.
-    *   BG: Основната *цел* на този проект е да подобри производителността.
-
-*   **(a/the) gist** (същност)
-    *   EN: Can you give me the *gist* of the report?
-    *   BG: Можеш ли да ми кажеш *същността* на доклада?
-
-*   **(the) go to (something)** (обичаен)
-    *   EN: Python is the *go-to* language for data science.
-    *   BG: Python е *обичайният* език за наука за данните.
-
-*   **governance** (управление)
-    *   EN: Implement data *governance* policies.
-    *   BG: Приложете политики за *управление* на данните.
-
-*   **greedy algorithm** (алчен алгоритъм)
-    *   EN: A *greedy algorithm* makes the locally optimal choice at each step.
-    *   BG: *Алчният алгоритъм* прави локално оптималния избор на всяка стъпка.
-
-*   **(a) guide** (ръководство)
-    *   EN: Follow the installation *guide*.
-    *   BG: Следвайте *ръководството* за инсталация.
-
-*   **(to) guide** (водя)
-    *   EN: This tutorial will *guide* you through the process.
-    *   BG: Този самоучител ще ви *води* през процеса.
-
-## F
-
-*   **(to) facilitate** (спомагам)
-    *   EN: This tool aims *to facilitate* collaboration between teams.
-    *   BG: Този инструмент цели *да спомогне* сътрудничеството между екипите.
-
-*   **facility** (съоръжение)
-    *   EN: The data center is a secure *facility*.
-    *   BG: Центърът за данни е сигурно *съоръжение*.
-
-*   **failure** (провал)
-    *   EN: Handle potential network *failures* gracefully.
-    *   BG: Обработвайте потенциалните мрежови *провали* елегантно.
-
-*   **fault** (неизправност)
-    *   EN: A hardware *fault* caused the system outage.
-    *   BG: Хардуерна *неизправност* причини прекъсването на системата.
-
-*   **fallback** (отстъпление)
-    *   EN: Implement a *fallback* mechanism if the primary service is unavailable.
-    *   BG: Приложете механизъм за *отстъпление*, ако основната услуга не е налична.
-
-*   **fake** (фалшив)
-    *   EN: Beware of *fake* login pages designed to steal credentials.
-    *   BG: Пазете се от *фалшиви* страници за вход, предназначени да крадат данни за достъп.
-
-*   **feature** (възможност)
-    *   EN: The latest update includes several new *features*.
-    *   BG: Последното обновление включва няколко нови *възможности*.
-
-*   **featured** (препоръчан)
-    *   EN: Check out the *featured* articles on the homepage.
-    *   BG: Вижте *препоръчаните* статии на заглавната страница.
-
-*   **(data) feed** (поток данни)
-    *   EN: Subscribe to the real-time data *feed*.
-    *   BG: Абонирайте се за *потока от данни* в реално време.
-
-*   **feedback** (отзив)
-    *   EN: We appreciate your *feedback* on the new design.
-    *   BG: Оценяваме вашия *отзив* за новия дизайн.
-
-*   **(to) fetch** (вземам)
-    *   EN: The application needs *to fetch* data from the server.
-    *   BG: Приложението трябва *да вземе* данни от сървъра.
-
-*   **field** (поле)
-    *   EN: Enter your username in the corresponding *field*.
-    *   BG: Въведете вашето потребителско име в съответното *поле*.
-
-*   **(to) filter** (отсявам)
-    *   EN: You can *filter* the results based on date.
-    *   BG: Можете да *отсеете* резултатите по дата.
-
-*   **(to) fine-tune** (донастройвам)
-    *   EN: We need *to fine-tune* the model parameters for better accuracy.
-    *   BG: Трябва *да донастроим* параметрите на модела за по-добра точност.
-
-*   **(a) finetuning** (фина настройка)
-    *   EN: *Finetuning* the language model improved its performance on specific tasks.
-    *   BG: *Фината настройка* на езиковия модел подобри неговата производителност при специфични задачи.
-
-*   **firewall** (защитна стена)
-    *   EN: Configure the *firewall* to block malicious traffic.
-    *   BG: Конфигурирайте *защитната стена* да блокира злонамерен трафик.
-
-*   **focal point review** (преглед на развитието)
-    *   EN: The annual *focal point review* assesses employee progress.
-    *   BG: Годишният *преглед на развитието* оценява напредъка на служителите.
-
-*   **flagman, flagship** (водещ)
-    *   EN: This is the company's *flagship* product.
-    *   BG: Това е *водещият* продукт на компанията.
-
-*   **flat** (плосък)
-    *   EN: The data structure is *flat*, with no nesting.
-    *   BG: Структурата на данните е *плоска*, без влагане.
-
-*   **(a) flattening** (сплескване)
-    *   EN: Array *flattening* converts a multi-dimensional array into a single dimension.
-    *   BG: *Сплескването* на поредица преобразува многомерна поредица в едномерна.
-
-*   **flaw** (недостатък)
-    *   EN: A security *flaw* was discovered in the authentication process.
-    *   BG: Беше открит *недостатък* в сигурността при процеса на удостоверяване.
-
-*   **flawless** (безупречен)
-    *   EN: The system performed a *flawless* update.
-    *   BG: Системата извърши *безупречно* обновление.
-
-*   **(a) flow** (поток)
-    *   EN: Visualize the data *flow* through the application.
-    *   BG: Визуализирайте *потока* от данни през приложението.
-
-*   **(to) flow** (тека)
-    *   EN: Data will *flow* from the sensor to the database.
-    *   BG: Данните ще *текат* от сензора към базата данни.
-
-*   **folder** (папка)
-    *   EN: Organize your files into different *folders*.
-    *   BG: Организирайте файловете си в различни *папки*.
-
-*   **followers** (последователи)
-    *   EN: The project gained many *followers* on social media.
-    *   BG: Проектът спечели много *последователи* в социалните мрежи.
-
-*   **font** (шрифт)
-    *   EN: Choose an appropriate *font* for the document body.
-    *   BG: Изберете подходящ *шрифт* за тялото на документа.
-
-*   **force** (сила)
-    *   EN: Use the '-f' flag to *force* the operation.
-    *   BG: Използвайте флага '-f', за да приложите *сила* при операцията.
-
-*   **forecast** (прогноза)
-    *   EN: The sales *forecast* for the next quarter looks promising.
-    *   BG: *Прогнозата* за продажбите за следващото тримесечие изглежда обещаваща.
-
-*   **(a) fork** (разклонение)
-    *   EN: Create a *fork* of the repository to propose changes.
-    *   BG: Създайте *разклонение* на хранилището, за да предложите промени.
-
-*   **framework** (работна рамка)
-    *   EN: Choose a suitable web *framework* for the project.
-    *   BG: Изберете подходяща уеб *работна рамка* за проекта.
-
-*   **frequency** (честота)
-    *   EN: Monitor the *frequency* of errors in the logs.
-    *   BG: Наблюдавайте *честотата* на грешките в записите.
+    *   BG: Наблюдавайте *честотата* на грешките в журналите.
