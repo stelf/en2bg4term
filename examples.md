@@ -11,8 +11,10 @@
     *   BG: За да се потвърди подхода, статията представя подробни *изследвания чрез отнемане*.
 
 *   **(to) abort** (прекратявам)
-    *   EN: The system had to *abort* the processing due to an error.
-    *   BG: Грешка принуди системата да *прекрати* обработването.
+    *   EN: An error caused the processing to *abort*.
+    *   BG: Грешка причини *прекратяване* на обработването.
+    *   BG: Грешка стана причина за *преустановяване* на обработката.
+    *   BG: Грешка доведе до *отмяна* на обработката.
 
 *   **(an) access** (достъп)
     *   EN: You need special permissions for *access* the directory.
@@ -271,8 +273,8 @@
     *   BG: Проверете дали ресурсът е *наличен*.
 
 *   **availability** (наличност)
-    *   EN: High *availability* is a key requirement for this service.
-    *   BG: Постоянна *наличност* е ключово изискване за тази услуга.
+    *   EN: High *availability* is a key requirement for this client.
+    *   BG: Постоянна *наличност* е ключово изискване за тoзи купувач.
 
 *   **avatar** (лик)
     *   EN: Choose an *avatar* to represent you in the game.
@@ -333,8 +335,8 @@
     *   BG: Установете *отправна точка* за производителността, преди да правите промени.
 
 *   **basic** (основен)
-    *   EN: This guide covers the *basic* features of the application.
-    *   BG: Това ръководство покрива *основните* възможности на приложението.
+    *   EN: This guide covers the *basic* features of the service.
+    *   BG: Това ръководство покрива *основните* възможности на услугата.
 
 *   **batch** (партида)
     *   EN: Process the data in *batches* to save memory.
@@ -680,7 +682,7 @@
 
 *   **clipboard** (междинна памет)
     *   EN: Copy the text to the *clipboard*.
-    *   BG: Копирайте текста в *междинната/временна памет*.
+    *   BG: Сложете (препишете) текста в *междинната/временна памет*.
 
 *   **(a) cluster** (струпване)
     *   EN: The data points form a distinct *cluster*.
@@ -715,8 +717,8 @@
     *   BG: Тази възможност е *съчетание* от потребителски заявки.
 
 *   **(to) compare** (сравнявам)
-    *   EN: *Compare* the two files to see the differences.
-    *   BG: *Сравнете* двата файла, за да видите разликите.
+    *   EN: *Compare* the two files to discover differences.
+    *   BG: *Сравнете* двата файла, за да откриете разлики.
 
 *   **(a) color** (цвят)
     *   EN: Choose a background *color* for the website.
@@ -869,8 +871,8 @@
     *   BG: Алгоритъмът достига *сходимост* след 100 итерации.
 
 *   **convert** (обръщам)
-    *   EN: You can *convert* the file to a different format.
-    *   BG: Можете да *обърнете* файла в различен формат.
+    *   EN: You can *convert* the contents to a different format.
+    *   BG: Можете да *обърнете* съдържанието в различен формат.
 
 *   **convex** (изпъкнал)
     *   EN: The optimization problem involves a *convex* function.
@@ -914,7 +916,7 @@
 
 *   **(a) counter** (брояч)
     *   EN: Use a *counter* to track the number of iterations.
-    *   BG: Използвайте *брояч*, за да следите броя на итерациите.
+    *   BG: Използвайте *брояч*, за да следите броя повторения.
 
 *   **(a) counter (to)** (противодействие)
     *   EN: Implement security measures as a *counter* to potential attacks.
@@ -970,7 +972,7 @@
 
 *   **currently** (понастоящем)
     *   EN: The system is *currently* unavailable.
-    *   BG: Системата *понастоящем* не е налична.
+    *   BG: Системата е *понастоящем* неналична.
 
 *   **cursor** (показалец)
     *   EN: Move the *cursor* to the beginning of the line.
@@ -1008,7 +1010,7 @@
 
 *   **data mining** (извличане на закономерности)
     *   EN: *Data mining* techniques help discover hidden patterns.
-    *   BG: Техниките за *извличане на закономерности* (в данни) помагат за откриване на скрити модели.
+    *   BG: Техниките за *извличане на закономерности* (в данни) помагат за откриване на скрити закономерности/структури.
 
 *   **database** (база данни)
     *   EN: Store the user information in the *database*.
@@ -1044,7 +1046,7 @@
 
 *   **decryption** (разкриване на тайнопис)
     *   EN: The *decryption* process failed due to an incorrect password.
-    *   BG: Процесът на *разкриване на тайнопис* се провали поради неправилна парола.
+    *   BG: Процесът на *разкриване на тайнопис* се провали заради неправилна парола.
 
 *   **dedicated** (посветен)
     *   EN: Use a *dedicated* server for the database.
@@ -1260,7 +1262,7 @@
 
 *   **discovery** (откриване)
     *   EN: Enable network *discovery* to see other computers.
-    *   BG: Разрешете мрежовото *откриване*, за да виждате други компютри.
+    *   BG: Разрешете *откриване* в мрежата, за да виждате други компютри.
 
 *   **distributed architecture** (разпределена архитектура)
     *   EN: Microservices often use a *distributed architecture*.
@@ -1313,8 +1315,8 @@
     *   BG: Имате разрешение *да променяте* този документ.
 
 *   **(an) editor** (редактор)
-    *   EN: Use a text *editor* to modify the configuration file.
-    *   BG: Използвайте текстов *редактор*, за да промените конфигурационния файл.
+    *   EN: Use a text *editor* to modify the configuration.
+    *   BG: Използвайте текстов *редактор*, за да промените настройките.
 
 *   **elapsed** (изминал)
     *   EN: Calculate the *elapsed* time since the process started.
@@ -1397,12 +1399,12 @@
     *   BG: Конфигурирайте приложението за производствената *среда*.
 
 *   **epic fail** (пълен провал)
-    *   EN: Forgetting to save the file before the crash was an *epic fail*.
-    *   BG: Забравянето да се запази файлът преди срива беше *пълен провал*.
+    *   EN: Forgetting to save the state before the crash was an *epic fail*.
+    *   BG: Забравянето да се запази състоянието преди срива беше *пълен провал*.
 
 *   **enqueue** (нареждам на опашка)
     *   EN: *Enqueue* the task for later processing.
-    *   BG: *Наредете задачата на опашка* за по-късна обработка.
+    *   BG: *Наредете задачата в опашката* за по-късна обработка.
 
 *   **equilateral** (равностранен)
     *   EN: An *equilateral* triangle has three equal sides.
@@ -1424,9 +1426,9 @@
     *   EN: Provide a time *estimate* for completing the task.
     *   BG: Предоставете *разчет* за времето за завършване на задачата.
 
-*   **(to) estimate** (определям)
-    *   EN: We need *to estimate* the resources required.
-    *   BG: Трябва *да определим* необходимите ресурси.
+*   **(to) estimate** (определям, оценявам)
+    *   EN: We need *to estimate* the costs.
+    *   BG: Трябва *да определим/оценим* разходите.
 
 *   **evaluation** (оценяване)
     *   EN: The performance *evaluation* showed positive results.
@@ -1446,23 +1448,23 @@
 
 *   **exception** (изключение)
     *   EN: Catch the file-not-found *exception*.
-    *   BG: Прихванете *изключението* за ненамерен файл.
+    *   BG: Прихванете *изключението* при неоткриваем файл.
 
-*   **exclude** (изключвам)
-    *   EN: *Exclude* temporary files from the backup.
-    *   BG: *Изключете* временните файлове от резервното копие.
+*   **exclude** (изключвам, пропускам)
+    *   EN: *Exclude* the temporary data.
+    *   BG: *Изключване/Пропускане* (на) временните данните.
 
 *   **execution** (изпълнение)
-    *   EN: Monitor the program *execution* time.
-    *   BG: Наблюдавайте времето за *изпълнение* на програмата.
+    *   EN: Monitor the *execution* time.
+    *   BG: Наблюдавайте времето за *изпълнение*.
 
 *   **expired** (изтекъл)
     *   EN: Your session has *expired*, please log in again.
     *   BG: Вашата сесия е *изтекла*, моля, влезте отново.
 
 *   **explicit** (явен)
-    *   EN: Use an *explicit* type cast for the conversion.
-    *   BG: Използвайте *явно* преобразуване на тип за конвертирането.
+    *   EN: Use an *explicit* type cast.
+    *   BG: Използвайте *явно* преобразуване на типовете.
 
 *   **exploit** (пробив)
     *   EN: Hackers used an *exploit* to gain unauthorized access.
@@ -1478,7 +1480,7 @@
 
 *   **extent** (обхват)
     *   EN: Define the geographical *extent* of the map view.
-    *   BG: Дефинирайте географския *обхват* на изгледа на картата.
+    *   BG: Определете географския *обхват* на картния изгледа.
 
 *   **extension** (разширение)
     *   EN: Install a browser *extension* to block ads.
@@ -1486,7 +1488,7 @@
 
 *   **extortion** (изнудване)
     *   EN: Ransomware performs data *extortion*.
-    *   BG: Рансъмуерът извършва *изнудване* за данни.
+    *   BG: Ransomware извършва *изнудване* за данни.
 
 *   **(to/a) extract** (извличам)
     *   EN: *Extract* the relevant information from the text.
@@ -1496,7 +1498,7 @@
 
 *   **(to) facilitate** (спомагам)
     *   EN: This tool aims *to facilitate* collaboration between teams.
-    *   BG: Този инструмент цели *да спомогне* сътрудничеството между екипите.
+    *   BG: Този инструмент цели *да спомогне* за сътрудничество между екипите.
 
 *   **facility** (съоръжение)
     *   EN: The data center is a secure *facility*.
@@ -1516,7 +1518,7 @@
 
 *   **fake** (фалшив)
     *   EN: Beware of *fake* login pages designed to steal *credentials*.
-    *   BG: Пазете се от *фалшиви* страници за вход, предназначени да крадат *данни за достъп*.
+    *   BG: Пазете се от *подправени* страници за вход, целящи кражба *данни за достъп*.
 
 *   **feature** (възможност)
     *   EN: The latest update includes several new *features*.
