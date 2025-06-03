@@ -345,6 +345,8 @@ constraint | ограничение | _най-често в база данни_
 contemporary | съвременен | _вж. temporary_
 content | съдържание
 [content moderation](https://en.wikipedia.org/wiki/Content_moderation) | надзор/контрол (ч) на съдържанието | вж. #100
+contemplation | съзерцание, размишление, очакване | _не е STEM, а по-скоро теософско понятие, но го даваме, за да не си помисли някой, че е някаква форма на [template](https://en.wikipedia.org/wiki/Template) (шаблон) например_
+contemporary | съвременен | con + temporare
 [continuation](https://en.wikipedia.org/wiki/Continuation) | продължение | _в смисъла на подпрограма, в която се продължава изпълнението при приключване на заявна операция. поздрав за всички нодни шивачи_
 (a) contract | договор
 contribution | принос, участие, [допринасяне](https://ibl.bas.bg/rbe/lang/bg/%D0%B4%D0%BE%D0%BF%D1%80%D0%B8%D0%BD%D0%B0%D1%81%D1%8F%D0%BD%D0%B5/), допълнение
@@ -1086,6 +1088,7 @@ table | таблица(ч) | _на немски е tabelle, за това мож
 (to) tag | [бележа](https://ibl.bas.bg/rbe/lang/bg/%D0%B1%D0%B5%D0%BB%D0%B5%D0%B6%D0%B0/), [белязвам](https://ibl.bas.bg/rbe/lang/bg/%D0%B1%D0%B5%D0%BB%D1%8F%D0%B7%D0%B2%D0%B0%D0%BC/), означавам, маркирам (ч)
 tail | опашка
 tangible | осезаем | _от ITIL_
+to tamper (with) | подправям (нещо), фалшифицирам (ч) | _от областта на инф. сигурност. обаче "a tamper" като съществително означава [друго](https://en.wikipedia.org/wiki/Tamper), да го наречем тъпкач._
 (to) tap | да докосна, до тропна
 (a) tap | допир, докосване, почукване | _най-често като понятие, когато става дума за сензорни екрани, таблети и всичко друго, което се работи с пръст_
 (a) tap water | чешмяна вода | _за да подчертаем смисловата разлика с горното, разбира се няма общо с ИТ_
