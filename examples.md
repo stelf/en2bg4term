@@ -180,9 +180,10 @@
     *   EN: This .NET *assembly* contains reusable components.
     *   BG: Тази .NET *сглобка* съдържа компоненти за многократна употреба.
 
-*   **(to) assert** (твърдя)
-    *   EN: The test will *assert* that *the value* is positive.
-    *   BG: Тестът ще *твърди*, че *стойността* е положителна.
+*   **(to) assert** (твърдя, допускам)
+    *   EN: The program will *assert* that *the value* is positive.
+    *   BG: Програмата ще *очаква*, *стойността* да е положителна.
+    *   BG: Програмата *допуска*, че *стойността* да е положителна.
 
 *   **(an) assertion** (твърдение)
     *   EN: Add an *assertion* to confirm the variable's state.
