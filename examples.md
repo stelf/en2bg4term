@@ -46,7 +46,7 @@
 
 *   **acknowledge** (потвърждавам)
     *   EN: Please *acknowledge* receipt of this message.
-    *   BG: Моля, *потвърдете* получаването на това съобщение.
+    *   BG: Моля, *потвърдете*, че получихте (получаването) на това съобщение.
 
 *   **(to) acquire** (добивам)
     *   EN: The sensor can *acquire* *data* every second.
