@@ -460,6 +460,7 @@ discontinue | [преустановявам](https://ibl.bas.bg/rbe/lang/bg/%D0%
 disorder | [безпорядък](http://ibl.bas.bg/rbe/lang/bg/%D0%B1%D0%B5%D0%B7%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D1%8A%D0%BA/), суматоха, бъркотия | _обратното на order сиреч. БАН посочква, че (безпорядък)[https://ru.wiktionary.org/wiki/%D0%B1%D0%B5%D1%81%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA], че е от руски, но в корена си от старославянското *рѧдъ*_
 discover | откривам | _може да е за "[откриване на устройство в мрежа](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/device-discovery?view=o365-worldwide)", а може и да е за откритие в науката (което е [различно от invent-изобретявам](https://github.com/stelf/en2bg4term/edit/master/readme.md), въпреки че се дава като синоним)_
 discovery | откритие, откриване | 
+distance | отстояние, разстояние
 [distributed architecture](https://en.wikipedia.org/wiki/Distributed_computing#Architectures) | разпределена архитектура/структура
 [distributed execution](https://en.wikipedia.org/wiki/Distributed_computing#Architectures) | разпределено изпълнение
 (a) divider | разделител
@@ -504,6 +505,7 @@ environment | среда, обкръжение
 epic fail | пълен провал | _или ако предпочитате 'пълно неможене'._
 enqueue | нареждам (на) опашка, поставям (в) опашка | _обратното на deque. когато сме последните дошли на лифта и има опашката се нареждане на нея, нали така?_
 [equilateral](https://en.wikipedia.org/wiki/Equilateral_triangle) | равностранен | _lateral означава страничен, най-често се отнася до равностранен триъгълник_
+[equidistant](https://en.wikipedia.org/wiki/Equidistant) | равноотдалечен, равноотстоящ
 error | грешка | _грешка, бе, батееей_
 error handler | обслужващ грешки, поемащ грешки | _тази част от програмата, която поема грешките и ги обслужва_
 essentially | по същество | _или „на практика“_
