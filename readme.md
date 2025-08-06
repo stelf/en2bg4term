@@ -1061,6 +1061,7 @@ staged data | жарг. чернова, натрупани промени | _sta
 stakeholder | заинтересовано лице | _напр. организация спонсор, клиент (краен или ключов)_
 stalled | в застой | _най-често за задача или процес. може би и „запънат“ или „заспал“ в определени слъчаи върви като жаргон_
 standalone | самостоятелен
+(to) stand for | обозначавам, представлявам | _напр. "Let f be an expression that stands for a function of two integer variables." от [тук](https://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf) се превежда като "нека f е израз, който представлява/обозначава функция с две целочислени променливи_
 [spindle](https://en.wikipedia.org/wiki/Spindle) | вретено
 startup | [начинание](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5/), отпочване | като първото е от руски, а второто не присъства [в БАН](https://ibl.bas.bg/rbe/lang/bg/%D0%BE%D1%82%D0%BF%D0%BE%D1%87%D0%B2%D0%B0%D0%BD%D0%B5/)
 (to) state | да заявя, изразя _(важно: да не съм чул повече как стейтвам нещо, щото се бърка с горното в смисъла дори)_
