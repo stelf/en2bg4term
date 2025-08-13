@@ -461,6 +461,7 @@ directed | насочен | _"...е прието да се наричат реб
 directions | [насоки](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B0%D1%81%D0%BE%D0%BA%D0%B0/), упътвания
 directory | [папка](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/)(ч), [директория](https://ibl.bas.bg/rbe/lang/bg/%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F/)(ч) | — От нем. Pappe през рус. папка. 
 (to) disable | изключвам, забранявам
+discharge | [разряд](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B0%D0%B7%D1%80%D1%8F%D0%B4/) (ч) | _според БАН е от руски_
 discontinue | [преустановявам](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%80%D0%B5%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%8F%D0%B2%D0%B0%D0%BC/)
 (a) disconnect | [разкачване](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B0%D0%B7%D0%BA%D0%B0%D1%87%D0%B2%D0%B0%D0%BD%D0%B5/) | странно е, че [разкачане](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B0%D0%B7%D0%BA%D0%B0%D1%87%D0%B0%D0%BD%D0%B5/) без В не се открива. 
 (to) disconnect | [разкачвам](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B0%D0%B7%D0%BA%D0%B0%D1%87%D0%B2%D0%B0%D0%BC/), да [разкача](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B0%D0%B7%D0%BA%D0%B0%D1%87%D0%B0/) | _като 'разкача' препраща към разкачвам в речника на БАН.
