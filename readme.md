@@ -231,6 +231,8 @@ bracket | скоба
 (to) branch | разклонявам
 breach | пробойна, пробив, проникване, нарушение | _в комп. сигурност. възможен синоним за vulnerability. и нищо общо с branch. виж #111_
 breadth first search (BFS) | търсене/обхождане в [ширина](http://ibl.bas.bg/rbe/lang/bg/%D1%88%D0%B8%D1%80%D0%B8%D0%BD%D0%B0/)
+(proposal) breakdown | [разбивка](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B0%D0%B7%D0%B1%D0%B8%D0%B2%D0%BA%D0%B0/) | _което е понятие от счетоводството, но може да се отнася и към общия набор изисквания и тяхната **разбивка** по работни етапи_
+(electrical) breakdown | пробив | _[това нещо](https://en.wikipedia.org/wiki/Electrical_breakdown)_
 breakpoint | точка на прекъсване | _при проследяване изпълнението на програми. да не се бърка с 'прекъсване' - 'interrupt'_
 briefly | на кратко |
 brightness | яркост
