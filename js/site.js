@@ -12,6 +12,8 @@
     var wordArray = null;
     var sep = '*****';
     var searchResult = '';
+    var location = window.location;
+    var history = window.history;
 
     function genReg(word) {
         return new RegExp('(\\|){0,1}(\\s)*' + word + '(\\s)*(\\|){0,1}', "\g");
@@ -42,6 +44,11 @@
 
     function ready() {
         console.log('ready');
+        if (location && location.hash != "") {
+            var input = location.hash.substring(1);
+            inputField.value = input;
+            search();
+        }
     }
 
     function parser(respText) {
@@ -89,6 +96,9 @@
         var inputValue = inputField.value;
         var firstChar = inputValue[0];
         if(!firstChar) return setError('Моля въведете текст!');
+        if (history && history.replaceState) {
+            history.replaceState(undefined, '', "#"+inputValue);
+        }
         var symbolIndex = symbolArray.indexOf(inputValue[0].toUpperCase());
         if(symbolIndex === -1) return setError('Няма намерени резултати.');
         var re = new RegExp("^(\\(?(an|a|to|on|in)\\)?\\s+)?" + inputValue + ".*", "gm");
