@@ -487,6 +487,7 @@ EN  | BG  | Забележка
 (an) edge | [ръб](https://en.wikipedia.org/wiki/Edge_(geometry)), [ребро](https://en.wikipedia.org/wiki/Glossary_of_graph_theory#edge) | _в теория на графите му казват и ребро, което би било 'rib' на английски и е неточен, но *възприет* превод_
 (to) edit | променям (гл.), промяна (същ), дописване (същ.) | _много хора казват едитвам, което... някой ден ще влезе в книжовния език, защото е кратко, та предложения са добре дошли и за по-кратък превод/жаргон_
 (an) editor | редактор(ч) | от латниски през немски [според БАН](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80/)
+effort | усилие | пр. "effort estimation" - оценка / преценка на усилията
 elapsed | изминал, [изтекъл](https://rechnik.chitanka.info/w/%D0%B8%D0%B7%D1%82%D0%B5%D0%BA%D1%8A%D0%BB) | _за изминало/[изтекло](https://ibl.bas.bg/rbe/lang/bg/%D0%B8%D0%B7%D1%82%D0%B5%D0%BA%D0%B0/) време/период_
 elevation | [подем](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D0%BE%D0%B4%D0%B5%D0%BC/) ,възвишение, повдвигане, (надморска) височина
 (to) elicit | да изискам/добия (инфомрация), да разкрия (тайни), да привлека (внимание), [изкопчвам/да изкопча](https://ibl.bas.bg/rbe/lang/bg/%D0%B8%D0%B7%D0%BA%D0%BE%D0%BF%D1%87%D0%B2%D0%B0%D0%BC/)  | _по смисъл от [произхода](https://www.merriam-webster.com/dictionary/elicit) означава - да извадя нещо скрито на показ_
