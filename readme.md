@@ -1223,7 +1223,8 @@ variant, variety | [разновидност](https://ibl.bas.bg/rbe/lang/bg/%D1
 variance | колебание, разминаване, дисперсия (м) | _матетматиците в нашата литература са взели руското дисперсия, тъй като variance is a measure of dispersion, което буквално означава разпръскване. но тук ключовото е, че variance е мярката за dispersion, не dispersion само по себе си. в западната литература се бележи с Var(x). така нареченото стандартно отклонение (standard deviation) е корен квадратен от колебаниетo или дисперсия ако предпочитате._
 vendor | [доставчик](https://ibl.bas.bg/rbe/lang/bg/%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%87%D0%B8%D0%BA/), [снабдител](https://ibl.bas.bg/rbe/lang/bg/%D1%81%D0%BD%D0%B0%D0%B1%D0%B4%D0%B8%D1%82%D0%B5%D0%BB/)
 verbose | [многословен](https://ibl.bas.bg/rbe/lang/bg/%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD/)
-vertex | връх | [Wiki](https://en.wikipedia.org/wiki/Vertex_(geometry)) | _различно от vortex! понякога се бърка с virtex, което е друго_
+vertex | връх | [Wiki](https://en.wikipedia.org/wiki/Vertex_(geometry)) | _различно от vortex! понякога се бърка с virtex, което е друго. по произход думата vertex е от латински и означава [повратна](https://www.etymonline.com/search?q=vertex) точка, което ще рече че има общ ПИЕ корен вер, същия като в глагола въртя се_
+vertices | върхове | _множественото на горното дадено за пълнота, тъй като изписването е различно_
 [vortex](https://en.wikipedia.org/wiki/Vortex) | вихър, [вихрушка](https://ibl.bas.bg/rbe/lang/bg/%D0%B2%D0%B8%D1%85%D1%80%D1%83%D1%88%D0%BA%D0%B0/) | _което не е [върхушка](https://ibl.bas.bg/rbe/lang/bg/%D0%B2%D1%8A%D1%80%D1%85%D1%83%D1%88%D0%BA%D0%B0/), съвсем друго нещо!_
 (a) view | изглед
 viral | заразно | _за теми и феномени, които стават рязко популярни и заразяват със самата си идея_
