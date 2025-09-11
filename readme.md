@@ -311,6 +311,7 @@ coexist | съществувам съвместно, [съжителствам](
 collaborator | сътрудник, съучастник | _най-вече при съвместна работа по някакво писание (код, текст, и т.н.)_
 (to) collapse | свивам, сгъвам
 (a) collapse | срив, рухване, крах 
+collision | слбъсък, удар, спречкване | _вероятно сте чували за [packet collision](https://en.wikipedia.org/wiki/Collision) в мрежата_
 colon | двоеточие (:) | [според БАН](https://ibl.bas.bg/rbe/lang/bg/%D0%B4%D0%B2%D0%BE%D0%B5%D1%82%D0%BE%D1%87%D0%B8%D0%B5/) - от руски
 (to) combine | [съчетавам](https://ibl.bas.bg/rbe/lang/bg/%D1%81%D1%8A%D1%87%D0%B5%D1%82%D0%B0%D0%B2%D0%B0%D0%BC/)
 (a) combination | съчетание
