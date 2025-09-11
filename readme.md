@@ -344,6 +344,7 @@ concept | замисъл, схващане, виждане, гледище, въ
 condition | условие
 confidential | поверителен, поверителна
 (to) configure | настройвам
+(to) conflate | смесвам, съчетавам | _обичайно се ползва в смисъла на смесване на понятия по объркващ начин. например - "we are conflating correlation and causation here"_
 (to) confuse | обърквам | :D
 conjunction | съединение, връзка; свързване;
 (to) connect to | (с)връзвам се, закачам се (към)
