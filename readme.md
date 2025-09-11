@@ -672,7 +672,7 @@ inspect | преглеждам, изследвам
 (an) installation | [установка](https://ibl.bas.bg/rbe/lang/bg/%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0/), постановка | предвид, че stall e 'спирам' и install е 'поставям'
 instant | незабавен, неотложен
 instruction set | набор инструкции(ч)
-intangible | [неосезаем](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B5%D0%BE%D1%81%D0%B5%D0%B7%D0%B0%D0%B5%D0%BC/), [нематериален](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B5%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%B5%D0%BD/) | _среща се като терминология в ITIL. според речник на [Кеймбридж](https://dictionary.cambridge.org/dictionary/english/intangible) думата се отнася до нещо, което не може да бъде пипнато, описано точно или зададено с определена стойност_
+intangible | [неосезаем](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B5%D0%BE%D1%81%D0%B5%D0%B7%D0%B0%D0%B5%D0%BC/), [нематериален](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B5%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%B5%D0%BD/) | _среща се като терминология в [ITIL](https://en.wikipedia.org/wiki/ITIL). според речник на [Кеймбридж](https://dictionary.cambridge.org/dictionary/english/intangible) думата се отнася до нещо, което не може да бъде пипнато, описано точно или зададено с определена стойност_
 integer | целочислен | [Wiki](https://bg.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BB%D0%BE%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8_%D1%82%D0%B8%D0%BF%D0%BE%D0%B2%D0%B5_%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8), макар тази дума БАНския речник да [не я открива](https://ibl.bas.bg/rbe/lang/bg/%D1%86%D0%B5%D0%BB%D0%BE%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD/)_
 integral part | неразделима част
 integrate | съставям, обединявам, внедрявам | _we have to integrate this API може да се преведе като "налага се да внедрим този приложен интерфейс"_
@@ -1138,7 +1138,7 @@ table | таблица(ч) | _на немски е tabelle, за това мож
 (a) tag | знак, значка (прен.), [белег](https://ibl.bas.bg/rbe/lang/bg/%D0%B1%D0%B5%D0%BB%D0%B5%D0%B3/), [клише(ч)](https://ibl.bas.bg/rbe/lang/bg/%D0%BA%D0%BB%D0%B8%D1%88%D0%B5/) | _макар английското за значка/[габърче](https://ibl.bas.bg/rbe/lang/bg/%D0%B3%D0%B0%D0%B1%D1%8A%D1%80%D1%87%D0%B5/) да е pin (букв.) в случая белег (отбелязвам) или значка (обозначавам) по-точно посочва какво се крие зад глагола to tag. от там и съществителното... предизвикателството в превода на 'a tag' е, че на английски тази дума е едносричкова, което я прави много лесна за произнасяне и запомняне спрямо каквото и да било на български._
 (to) tag | [бележа](https://ibl.bas.bg/rbe/lang/bg/%D0%B1%D0%B5%D0%BB%D0%B5%D0%B6%D0%B0/), [белязвам](https://ibl.bas.bg/rbe/lang/bg/%D0%B1%D0%B5%D0%BB%D1%8F%D0%B7%D0%B2%D0%B0%D0%BC/), означавам, маркирам (ч)
 tail | опашка
-tangible | осезаем | _от ITIL_
+tangible | осезаем | _често се среща като понятие от [ITIL_](https://en.wikipedia.org/wiki/ITIL)
 to tamper (with) | подправям (нещо), фалшифицирам (ч) | _от областта на инф. сигурност. обаче "a tamper" като съществително означава [друго](https://en.wikipedia.org/wiki/Tamper), да го наречем тъпкач._
 (to) tap | да докосна, до тропна
 (a) tap | допир, докосване, почукване | _най-често като понятие, когато става дума за сензорни екрани, таблети и всичко друго, което се работи с пръст_
@@ -1181,8 +1181,8 @@ tracking | проследяване | _например на казуси - issu
 (a) transfer | пренос, прехвърляне
 (to) transfer | премествам, прехвърлям
 transform | преобразуване | _макар дословното да би било [преформиране](http://rechnik.chitanka.info/w/%D0%BF%D1%80%D0%B5%D1%84%D0%BE%D1%80%D0%BC%D0%B8%D1%80%D0%B0%D0%BD%D0%B5) или по-вялото преобразуване. някои източници посочват [трансформиране](http://rechnik.chitanka.info/w/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B8%D1%80%D0%B0%D0%BD%D0%B5) като възможен превод, което си е заемка._
-transient | [преходен](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%B5%D0%BD/) | _вероятно е от ст.б. [прѣходт](https://histdict.uni-sofia.bg/oldbgdict/oldbg_show/d_07907/)
-transitory | преходен | _вероятно на бълагрски можем да ползваме и *временен* в доста случаи_
+[transient](https://en.wikipedia.org/wiki/Transient_(computer_programming)) | временен, мимолетен, кратковременен, нетраен | _в ст.б. има [прѣходнтн](https://histdict.uni-sofia.bg/oldbgdict/oldbg_show/d_07907/). transient voltage spike == мимолетен скок на напрежението. тук наблягаме на нетрайността на проявлението на дадения феномен_
+transitory | [преходен](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%B5%D0%BD/), преминаващ, временен | _transitory period е временен период, transitory government - преходно правителство. при transient наблягаме на преходното състояние, в което се намира дадено нещо_
 transformer | преубразовател | _предвид горното и за ужас на всички, които ще искат трансформър да стане дума от българският, щото е Т-то от GPT примерно_
 transpile | превеждам, пренасям | _„превод“, защото един програмен език се превежда (преподрежда) до друг или„пренос“_
 trap | капан | буквалното е капан, но _trap идва от жаргон за [interrupt](https://en.wikipedia.org/wiki/Interrupt), което му казваме прекъсване. един вид изпълнението на програмата е попаднало в капан, в който остава докато не се свърши нещо - "Intercepting normal method calls via a proxy object"_
