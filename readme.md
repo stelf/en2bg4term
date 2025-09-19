@@ -495,6 +495,7 @@ EN  | BG  | Забележка
 (to) edit | променям (гл.), промяна (същ), дописване (същ.) | _много хора казват едитвам, което... някой ден ще влезе в книжовния език, защото е кратко, та предложения са добре дошли и за по-кратък превод/жаргон_
 (an) editor | редактор(ч) | от латниски през немски [според БАН](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80/)
 effort | усилие | пр. "effort estimation" - оценка / преценка на усилията
+[egress](https://www.etymonline.com/search?q=egress) | изходящ, излизащ | _ползвано при настройката на правила за мрежови потоци_
 elapsed | изминал, [изтекъл](https://rechnik.chitanka.info/w/%D0%B8%D0%B7%D1%82%D0%B5%D0%BA%D1%8A%D0%BB) | _за изминало/[изтекло](https://ibl.bas.bg/rbe/lang/bg/%D0%B8%D0%B7%D1%82%D0%B5%D0%BA%D0%B0/) време/период_
 elevation | [подем](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D0%BE%D0%B4%D0%B5%D0%BC/) ,възвишение, повдвигане, (надморска) височина
 (to) elicit | да изискам/добия (инфомрация), да разкрия (тайни), да привлека (внимание), [изкопчвам/да изкопча](https://ibl.bas.bg/rbe/lang/bg/%D0%B8%D0%B7%D0%BA%D0%BE%D0%BF%D1%87%D0%B2%D0%B0%D0%BC/)  | _по смисъл от [произхода](https://www.merriam-webster.com/dictionary/elicit) означава - да извадя нещо скрито на показ_
@@ -651,6 +652,7 @@ import | [внос](https://ibl.bas.bg/rbe/lang/bg/%D0%B2%D0%BD%D0%BE%D1%81/), [
 (to) import | внасям, вмъквам, въвеждам, подавам | _...данни най-често. някой път на жаргон може 'сипвам' да чуете_
 imported | внесен, [привнесен](https://rechnik.chitanka.info/w/%D0%BF%D1%80%D0%B8%D0%B2%D0%BD%D0%B5%D1%81%D0%B5%D0%BD), [присъединен](https://rechnik.chitanka.info/w/%D0%BF%D1%80%D0%B8%D1%81%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD) | _"...в пространството на имената" например._
 inbound | входящ, влизащ | _а може би и нахлуващ. и определено можем да говорим inbound air stream като за [нахлуващ](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B0%D1%85%D0%BB%D1%83%D0%B2%D0%B0%D0%BC/) (отнякъде) въздухопоток_
+ingress | входящ, налухващ | _обикновено за мрежови потоци, [виж тук WiKi](https://en.wikipedia.org/wiki/Ingress_filtering)_
 include | включвам
 incoming | входящ, пристигащ
 incremental | нaрастващ
