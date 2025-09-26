@@ -450,6 +450,8 @@ dependency injection | вмъкване на зависимости | _или к
 depth | дълбочина
 [depth first search](https://en.wikipedia.org/wiki/Depth-first_search) | търсене/обхождане в дълбочина
 designate | обозначавам, посочвам | често срещана дума в ИТ текстове, най-вече задания и подобни,  макар и да не е ИТ-специфично понятие 
+desktop | настолен (прил.) | _когато ползваме да определим нещо. макар че дословно трябва да е начинен/намасен, предвид, че desk е [чин](https://ibl.bas.bg/rbe/lang/bg/%D1%87%D0%B8%D0%BD/)/пейка/маса/писалище_
+(a) desktop | работен плот | _преведено е смислово на повечето места, не дословно_
 destination | [назначение](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/), крайна цел
 descent | спускане | _и често се среща в словосъчетание [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent)_
 description | описание | _в някои случаи може би и 'надпис'_
