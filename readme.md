@@ -852,6 +852,7 @@ optical character recognition |  зрително разпознаване на 
 (an) order | ред, [подредба](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D0%BE%D0%B4%D1%80%D0%B5%D0%B4%D0%B1%D0%B0/)
 to order | редя, подреждам | _в смисъл на задавам ред а последователност_
 to order | поръчвам, давам нареждане | _двата превода на order са дадени умишлено отделно_
+[orthogonal](https://en.wikipedia.org/wiki/Orthogonality) | правоъгълен | _rectangular се води синоним_
 outbound | изходящ 
 outgoing | изходящ, излизащ
 (an) [outlier](https://en.wikipedia.org/wiki/Outlier) | (необичайно) отклонение, аномалия (ч), изпъкващ/отличителен/извънреден (случай/пример/отчет) | _„частен случай“ също може да се [използва](http://www.ezikov.com/translate/outlier). да не се бърка със spike, което е пик/скок - временно явление, докато outlier е по-скоро необичайно наблюдение, което се отличава значително от другите такива._
