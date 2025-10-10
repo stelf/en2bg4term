@@ -475,12 +475,13 @@ discharge | [разряд](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B0%D0%B7%D1%
 discontinue | [преустановявам](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%80%D0%B5%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%8F%D0%B2%D0%B0%D0%BC/)
 (a) disconnect | [разкачване](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B0%D0%B7%D0%BA%D0%B0%D1%87%D0%B2%D0%B0%D0%BD%D0%B5/) | странно е, че [разкачане](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B0%D0%B7%D0%BA%D0%B0%D1%87%D0%B0%D0%BD%D0%B5/) без В не се открива. 
 (to) disconnect | [разкачвам](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B0%D0%B7%D0%BA%D0%B0%D1%87%D0%B2%D0%B0%D0%BC/), да [разкача](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B0%D0%B7%D0%BA%D0%B0%D1%87%D0%B0/) | _като 'разкача' препраща към разкачвам в речника на БАН.
-disorder | [безпорядък](http://ibl.bas.bg/rbe/lang/bg/%D0%B1%D0%B5%D0%B7%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D1%8A%D0%BA/), суматоха, бъркотия | _обратното на order сиреч. БАН посочква, че [безпорядък](https://ru.wiktionary.org/wiki/%D0%B1%D0%B5%D1%81%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA), че е от руски, но в корена си от старославянското *рѧдъ*_
 discover | откривам | _може да е за "[откриване на устройство в мрежа](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/device-discovery?view=o365-worldwide)", а може и да е за откритие в науката (което е [различно от invent-изобретявам](https://github.com/stelf/en2bg4term/edit/master/readme.md), въпреки че се дава като синоним)_
 discovery | откритие, откриване | 
 distance | отстояние, разстояние
 [distributed architecture](https://en.wikipedia.org/wiki/Distributed_computing#Architectures) | разпределена архитектура/структура
 [distributed execution](https://en.wikipedia.org/wiki/Distributed_computing#Architectures) | разпределено изпълнение
+disorder | [безпорядък](http://ibl.bas.bg/rbe/lang/bg/%D0%B1%D0%B5%D0%B7%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D1%8A%D0%BA/), суматоха, бъркотия | _обратното на order сиреч. БАН посочква, че [безпорядък](https://ru.wiktionary.org/wiki/%D0%B1%D0%B5%D1%81%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA), че е от руски, но в корена си от старославянското *рѧдъ*_
+disruptive (innovation) | пробивно (нововъведение/иновация) | _по предложение от доц. Петко Русков_
 (a) divider | разделител
 document | статия, описание, свидетелство, [сведение](http://ibl.bas.bg/rbe/lang/bg/%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/) | изброени са всичките тези, защото документ е обобщението им и според случая може да се ползват различни варинти. [Читанка](https://rechnik.chitanka.info/w/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82) посочва и други синоними.
 (to) download | свалям, взимам, разтоварвам, дърпам (жарг.), тегля (жарг.) | _буквално би следвало да се преведе 'стоваревам', но разбира се най-често е свалям/тегля. съвсем естествено може да се каже „дърпам едно приложение от мрежата“, „тегля данни от...“, но по-рядко "стоварвам сто мегабайта на компа", макар че звучи разбираемо_
