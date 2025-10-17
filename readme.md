@@ -1136,6 +1136,7 @@ string | низ | _най-често се използва за обознача
 (a) submission | [пратка](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%80%D0%B0%D1%82%D0%BA%D0%B0/)
 (to) submit | изпращам, подавам
 subroutine | подпрограма | _изненада, това не е съборетина :) самата дума подпрограма е чуждица, но е вписана в [книжовния от БАН](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D0%BE%D0%B4%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B0/)._
+subservient | подчинен
 subscriber | [абонат (ч)](https://ibl.bas.bg/rbe/lang/bg/%D0%B0%D0%B1%D0%BE%D0%BD%D0%B0%D1%82/), записан | _...записан за получаване. от "scribe" -> пиша и sub -> "за". абонат и абонамент са от фр. abonnement през рум. abonament._
 subscription | [подписка](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B0/), абонамент(ч) | второто е от abonnement [френски](https://ru.wiktionary.org/wiki/%D0%B0%D0%B1%D0%BE%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D1%82#%D0%AD%D1%82%D0%B8%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
 substance | вещество, съдържание | 
