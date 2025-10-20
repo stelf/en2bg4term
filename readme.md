@@ -1090,6 +1090,8 @@ shortcut | [препратка](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%80%D0%B
 short cut | пряк път, [напреко](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B0%D0%BF%D1%80%D0%B5%D0%BA%D0%BE/)
 siblings | братя и сестри (букв), [котило](https://ibl.bas.bg/rbe/lang/bg/%D0%BA%D0%BE%D1%82%D0%B8%D0%BB%D0%BE/) (жарг.)| _скандално, но думата котило е книжовна и значи - тези от същата майка. обвинявайте @kunev за това. 
 signature | подпис | _най-често за цифров подпис или някакъв вид критография_
+similarity | сходство, подобие, прилика
+[similarity search](https://en.wikipedia.org/wiki/Similarity_search) | търсене по сходство 
 singleton | [единак](https://ibl.bas.bg/rbe/lang/bg/%D0%B5%D0%B4%D0%B8%D0%BD%D0%B0%D0%BA/), сек | _най-често за шаблона за единствена инстанция/екземпляр на клас от ООП. преводът като [сек](https://bg.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BA_(%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD)) може да звучи странен, но е възприет до някаква степен_
 a size | размер | _на файл или прозорец в графична среда_
 (to) size | оразмеря̀вам | 
