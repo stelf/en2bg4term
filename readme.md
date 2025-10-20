@@ -523,6 +523,8 @@ enterprise | [предприятие](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%8
 entanglement | оплитане, преплитане, заплитане, обвързаност | _naprimer в смисъла на [квантово заплитане](https://bg.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%BE_%D0%B7%D0%B0%D0%BF%D0%BB%D0%B8%D1%82%D0%B0%D0%BD%D0%B5)_
 entry | запис, елемент(ч) | _като 'data entry' - запис данни или дори само запис_
 entry point | входна точка/място | _примерно main() е входна точка на програмите на C++_
+enumerable | изброим | _в математическия смисъл може да се приеме, че е синоним на countable. в компютърните науки се ползва основно enumerable, много рядко countable. в chitanka октриваме думата [изредим](https://rechnik.chitanka.info/w/%D0%B8%D0%B7%D1%80%D0%B5%D0%B4%D0%B8%D0%BC), но математиците казват [изброимо множество](https://bg.wikipedia.org/wiki/%D0%98%D0%B7%D0%B1%D1%80%D0%BE%D0%B8%D0%BC%D0%BE_%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE)_
+(to) enumerate | изброявам, [изреждам](https://ibl.bas.bg/rbe/lang/bg/%D0%B8%D0%B7%D1%80%D0%B5%D0%B6%D0%B4%D0%B0%D0%BC/)
 environment | среда, обкръжение
 epic fail | пълен провал | _или ако предпочитате 'пълно неможене'._
 enqueue | нареждам (на) опашка, поставям (в) опашка | _обратното на deque. когато сме последните дошли на лифта и има опашката се нареждане на нея, нали така?_
