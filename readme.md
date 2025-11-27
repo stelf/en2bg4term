@@ -990,6 +990,8 @@ random | случаен, произволен | _напр. слуачйна ве
 (to) rate | оценявам | _например - 'this mail rates as spam' - това писмо се оценява като нежелана поща_
 raw | суров, изходен | _най-често за данни. понякога казват суроватъчен, което...хм. суроватката е whey, което е това, което остава като се избие млякото._
 raw data | [първообраз](http://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%8A%D1%80%D0%B2%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7/), сурови данни | _даните в техния суров, необработен вид_
+ray | лъч | 
+[raytracing](https://en.wikipedia.org/wiki/Ray_tracing_(physics)) | проследяване на лъчите | _подход за изграждане на изображение или по-точно засенчването на обектите. по-нов подход е [ray marching](https://en.wikipedia.org/wiki/Ray_marching)_
 [reel](https://en.wikipedia.org/wiki/Reel) | макара(ч), ролка (ч) | _горе-долу ще дойде синоним на spooler_
 realtime | [реалновремеви](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B5%D0%B0%D0%BB%D0%BD%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%B2%D0%B8/), в реално(ч) време
 realtime communication | предаване в реално(ч) време | _и също - реалновремева комуникация_
