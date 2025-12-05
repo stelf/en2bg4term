@@ -870,6 +870,8 @@ ongoing | [текущ](https://ibl.bas.bg/rbe/lang/bg/%D1%82%D0%B5%D0%BA%D1%83%D
 opaque | непрозрачен, [матов](https://ibl.bas.bg/rbe/lang/bg/%D0%BC%D0%B0%D1%82%D0%BE%D0%B2/) (ч)
 open source | отворен/свободен източник | _или по-често отворен код, но очевидно код е чуждица_
 operation | действие, провеждане, изпълнение
+opinion | мнение
+opinionated | самонадеян, убеден, твърдоглав, непоколебим
 optical character recognition |  зрително разпознаване на знаци/букви | _в българската википедия някой превел character като символ. явно не му е направило впечатление, че създателите на съкращението O.C.R. (и понятието като цяло) не са избрали да го кръстят Opticql Symbol Recognition, вероятно и с причина. character, което в смисъла на текст/писмо се превежда като "буква" или дори възприетото "знак", ни позволява да се спасим само с една чуждица - optical. тъй като идва от Old French optique, obtique (c. 1300) and directly from Medieval Latin opticus "of sight or seeing," from Greek optikos "of or having to do with sight," from optos "seen, visible," related to ōps "eye,". Тоест взор, и от там можем да допуснем, че "**зрително разпознаване на знаци/букви**" би бил напълно приемлив превод на OCR. или дори "зрително-знаково разпознаване", което дори е с по-малко срички от английското._
 (an) order | ред, [подредба](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D0%BE%D0%B4%D1%80%D0%B5%D0%B4%D0%B1%D0%B0/)
 to order | редя, подреждам | _в смисъл на задавам ред а последователност_
