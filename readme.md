@@ -577,6 +577,8 @@ feedback | [отзив](https://ibl.bas.bg/rbe/lang/bg/%D0%BE%D1%82%D0%B7%D0%B8%
 (to) fetch | вземам, извличам, добивам, издърпвам, измъквам
 field | поле | напр. input field == „поле за въвеждане“ или лит. „текстово поле“
 file not found | [неоткриваем](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B5%D0%BE%D1%82%D0%BA%D1%80%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC/) запис/файл
+finite | краен
+[finite difference](https://en.wikipedia.org/wiki/Finite_difference) | [крайна разлика](https://bg.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B0_%D1%80%D0%B0%D0%B7%D0%BB%D0%B8%D0%BA%D0%B0)
 (a) filter | [цедка](https://ibl.bas.bg/rbe/lang/bg/%D1%86%D0%B5%D0%B4%D0%BA%D0%B0/) | шега разбира се, за който не внимава
 (to) filter | отсявам
 (to) fine-tune | [донастройвам](https://ibl.bas.bg/rbe/lang/bg/%D0%B4%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B2%D0%B0%D0%BC/), [изяснявам](https://ibl.bas.bg/rbe/lang/bg/%D0%B8%D0%B7%D1%8F%D1%81%D0%BD%D1%8F%D0%B2%D0%B0%D0%BC/) | _например във връзка с [настройването](https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning)) (или ако предпочитате 'фината настройка') на големите езикови модели (и не само тях).
