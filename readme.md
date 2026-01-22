@@ -248,6 +248,7 @@ breadth first search (BFS) | търсене/обхождане в [ширина]
 (electrical) breakdown | пробив | _[това нещо](https://en.wikipedia.org/wiki/Electrical_breakdown)_
 breakthrough | пробив, постижение | _в смисъла на прозрение относно нещо в науката или разбирането за нещата в дадена област_
 breakpoint | точка на прекъсване | _при проследяване изпълнението на програми. да не се бърка с 'прекъсване' - 'interrupt'_
+brevity | яснота, краткост, стегнатост | _нищо общо с bravery_
 briefly | на кратко |
 brightness | яркост
 bridge | [мост](https://bg.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D1%82_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8E%D1%82%D1%8A%D1%80%D0%BD%D0%B8_%D0%BC%D1%80%D0%B5%D0%B6%D0%B8)) | _при комп. мрежи_
