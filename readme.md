@@ -683,6 +683,8 @@ import | [внос](https://ibl.bas.bg/rbe/lang/bg/%D0%B2%D0%BD%D0%BE%D1%81/), [
 imported | внесен, [привнесен](https://rechnik.chitanka.info/w/%D0%BF%D1%80%D0%B8%D0%B2%D0%BD%D0%B5%D1%81%D0%B5%D0%BD), [присъединен](https://rechnik.chitanka.info/w/%D0%BF%D1%80%D0%B8%D1%81%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD) | _"...в пространството на имената" например._
 inbound | входящ, влизащ | _а може би и нахлуващ. и определено можем да говорим inbound air stream като за [нахлуващ](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B0%D1%85%D0%BB%D1%83%D0%B2%D0%B0%D0%BC/) (отнякъде) въздухопоток_
 increment | нарастване, увеличение, повишение 
+inflection | огъване, изкривяване, отклонение
+[inflection point](https://en.wikipedia.org/wiki/Inflection_point) | точка на пречупване, преломна точка
 ingress | входящ, налухващ | _обикновено за мрежови потоци, [виж тук WiKi](https://en.wikipedia.org/wiki/Ingress_filtering)_
 inherent | присъщ, неотменим, вроден | _и от там inherent property - присъщо свойство_
 inherited (from) | наследен (от) | _най-вече за класове или техните свойства_
