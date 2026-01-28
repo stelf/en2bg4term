@@ -1708,7 +1708,7 @@
 
 *   **interface** (повърхност)
     *   EN: Define an *interface* for the data access layer.
-    *   BG: Определете *повърхност* за слоя за достъп до данни.
+    *   BG: Определете *повърхност* на взаимодействие за слоя за достъп до данни.
 
 *   **iteration** (повторение)
     *   EN: Each *iteration* of the loop processes one element.
@@ -1755,9 +1755,9 @@
     *   EN: Adjust the logging *level* to see debug messages.
     *   BG: Настройте *равенището* на записване, за да видите съобщенията за поправка.
 
-*   **leverage** (опора)
+*   **leverage** (използвам)
     *   EN: *Leverage* existing libraries to accelerate development.
-    *   BG: Използвайте съществуващите библиотеки като *опора*, за да ускорите разработката.
+    *   BG: *Използвайте* съществуващите библиотеки, за да ускорите разработката.
 
 *   **limit** (предел)
     *   EN: Calculate the *limit* of the function as x approaches infinity.
@@ -1879,9 +1879,9 @@
     *   EN: Render the 3D model using *polygons*.
     *   BG: Изобразете тримерния модел, използвайки *многоъгълници*.
 
-*   **port** (гнездо)
+*   **port** (порт)
     *   EN: The server listens on *port* 8080.
-    *   BG: Сървърът слуша на *гнездо* 8080.
+    *   BG: Сървърът слуша на *порт* 8080.
 
 *   **pointer** (указател)
     *   EN: Dereference the *pointer* to access the value.
@@ -1910,9 +1910,9 @@
 
 ## Q
 
-*   **quantifier** (числител)
+*   **quantifier** (квантор)
     *   EN: Use a *quantifier* in the regex to match multiple occurrences.
-    *   BG: Използвайте *числител* в регулярния израз, за да съпоставите множество срещания.
+    *   BG: Използвайте *квантор* в регулярния израз, за да съпоставите множество срещания.
 
 *   **quantitative** (количествен)
     *   EN: Perform *quantitative* analysis of the experimental data.
@@ -1996,9 +1996,9 @@
     *   EN: Implement a *singleton* pattern for the configuration manager.
     *   BG: Приложете шаблон *единак* за управителя на настройки.
 
-*   **socket** (втулка)
+*   **socket** (сокет)
     *   EN: Open a network *socket* to establish communication.
-    *   BG: Отворете мрежова *втулка*, за да установите връзка.
+    *   BG: Отворете мрежов *сокет*, за да установите връзка.
 
 *   **solution** (решение)
     *   EN: Find the optimal *solution* to the optimization problem.
@@ -2061,7 +2061,7 @@
 
 *   **transform** (преобразуване)
     *   EN: Apply a Fourier *transform* to analyze the signal frequency.
-    *   BG: Приложете преобразуване на Фурие, за да анализирате честотата на сигнала.
+    *   BG: Приложете *преобразуване* на Фурие, за да анализирате честотата на сигнала.
 
 *   **tuple** (наредена n-торка)
     *   EN: Store the coordinates as a *tuple* of three values.
@@ -2074,9 +2074,9 @@
     *   EN: Sample from a *uniform* distribution.
     *   BG: Вземете извадка от *равномерно* разпределение.
 
-*   **unique** (еднозначен)
+*   **unique** (уникален)
     *   EN: Each record must have a *unique* identifier.
-    *   BG: Всеки запис трябва да има *еднозначен* идентификатор.
+    *   BG: Всеки запис трябва да има *уникален* идентификатор.
 
 *   **unit test** (единичен тест)
     *   EN: Write *unit tests* to verify individual functions.
@@ -2084,18 +2084,18 @@
 
 *   **undefined** (неопределен)
     *   EN: The variable is *undefined* before initialization.
-    *   BG: Променливата е *неопределена* преди започване.
+    *   BG: Променливата е *неопределена* преди инициализацията.
 
 
 ## V
 
-*   **validation** (потвърждение)
+*   **validation** (проверка за валидност)
     *   EN: Perform input *validation* to ensure data integrity.
-    *   BG: Извършете *потвърждение* на входа, за да осигурите цялост на данните.
+    *   BG: Извършете *проверка за валидност* на входа, за да осигурите цялост на данните.
 
-*   **variable** (променлива величина)
+*   **variable** (променлива)
     *   EN: Declare a *variable* to store the result.
-    *   BG: Обявете *променлива величина*, за да съхраните резултата.
+    *   BG: Обявете *променлива*, за да съхраните резултата.
 
 *   **variance** (дисперсия)
     *   EN: Calculate the *variance* to measure data spread.
