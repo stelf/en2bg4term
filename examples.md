@@ -1626,4 +1626,530 @@
     *   BG: Наблюдавайте *честотата* на грешките в журналите.
 
 
-TODO: останалите букви
+## G
+
+*   **gap** (празнина)
+    *   EN: There is a significant *gap* in the data between 2010 and 2015.
+    *   BG: Има значителна *празнина* в данните между 2010 и 2015 година.
+
+*   **garbage collector** (чистач)
+    *   EN: The *garbage collector* automatically frees unused memory.
+    *   BG: *Чистачът* автоматично освобождава неизползваната памет.
+
+*   **gate** (порта)
+    *   EN: The logic *gate* performs a Boolean operation on the inputs.
+    *   BG: Логическата *порта* извършва булево действие върху входовете.
+
+*   **gear** (предавка)
+    *   EN: Adjust the *gear* ratio to optimize torque transmission.
+    *   BG: Настройте съотношението на *предавката*, за да оптимизирате преноса на въртящ момент.
+
+*   **generalization** (обобщаване)
+    *   EN: The model shows good *generalization* to unseen data.
+    *   BG: Моделът показва добро *обобщаване* при невиждани данни.
+
+*   **grid** (решетка)
+    *   EN: The computational *grid* divides the domain into cells.
+    *   BG: Изчислителната *решетка* разделя областта на клетки.
+
+
+## H
+
+*   **handler** (обработваща функция)
+    *   EN: Register an event *handler* for the button click.
+    *   BG: Регистрирайте *обработваща функция* за натискане на бутона.
+
+*   **hard drive** (твърд диск)
+    *   EN: The *hard drive* stores all persistent data.
+    *   BG: *Твърдият диск* съхранява всички постоянни данни.
+
+*   **handshake** (ръкуване)
+    *   EN: The TLS *handshake* establishes a secure connection.
+    *   BG: TLS *ръкуването* установява защитена връзка.
+
+*   **hash array** (асоциативен списък)
+    *   EN: Use a *hash array* for fast key-value lookups.
+    *   BG: Използвайте *асоциативен списък* за бързо търсене по ключ.
+
+*   **header** (заглавна част)
+    *   EN: The HTTP *header* contains metadata about the request.
+    *   BG: HTTP *заглавната част* съдържа метаданни за заявката.
+
+*   **helix** (витлова линия)
+    *   EN: DNA forms a double *helix* structure.
+    *   BG: ДНК образува структура от двойна *витлова линия*.
+
+
+## I
+
+*   **image** (изображение)
+    *   EN: Process the *image* to enhance contrast.
+    *   BG: Обработете *изображението*, за да подобрите контраста.
+
+*   **implementation** (изпълнение)
+    *   EN: The *implementation* follows the algorithm specifications.
+    *   BG: *Изпълнението* следва описанието на алгоритъма.
+
+*   **import** (внасяне)
+    *   EN: *Import* the required libraries at the beginning of the file.
+    *   BG: *Внесете* необходимите библиотеки в началото на файла.
+
+*   **index** (указател)
+    *   EN: Create an *index* to speed up database queries.
+    *   BG: Създайте *указател*, за да ускорите запитванията към базата данни.
+
+*   **inheritance** (наследяване)
+    *   EN: Use *inheritance* to extend the base class functionality.
+    *   BG: Използвайте *наследяване*, за да разширите възможностите на основния клас.
+
+*   **integer** (целочислен)
+    *   EN: Declare an *integer* variable to store the count.
+    *   BG: Обявете *целочислена* променлива, за да съхраните броя.
+
+*   **interface** (повърхност)
+    *   EN: Define an *interface* for the data access layer.
+    *   BG: Определете *повърхност* за слоя за достъп до данни.
+
+*   **iteration** (повторение)
+    *   EN: Each *iteration* of the loop processes one element.
+    *   BG: Всяко *повторение* на цикъла обработва един елемент.
+
+
+## J
+
+*   **joint** (съединение)
+    *   EN: The robotic arm has three rotational *joints*.
+    *   BG: Роботската ръка има три въртящи се *съединения*.
+
+*   **joystick** (игрови лост)
+    *   EN: Control the drone using the *joystick*.
+    *   BG: Управлявайте дрона с помощта на *игровия лост*.
+
+
+## K
+
+*   **kernel** (ядро)
+    *   EN: The convolution *kernel* detects edges in the image.
+    *   BG: *Ядрото* на свиването открива ръбовете в изображението.
+
+*   **key** (ключ)
+    *   EN: Generate a cryptographic *key* for encryption.
+    *   BG: Генерирайте криптографски *ключ* за шифроване.
+
+*   **keyframe** (ключов кадър)
+    *   EN: Set a *keyframe* at the beginning of the animation.
+    *   BG: Задайте *ключов кадър* в началото на анимацията.
+
+
+## L
+
+*   **lateral** (страничен)
+    *   EN: Measure the *lateral* displacement of the structure.
+    *   BG: Измерете *страничното* изместване на конструкцията.
+
+*   **lattice** (решетка)
+    *   EN: The crystal *lattice* determines material properties.
+    *   BG: Кристалната *решетка* определя свойствата на материала.
+
+*   **level** (равенище)
+    *   EN: Adjust the logging *level* to see debug messages.
+    *   BG: Настройте *равенището* на записване, за да видите съобщенията за поправка.
+
+*   **leverage** (опора)
+    *   EN: *Leverage* existing libraries to accelerate development.
+    *   BG: Използвайте съществуващите библиотеки като *опора*, за да ускорите разработката.
+
+*   **limit** (предел)
+    *   EN: Calculate the *limit* of the function as x approaches infinity.
+    *   BG: Изчислете *предела* на функцията, когато x клони към безкрайност.
+
+*   **local** (местен)
+    *   EN: Store temporary data in *local* variables.
+    *   BG: Съхранявайте временните данни в *местни* променливи.
+
+*   **log** (журнал)
+    *   EN: Check the error *log* for diagnostic information.
+    *   BG: Проверете *журнала* с грешки за диагностична информация.
+
+
+## M
+
+*   **machine learning** (машинно самообучение)
+    *   EN: *Machine learning* algorithms improve with experience.
+    *   BG: Алгоритмите за *машинно самообучение* се подобряват с опита.
+
+*   **magnitude** (величина)
+    *   EN: The *magnitude* of the earthquake was 6.5 on the Richter scale.
+    *   BG: *Величината* на земетресението беше 6.5 по скалата на Рихтер.
+
+*   **manifold** (многообразие)
+    *   EN: The data lies on a low-dimensional *manifold*.
+    *   BG: Данните лежат върху нискоразмерно *многообразие*.
+
+*   **mapping** (картиране)
+    *   EN: Create a *mapping* between input features and output labels.
+    *   BG: Създайте *картиране* между входните белези и изходните етикети.
+
+*   **margin** (отстояние)
+    *   EN: Maximize the *margin* between the two classes in SVM.
+    *   BG: Максимизирайте *отстоянието* между двата класа в SVM.
+
+*   **merge sort** (сортиране чрез сливане)
+    *   EN: *Merge sort* has O(n log n) time complexity.
+    *   BG: *Сортирането чрез сливане* има времева сложност O(n log n).
+
+*   **middleware** (междинен слой)
+    *   EN: The *middleware* handles authentication before routing requests.
+    *   BG: *Междинният слой* обработва удостоверяването преди маршрутизиране на заявките.
+
+*   **multidimensional** (многомерен)
+    *   EN: Visualize *multidimensional* data using dimensionality reduction.
+    *   BG: Визуализирайте *многомерни* данни чрез намаляване на размерността.
+
+*   **mutex** (ключалка)
+    *   EN: Use a *mutex* to prevent race conditions.
+    *   BG: Използвайте *ключалка*, за да предотвратите състезателни условия.
+
+
+## N
+
+*   **namespace** (пространство от имена)
+    *   EN: Organize code into separate *namespaces* to avoid conflicts.
+    *   BG: Организирайте кода в отделни *пространства от имена*, за да избегнете конфликти.
+
+*   **network** (мрежа)
+    *   EN: The neural *network* consists of multiple layers.
+    *   BG: Невронната *мрежа* се състои от множество слоеве.
+
+*   **notation** (обозначение)
+    *   EN: Use Big-O *notation* to describe algorithm complexity.
+    *   BG: Използвайте Big-O *обозначение*, за да опишете сложността на алгоритъма.
+
+*   **null** (нищожен)
+    *   EN: Check for *null* values before dereferencing the pointer.
+    *   BG: Проверете за *нищожни* стойности преди да разименувате указателя.
+
+*   **number** (число)
+    *   EN: Generate a random *number* between 0 and 100.
+    *   BG: Генерирайте произволно *число* между 0 и 100.
+
+*   **numeric** (числен)
+    *   EN: Convert the string to a *numeric* value.
+    *   BG: Преобразувайте низа в *числена* стойност.
+
+
+## O
+
+*   **oblique** (наклонен)
+    *   EN: The *oblique* projection preserves parallel lines.
+    *   BG: *Наклоненият* изглед запазва успоредните линии.
+
+*   **optical character recognition** (зрително разпознаване на букви)
+    *   EN: Use *optical character recognition* to extract text from images.
+    *   BG: Използвайте *зрително разпознаване на букви*, за да извлечете текст от изображения.
+
+*   **operation** (действие)
+    *   EN: The database *operation* completed successfully.
+    *   BG: *Действието* с базата данни завърши успешно.
+
+*   **outbound** (изходящ)
+    *   EN: Configure firewall rules for *outbound* traffic.
+    *   BG: Конфигурирайте правила на защитната стена за *изходящ* трафик.
+
+
+## P
+
+*   **pagination** (странициране)
+    *   EN: Implement *pagination* to handle large result sets.
+    *   BG: Приложете *странициране*, за да управлявате големи набори от резултати.
+
+*   **pattern** (шаблон)
+    *   EN: The design *pattern* solves common architectural problems.
+    *   BG: Проектантският *шаблон* решава общи архитектурни проблеми.
+
+*   **payload** (товар)
+    *   EN: The API request *payload* contains the user data.
+    *   BG: *Товарът* на API заявката съдържа потребителските данни.
+
+*   **pipeline** (поточна линия)
+    *   EN: The data processing *pipeline* includes multiple stages.
+    *   BG: *Поточната линия* за обработка на данни включва множество етапи.
+
+*   **polygon** (многоъгълник)
+    *   EN: Render the 3D model using *polygons*.
+    *   BG: Изобразете тримерния модел, използвайки *многоъгълници*.
+
+*   **port** (гнездо)
+    *   EN: The server listens on *port* 8080.
+    *   BG: Сървърът слуша на *гнездо* 8080.
+
+*   **pointer** (указател)
+    *   EN: Dereference the *pointer* to access the value.
+    *   BG: Разименувайте *указателя*, за да достъпите стойността.
+
+*   **probability** (вероятност)
+    *   EN: Calculate the *probability* of each outcome.
+    *   BG: Изчислете *вероятността* на всеки изход.
+
+*   **property** (свойство)
+    *   EN: Set the object *property* using the setter method.
+    *   BG: Задайте *свойството* на обекта чрез задаващия метод.
+
+*   **prototype** (първообраз)
+    *   EN: Create a *prototype* to validate the concept.
+    *   BG: Създайте *първообраз*, за да проверите концепцията.
+
+*   **proxy** (посредник)
+    *   EN: Configure a *proxy* server for network requests.
+    *   BG: Конфигурирайте сървър *посредник* за мрежови заявки.
+
+*   **pruning** (подрязване)
+    *   EN: Decision tree *pruning* reduces overfitting.
+    *   BG: *Подрязването* на дървото за решения намалява свръхприлягането.
+
+
+## Q
+
+*   **quantifier** (числител)
+    *   EN: Use a *quantifier* in the regex to match multiple occurrences.
+    *   BG: Използвайте *числител* в регулярния израз, за да съпоставите множество срещания.
+
+*   **quantitative** (количествен)
+    *   EN: Perform *quantitative* analysis of the experimental data.
+    *   BG: Извършете *количествен* анализ на експерименталните данни.
+
+
+## R
+
+*   **race condition** (състезание)
+    *   EN: A *race condition* occurs when threads access shared data concurrently.
+    *   BG: *Състезание* възниква, когато нишки достъпват споделени данни едновременно.
+
+*   **radiance field** (лъчево поле)
+    *   EN: Neural *radiance fields* enable photorealistic 3D rendering.
+    *   BG: Невронните *лъчеви полета* позволяват фотореалистично тримерно изобразяване.
+
+*   **random** (произволен)
+    *   EN: Initialize weights with *random* values.
+    *   BG: Започнете теглата с *произволни* стойности.
+
+*   **range** (обхват)
+    *   EN: The sensor measures temperature in the *range* of -40 to 125°C.
+    *   BG: Сензорът измерва температура в *обхвата* от -40 до 125°C.
+
+*   **ray** (лъч)
+    *   EN: Cast a *ray* to detect intersections with objects.
+    *   BG: Изстреляйте *лъч*, за да откриете пресичания с обекти.
+
+*   **recurrent** (повтарящ се)
+    *   EN: *Recurrent* neural networks process sequential data.
+    *   BG: *Повтарящите се* невронни мрежи обработват последователни данни.
+
+*   **reference** (препратка)
+    *   EN: Store a *reference* to the object instead of copying it.
+    *   BG: Съхранете *препратка* към обекта вместо да го копирате.
+
+*   **repository** (хранилище)
+    *   EN: Clone the code *repository* from GitHub.
+    *   BG: Клонирайте кодовото *хранилище* от GitHub.
+
+*   **requirements** (изисквания)
+    *   EN: Document the system *requirements* before development.
+    *   BG: Документирайте системните *изисквания* преди разработката.
+
+*   **resolution** (разделителна способност)
+    *   EN: The camera captures images at 4K *resolution*.
+    *   BG: Камерата заснема изображения с 4K *разделителна способност*.
+
+*   **router** (маршрутизатор)
+    *   EN: Configure the *router* to forward packets correctly.
+    *   BG: Конфигурирайте *маршрутизатора*, за да препраща пакетите правилно.
+
+*   **runtime** (време на изпълнение)
+    *   EN: The error occurs at *runtime*, not during compilation.
+    *   BG: Грешката възниква по *време на изпълнение*, не по време на изграждане.
+
+
+## S
+
+*   **schedule** (разписание)
+    *   EN: The task *schedule* optimizes resource utilization.
+    *   BG: *Разписанието* на задачите оптимизира използването на ресурсите.
+
+*   **search engine** (търсачка)
+    *   EN: Build a *search engine* for the document collection.
+    *   BG: Създайте *търсачка* за колекцията от документи.
+
+*   **server** (сървър)
+    *   EN: Deploy the application on a production *server*.
+    *   BG: Разположете приложението на производствен *сървър*.
+
+*   **setup** (настройка)
+    *   EN: Complete the initial *setup* before running the software.
+    *   BG: Завършете началната *настройка* преди да стартирате софтуера.
+
+*   **shaft** (вал)
+    *   EN: The motor *shaft* rotates at 3000 RPM.
+    *   BG: *Валът* на двигателя се върти при 3000 оборота в минута.
+
+*   **singleton** (единак)
+    *   EN: Implement a *singleton* pattern for the configuration manager.
+    *   BG: Приложете шаблон *единак* за управителя на настройки.
+
+*   **socket** (втулка)
+    *   EN: Open a network *socket* to establish communication.
+    *   BG: Отворете мрежова *втулка*, за да установите връзка.
+
+*   **solution** (решение)
+    *   EN: Find the optimal *solution* to the optimization problem.
+    *   BG: Намерете оптималното *решение* на оптимизационната задача.
+
+*   **source code** (изходен код)
+    *   EN: Review the *source code* for potential bugs.
+    *   BG: Прегледайте *изходния код* за потенциални грешки.
+
+*   **sparse** (разреден)
+    *   EN: Use *sparse* matrix operations to save memory.
+    *   BG: Използвайте операции с *разредени* матрици, за да спестите памет.
+
+*   **speech recognition** (разпознаване на говор)
+    *   EN: The *speech recognition* system transcribes audio to text.
+    *   BG: Системата за *разпознаване на говор* превръща звук в текст.
+
+*   **stack** (купчина)
+    *   EN: The function calls are stored on the call *stack*.
+    *   BG: Обажданията на функцията се съхраняват в *купчината* за обаждания.
+
+*   **string** (низ)
+    *   EN: Concatenate two *strings* to form a message.
+    *   BG: Съединете два *низа*, за да образувате съобщение.
+
+*   **subroutine** (подпрограма)
+    *   EN: Call the *subroutine* to perform the calculation.
+    *   BG: Извикайте *подпрограмата*, за да извършите изчислението.
+
+*   **subscription** (подписка)
+    *   EN: Manage user *subscriptions* to the notification service.
+    *   BG: Управлявайте потребителските *подписки* към услугата за уведомления.
+
+
+## T
+
+*   **template** (шаблон)
+    *   EN: Use a *template* to generate boilerplate code.
+    *   BG: Използвайте *шаблон*, за да генерирате стандартен код.
+
+*   **threshold** (праг)
+    *   EN: Set a *threshold* for the detection algorithm.
+    *   BG: Задайте *праг* за алгоритъма за откриване.
+
+*   **time series data** (времеви данни)
+    *   EN: Analyze *time series data* to identify trends.
+    *   BG: Анализирайте *времевите данни*, за да идентифицирате тенденции.
+
+*   **token** (знак)
+    *   EN: The lexer breaks the input into *tokens*.
+    *   BG: Лексичният анализатор разбива входа на *знаци*.
+
+*   **tokenizer** (раздробител)
+    *   EN: The *tokenizer* splits the sentence into words.
+    *   BG: *Раздробителят* разделя изречението на думи.
+
+*   **tool** (инструмент)
+    *   EN: Use the debugging *tool* to find the error.
+    *   BG: Използвайте *инструмента* за поправка, за да намерите грешката.
+
+*   **transform** (преобразуване)
+    *   EN: Apply a Fourier *transform* to analyze the signal frequency.
+    *   BG: Приложете преобразуване на Фурие, за да анализирате честотата на сигнала.
+
+*   **tuple** (наредена n-торка)
+    *   EN: Store the coordinates as a *tuple* of three values.
+    *   BG: Съхранете координатите като *наредена n-торка* от три стойности.
+
+
+## U
+
+*   **uniform** (равномерен)
+    *   EN: Sample from a *uniform* distribution.
+    *   BG: Вземете извадка от *равномерно* разпределение.
+
+*   **unique** (еднозначен)
+    *   EN: Each record must have a *unique* identifier.
+    *   BG: Всеки запис трябва да има *еднозначен* идентификатор.
+
+*   **unit test** (единичен тест)
+    *   EN: Write *unit tests* to verify individual functions.
+    *   BG: Напишете *единични тестове*, за да проверите отделните функции.
+
+*   **undefined** (неопределен)
+    *   EN: The variable is *undefined* before initialization.
+    *   BG: Променливата е *неопределена* преди започване.
+
+
+## V
+
+*   **validation** (потвърждение)
+    *   EN: Perform input *validation* to ensure data integrity.
+    *   BG: Извършете *потвърждение* на входа, за да осигурите цялост на данните.
+
+*   **variable** (променлива величина)
+    *   EN: Declare a *variable* to store the result.
+    *   BG: Обявете *променлива величина*, за да съхраните резултата.
+
+*   **variance** (дисперсия)
+    *   EN: Calculate the *variance* to measure data spread.
+    *   BG: Изчислете *дисперсията*, за да измерите разпределението на данните.
+
+*   **vertex** (връх)
+    *   EN: Each *vertex* in the graph has a set of edges.
+    *   BG: Всеки *връх* в графа има набор от ръбове.
+
+*   **volatile** (неустойчив)
+    *   EN: Mark the *volatile* variable to prevent compiler optimization.
+    *   BG: Маркирайте *неустойчивата* променлива, за да предотвратите оптимизация на компилатора.
+
+*   **volume** (обем)
+    *   EN: Calculate the *volume* of the three-dimensional object.
+    *   BG: Изчислете *обема* на тримерния обект.
+
+*   **vulnerability** (уязвимост)
+    *   EN: Patch the security *vulnerability* immediately.
+    *   BG: Поправете *уязвимостта* в сигурността незабавно.
+
+
+## W
+
+*   **widget** (джаджа)
+    *   EN: Add a calendar *widget* to the user interface.
+    *   BG: Добавете календарна *джаджа* към потребителския интерфейс.
+
+*   **wireless** (безжичен)
+    *   EN: Connect to the network via *wireless* communication.
+    *   BG: Свържете се към мрежата чрез *безжична* връзка.
+
+*   **workload** (натоварване)
+    *   EN: Distribute the *workload* across multiple servers.
+    *   BG: Разпределете *натоварването* между множество сървъри.
+
+*   **workstation** (работна станция)
+    *   EN: The engineer uses a powerful *workstation* for simulations.
+    *   BG: Инженерът използва мощна *работна станция* за симулации.
+
+
+## Y
+
+*   **yaw** (отклонение)
+    *   EN: The aircraft's *yaw* angle affects its heading.
+    *   BG: Ъгълът на *отклонение* на въздухоплавателното средство влияе на курса му.
+
+
+## Z
+
+*   **zero-cost** (нулев разход)
+    *   EN: The abstraction provides *zero-cost* performance overhead.
+    *   BG: Абстракцията осигурява издръжка на производителността с *нулев разход*.
+
+*   **zone** (област)
+    *   EN: Configure different time *zones* for global users.
+    *   BG: Конфигурирайте различни часови *области* за глобалните потребители.
