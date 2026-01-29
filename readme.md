@@ -493,6 +493,9 @@ discontinue | [преустановявам](https://ibl.bas.bg/rbe/lang/bg/%D0%
 (to) disconnect | [разкачвам](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B0%D0%B7%D0%BA%D0%B0%D1%87%D0%B2%D0%B0%D0%BC/), да [разкача](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B0%D0%B7%D0%BA%D0%B0%D1%87%D0%B0/) | _като 'разкача' препраща към разкачвам в речника на БАН.
 discover | откривам | _може да е за "[откриване на устройство в мрежа](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/device-discovery?view=o365-worldwide)", а може и да е за откритие в науката (което е [различно от invent-изобретявам](https://github.com/stelf/en2bg4term/edit/master/readme.md), въпреки че се дава като синоним)_
 discovery | откритие, откриване | 
+[discrimination](https://en.wikipedia.org/wiki/Discrimination_(information)) | различаване, отличаване
+discriminative | отличителен | _и оттам...:
+discriminative information | отличителни белези
 distance | отстояние, разстояние
 [distributed architecture](https://en.wikipedia.org/wiki/Distributed_computing#Architectures) | разпределена архитектура/структура
 [distributed execution](https://en.wikipedia.org/wiki/Distributed_computing#Architectures) | разпределено изпълнение
