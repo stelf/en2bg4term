@@ -1335,6 +1335,7 @@ EN  | BG  | Забележка
 --- | --- | ---
 vague | [смътен](https://ibl.bas.bg/rbe/lang/bg/%D1%81%D0%BC%D1%8A%D1%82%D0%B5%D0%BD/), [мъгляв](https://ibl.bas.bg/rbe/lang/bg/%D0%BC%D1%8A%D0%B3%D0%BB%D1%8F%D0%B2/), неясен, съмнителен
 validation | одобрение, потвърждение, утвърждаване | _в предприемачеството по-скоро се има предвид потвърждаване на работна хипотеза. 
+validation set | [проверочен](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BE%D1%87%D0%B5%D0%BD/)(ч) набор, потвърждаващи данни
 valid | [допустим](https://ibl.bas.bg/rbe/lang/bg/%D0%B4%D0%BE%D0%BF%D1%83%D1%81%D1%82%D0%B8%D0%BC/), одобрен, правилен | разбира се, БАН са записали и [валиден](https://ibl.bas.bg/rbe/lang/bg/%D0%B2%D0%B0%D0%BB%D0%B8%D0%B4%D0%B5%D0%BD/)
 value | стойност
 var, variable | [променлива](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%80%D0%BE%D0%BC%D0%B5%D0%BD%D0%BB%D0%B8%D0%B2%D0%B0/) величина | _възприета и като съществително, така и като прилагателно за variable length - променлива дължина, променлив размер_
