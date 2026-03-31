@@ -1083,6 +1083,7 @@ remote end | (на) другия край
 (to) [render](https://en.wikipedia.org/wiki/Rendering_(computer_graphics)) | изграждам, синтез(ч) (на образи) | _'render (of an) image' - „изграждане или синтезиране на изображение“_
 (a) report | [доклад](https://ibl.bas.bg/rbe/lang/bg/%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4/), [отчет](https://ibl.bas.bg/rbe/lang/bg/%D0%BE%D1%82%D1%87%D0%B5%D1%82/) |
 repository | [хранилище](https://ibl.bas.bg/rbe/lang/bg/%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5/), склад | _най-често за някакъв вид данни или програмен код (git). вероятно има основание да се казва хамбар или хралупа дори, но за сега краткото 'репо' е непобедимо._
+(а) residual | несъответствие | _в смисъла на разминаването м/у [очакваната и получената](https://en.wikipedia.org/wiki/Residual_(numerical_analysis)) стойност._
 residual | остатъчен
 residue | остатък, отпадък, излишък
 (to) retrieve | извличам, донасям | _"retrieve data from your database" - данните вече са добити (acquired) и ние ги извличаме за повторна употреба. вторият превод може и да се окаже по-точен, защото "the dog retrieves you the game" - кучето ти донася дивеча_
