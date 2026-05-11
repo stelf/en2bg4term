@@ -541,7 +541,7 @@ EN  | BG  | Забележка
 (an) editor | редактор(ч) | от латниски през немски [според БАН](https://ibl.bas.bg/rbe/lang/bg/%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80/)
 effort | усилие | пр. "effort estimation" - оценка / преценка на усилията
 [egress](https://www.etymonline.com/search?q=egress) | изходящ, излизащ | _ползвано при настройката на правила за мрежови потоци_
-elapsed | изминал, [изтекъл](https://rechnik.chitanka.info/w/%D0%B8%D0%B7%D1%82%D0%B5%D0%BA%D1%8A%D0%BB) | _за изминало/[изтекло](https://ibl.bas.bg/rbe/lang/bg/%D0%B8%D0%B7%D1%82%D0%B5%D0%BA%D0%B0/) време/период_
+elapsed | навъртян, изминал, [изтекъл](https://rechnik.chitanka.info/w/%D0%B8%D0%B7%D1%82%D0%B5%D0%BA%D1%8A%D0%BB) | _буквално е "навъртян", тъй като a lap е обиколка. тоест е за изминало/[изтекло](https://ibl.bas.bg/rbe/lang/bg/%D0%B8%D0%B7%D1%82%D0%B5%D0%BA%D0%B0/) време/период_
 elevation | [подем](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D0%BE%D0%B4%D0%B5%D0%BC/) ,възвишение, повдвигане, (надморска) височина
 (to) elicit | да изискам/добия (инфомрация), да разкрия (тайни), да привлека (внимание), [изкопчвам/да изкопча](https://ibl.bas.bg/rbe/lang/bg/%D0%B8%D0%B7%D0%BA%D0%BE%D0%BF%D1%87%D0%B2%D0%B0%D0%BC/)  | _по смисъл от [произхода](https://www.merriam-webster.com/dictionary/elicit) означава - да извадя нещо скрито на показ_
 [elicitation](https://en.wikipedia.org/wiki/Elicitation) | изкопчване, проучване, набиране, събиране, разкирване | _...на информация, данни, и т.н. много е вероятно да го срещнете във връзка с [Model Context Protocol](https://modelcontextprotocol.io/specification/draft/client/elicitation)_
