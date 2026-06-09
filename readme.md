@@ -401,6 +401,7 @@ cooperative multitasking | съвместна многозадачност, мн
 (a) copy | [препис](http://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%80%D0%B5%D0%BF%D0%B8%D1%81/), повторение | _така де, много яко_
 core | ядро, сърцевина | _на някаква система или програма. на латински cor означава “сърце”, corpus - "тяло". та за това и [сърцевина](https://ibl.bas.bg/rbe/lang/bg/%D1%81%D1%8A%D1%80%D1%86%D0%B5%D0%B2%D0%B8%D0%BD%D0%B0/), но много рядко се ползва така или изобщо ще звучи разбираемо в свободен текст._
 correlation | взаимовръзка, [взаимозависимост](https://ibl.bas.bg/rbe/lang/bg/%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82/), съответствие, [съотношение](https://ibl.bas.bg/rbe/lang/bg/%D1%81%D1%8A%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/) | _ако го гледаме смислово-дословно ще дойде co (съ)-relate (отнасям се). има, разбира се, записана и думата [корелация](https://ibl.bas.bg/rbe/lang/bg/%D0%BA%D0%BE%D1%80%D0%B5%D0%BB%D0%B0%D1%86%D0%B8%D1%8F/)_
+[corroboration](https://en.wikipedia.org/wiki/Corroborating_evidence) | доказателство, подкрепа (на/към), съгласие (с) 
 cost | разход, стойност, разноски |
 (a) count | брой, броене, [чет](https://ibl.bas.bg/rbe/lang/bg/%D1%87%D0%B5%D1%82/)
 (to) count | броя, отчитам, да отчета
