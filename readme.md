@@ -597,7 +597,7 @@ extent | обхват
 extension | разширение | _синоним на 'plugin' в някакъв смисъл_
 extortion | изнуддване | това, което правят крипто вирусите
 (to/a) extract | (да) извличам, извлечение, извлек
-
+[extrinsic](https://en.wikipedia.org/wiki/Intrinsic_and_extrinsic_properties) | външен 
 
 ### F
 
