@@ -1432,7 +1432,8 @@ to wind | вия, въртя, превъртам, навивам
 wound | превъртях, навъртян | _което се пише 1:1 с думата рана_
 winding order | посока на въртене, посока на навиване | _The order of a triangle's vertices is called the winding order._
 window | прозорец
-wire | жица, [влакно](https://ibl.bas.bg/rbe/lang/bg/%D0%B2%D0%BB%D0%B0%D0%BA%D0%BD%D0%BE/)
+(а) wire | жица, връв, [влакно](https://ibl.bas.bg/rbe/lang/bg/%D0%B2%D0%BB%D0%B0%D0%BA%D0%BD%D0%BE/)
+(a) wiring | навръзване, постановка
 wireless | [безжичен](https://ibl.bas.bg/rbe/lang/bg/%D0%B1%D0%B5%D0%B7%D0%B6%D0%B8%D1%87%D0%B5%D0%BD/)
 work from home (WFH) | работа от (в)къщи, работа от дома (РОД, РОВ или дори РОК) | _забелязано от К.Ангелов_
 workgroup | работна група, бригада(ч) | _добавих го за радост на всички, които стигнаха чак до тази буква :)_
