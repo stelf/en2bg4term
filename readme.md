@@ -1424,6 +1424,7 @@ warranty | гаранция(ч), уверение, поръчителство | 
 [waveform](https://en.wikipedia.org/wiki/Waveform) | вид/форма на вълната | 
 [wearable](https://en.wikipedia.org/wiki/Wearable_technology) | преносим(а) (технология) | _в ИТ смисъл обикновено обозначава у-во, което може да бъде носено/пренасяно или е част от дрехата_
 (a) [wedge](https://en.wikipedia.org/wiki/Wedge_(geometry)) | клин | _и в математическия и в буквалния смисъл също_
+wedged | заклещен
 (a) weight | тегло, тежест, [тежина](https://ibl.bas.bg/rbe/lang/bg/%D1%82%D0%B5%D0%B6%D0%B8%D0%BD%D0%B0/), маса | _в някой случай може да се преведе и като товар, макар че по-точната дума е loаd. напр. невронната мрежа е определена от [теглата си](https://en.wikipedia.org/wiki/Weighting)_
 (to) weight | претеглям, преценям
 weight decay | [затихване](https://ibl.bas.bg/rbe/lang/bg/%D0%B7%D0%B0%D1%82%D0%B8%D1%85%D0%B2%D0%B0%D0%BC/) на теглата | _техника за регуларизация чрез намаляване на теглата_
