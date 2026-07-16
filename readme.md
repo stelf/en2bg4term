@@ -1042,6 +1042,8 @@ propagate | плъзвам, разпространявам, (пре)предав
 property | свойство, качество, [характеристика](https://ibl.bas.bg/rbe/lang/bg/%D1%85%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/) | _като характеристика е [от гръцки])https://ru.wiktionary.org/wiki/характеристика#Этимология_3)_
 proportionate | съизмерим, съразмерен
 prototype | [първообраз](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%8A%D1%80%D0%B2%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7/)
+(to) prove | доказваме
+(a) provenance | произход, потекло
 provider | доставчик | _например доставчкик на решения - solution provider_
 (to) provision | [снабдявам](https://ibl.bas.bg/rbe/lang/bg/%D1%81%D0%BD%D0%B0%D0%B1%D0%B4%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5/), обезпечавам
 (а) provision | [продоволствие](https://ibl.bas.bg/rbe/lang/bg/%D0%BF%D1%80%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%BB%D1%81%D1%82%D0%B2%D0%B8%D0%B5/) | уж идвала от руски тая дума, но и в руската википедия се посочва славянски корен. интересно, че тук думата [доволъ](https://e-medievalia.uni-sofia.bg/moodle/mod/data/view.php?d=39&advanced=0&paging&filter=1&page=0&rid=11233) се появява като синоним на брашно и предвид, а имаме и доволство със сходен смисъл на задоволеност.
