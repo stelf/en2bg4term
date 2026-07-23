@@ -20,20 +20,21 @@
     }
 
     function parseLinks(text) {
-        return text.replace(/\[(.*?)\]\((.*?)\)/g, '<a href="$2" target="_blank">$1</a>');
+        return text.replace(/\[([^\[]+)\]\(([^\(]+)\)/g, '<a href="$2" target="_blank">$1</a>');
     }
 
     function replaceWithNL(text, expr) {
         return text.replace(expr, '\n');
     }
 
-    function parseWord(line) {
-        var lineArr = line.replace(/(\s)*\|(\s)*/g, sep).split(sep);
-        var comment = lineArr[2];
-        if(comment) comment = parseLinks(comment);
+    function parseLine(line) {
+        var cols = line.replace(/(\s)*\|(\s)*/g, sep).split(sep);
+        var en = cols[0] && parseLinks(cols[0]);
+        var bg = cols[1] && parseLinks(cols[1]);
+        var comment = cols[2] && parseLinks(cols[2]);
         return {
-            en: lineArr[0] || null,
-            bg: lineArr[1] || null,
+            en: en || null,
+            bg: bg || null,
             comment: comment || null
         };
     }
@@ -95,16 +96,22 @@
         resultBox.innerHTML = '';
         var inputValue = inputField.value;
         var firstChar = inputValue[0];
-        if(!firstChar) return setError('Моля въведете текст!');
+        if (!firstChar){
+            return setError('Моля въведете текст!');
+        }
         if (history && history.replaceState) {
             history.replaceState(undefined, '', "#"+inputValue);
         }
         var symbolIndex = symbolArray.indexOf(inputValue[0].toUpperCase());
-        if(symbolIndex === -1) return setError('Няма намерени резултати.');
-        var re = new RegExp("^(\\(?(an|a|to|on|in)\\)?\\s+)?" + inputValue + ".*", "gm");
+        if(symbolIndex === -1) {
+            return setError('Няма намерени резултати.');
+        }
+        var re = new RegExp("^.*?(\\(?(an|a|to|on|in)\\)?\\s+)?" + inputValue + ".*?\\|.+$", "gm");
         var resultArray = wordArray[symbolIndex].match(re);
-        if(resultArray === null) return setError('Няма намерени резултати.');
-        return setSearchResult(resultArray.map(parseWord));
+        if (resultArray === null) {
+            return setError('Няма намерени резултати.');
+        }
+        return setSearchResult(resultArray.map(parseLine));
     }
 
     function selectText() {
