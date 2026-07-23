@@ -20,7 +20,7 @@
     }
 
     function parseLinks(text) {
-        return text.replace(/\[([^\[]+)\]\(([^\(]+)\)/g, '<a href="$2" target="_blank">$1</a>');
+        return text.replace(/\[([^\]]+)\]\(([^()]*(?:\([^()]*\))?[^()]*)\)/g, '<a href="$2" target="_blank">$1</a>');
     }
 
     function replaceWithNL(text, expr) {
