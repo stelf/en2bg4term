@@ -65,6 +65,9 @@
             parser(this.responseText);
             ready();
         });
+        req.addEventListener("error", function loadHandeler() {
+            setError('Възникна грешка при зареждането на речника.', 'firebrick');
+        });
         req.open("GET", "https://raw.githubusercontent.com/stelf/en2bg4term/master/readme.md");
         req.send();
     });
@@ -86,18 +89,19 @@
         });
     }
 
-    function setError(message) {
-        errorDiv.innerHTML = message;
+    function setError(message, color) {
+        var html = color ? `<span style="color:${color}">${message}</span>` : message;
+        errorDiv.innerHTML = html;
         errorDiv.classList.remove('hidden');
     }
 
     function search(event) {
         resultBox.classList.remove('hidden');
         resultBox.innerHTML = '';
-        var inputValue = inputField.value;
+        var inputValue = inputField.value.trim();
         var firstChar = inputValue[0];
         if (!firstChar){
-            return setError('Моля въведете текст!');
+            return setError('Моля въведете термин за търсене!', 'firebrick');
         }
         if (history && history.replaceState) {
             history.replaceState(undefined, '', "#"+inputValue);
