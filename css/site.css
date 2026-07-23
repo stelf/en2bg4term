@@ -21,10 +21,19 @@ body, html {
     overflow-y: auto;
 }
 
+body.light-mode, body.light-mode html {
+    background-color: #ecf0f1;
+}
+
 h1#main-title, h1#main-title span {
     font-family: Orbitron;
     color: white;
     font-size: 50px;
+}
+
+body.light-mode h1#main-title,
+body.light-mode h1#main-title span {
+    color: #2c3e50;
 }
 
 h2#sub-title {
@@ -39,6 +48,10 @@ h4 {
     color: white;
     font-size: 15px;
     margin-bottom: 10px;
+}
+
+body.light-mode h4 {
+    color: #2c3e50;
 }
 
 span#en-flag, span#bg-flag{
@@ -106,6 +119,10 @@ div#error {
     margin-top: 25px;
 }
 
+body.light-mode div#error {
+    color: #2c3e50;
+}
+
 table#result-box {
     max-width: 645px;
     width: 100%;
@@ -114,6 +131,11 @@ table#result-box {
     background: rgba(255,255,255,.5);
     text-align: left;
     border-collapse: collapse;
+}
+
+body.light-mode table#result-box {
+    background: rgba(255,255,255,.9);
+    box-shadow: 0 1px 4px rgba(0,0,0,.15);
 }
 
 table#result-box td {
@@ -132,12 +154,32 @@ table#result-box tr:not(:last-child){
     border-bottom: 1px solid white;
 }
 
+body.light-mode table#result-box tr:not(:last-child){
+    border-bottom: 1px solid #bdc3c7;
+}
+
 table#result-box td:first-child {
     border-right: 1px solid white;
 }
 
+body.light-mode table#result-box td:first-child {
+    border-right: 1px solid #bdc3c7;
+}
+
 table#result-box td.outer {
     display: none;
+}
+
+button#theme-toggle {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    padding: 4px 8px;
+    line-height: 1;
 }
 
 a#github-link img{
@@ -149,6 +191,7 @@ a#github-link img{
 .result-comment {
     position: absolute;
     background: rgba(255,255,255,.9);
+    color: #2c3e50;
     padding: 15px;
     bottom: 139%;
     right: 0px;
@@ -156,8 +199,17 @@ a#github-link img{
     word-break: break-word;
 }
 
+body.light-mode .result-comment {
+    background: rgba(44,62,80,.95);
+    color: white;
+}
+
 .white-bg {
     background-color: white;
+}
+
+body.light-mode .white-bg {
+    background-color: #bdc3c7;
 }
 
 div.result-comment:before {
@@ -170,6 +222,10 @@ div.result-comment:before {
     position: absolute;
     bottom: -10px;
     right: 5px;
+}
+
+body.light-mode div.result-comment:before {
+    border-top-color: rgba(44,62,80,.95);
 }
 
 td.comment-holder {

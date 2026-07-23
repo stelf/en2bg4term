@@ -1,5 +1,8 @@
 ;(function() {
     'use strict';
+    var location = window.location;
+    var history = window.history;
+    var localStorage = window.localStorage;
     var inputField = document.getElementById('search-word');
     var resultCell = document.getElementById('result-cell');
     var searchBtn = document.getElementById('search-btn');
@@ -7,13 +10,13 @@
     var resultBG = document.getElementById('result-bg');
     var resultEN = document.getElementById('result-en');
     var errorDiv = document.getElementById('error');
+    var themeToggle = document.getElementById('theme-toggle');
     var excapeWordArray = ['---', 'EN', 'BG', 'Коментар'];
     var symbolArray = null;
     var wordArray = null;
     var sep = '*****';
     var searchResult = '';
-    var location = window.location;
-    var history = window.history;
+    var themeStorageKey = 'theme';
 
     function genReg(word) {
         return new RegExp('(\\|){0,1}(\\s)*' + word + '(\\s)*(\\|){0,1}', "\g");
@@ -156,8 +159,33 @@
         }
     }
 
+    function applyTheme(theme) {
+        if (theme === 'light') {
+            document.body.classList.add('light-mode');
+            themeToggle.textContent = '🌙';
+        } else {
+            document.body.classList.remove('light-mode');
+            themeToggle.textContent = '☀️';
+        }
+    }
+
+    function toggleTheme() {
+        var isLight = document.body.classList.contains('light-mode');
+        var newTheme = isLight ? 'dark' : 'light';
+        localStorage && localStorage.setItem(themeStorageKey, newTheme);
+        applyTheme(newTheme);
+    }
+
+    function getSystemTheme() {
+        return (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) ? 'light' : 'dark';
+    }
+
+    themeToggle.addEventListener('click', toggleTheme);
     searchBtn.addEventListener('click', search);
     inputField.addEventListener('click', selectText);
     inputField.addEventListener('keyup', keyUpHandler);
     resultBox.addEventListener('click', tableClick);
+
+    var savedTheme = localStorage && localStorage.getItem(themeStorageKey);
+    applyTheme(savedTheme || getSystemTheme());
 }());
