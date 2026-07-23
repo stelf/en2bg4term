@@ -1403,6 +1403,8 @@ verbose | [многословен](https://ibl.bas.bg/rbe/lang/bg/%D0%BC%D0%BD%D
 vertex | връх | [Wiki](https://en.wikipedia.org/wiki/Vertex_(geometry)) | _различно от vortex! понякога се бърка с virtex, което е друго. по произход думата vertex е от латински и означава [повратна](https://www.etymonline.com/search?q=vertex) точка, което ще рече че има общ ПИЕ корен вер, същия като в глагола въртя се_
 vertices | върхове | _множественото на горното дадено за пълнота, тъй като изписването е различно_
 [vortex](https://en.wikipedia.org/wiki/Vortex) | вихър, [вихрушка](https://ibl.bas.bg/rbe/lang/bg/%D0%B2%D0%B8%D1%85%D1%80%D1%83%D1%88%D0%BA%D0%B0/) | _което не е [върхушка](https://ibl.bas.bg/rbe/lang/bg/%D0%B2%D1%8A%D1%80%D1%85%D1%83%D1%88%D0%BA%D0%B0/), съвсем друго нещо!_
+(a) vetting | произнасяне (за нещо), проучване
+(to) vet | проучвам, отсявам, подлагам на проверка
 [vorticity](https://en.wikipedia.org/wiki/Vorticity) | [въртеливост](https://ibl.bas.bg/rbe/lang/bg/%D0%B2%D1%8A%D1%80%D1%82%D0%B5%D0%BB%D0%B8%D0%B2/) | _буквално както е дадено определението от wikipedia - склонността на нещо към въртене. на руски му казват завихреност, но такава дума [БАН не открива](https://ibl.bas.bg/rbe/lang/bg/%D0%B7%D0%B0%D0%B2%D0%B8%D1%85%D1%80%D0%B5%D0%BD%D0%BE%D1%81%D1%82/)_
 (a) view | изглед
 viral | заразно | _за теми и феномени, които стават рязко популярни и заразяват със самата си идея_
