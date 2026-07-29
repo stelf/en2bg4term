@@ -518,6 +518,7 @@ discovery | откритие, откриване |
 discriminative | отличителен | _и оттам...:
 discriminative information | отличителни белези
 distance | отстояние, разстояние
+distortion | изкривяване
 [distributed architecture](https://en.wikipedia.org/wiki/Distributed_computing#Architectures) | разпределена архитектура/структура
 [distributed execution](https://en.wikipedia.org/wiki/Distributed_computing#Architectures) | разпределено изпълнение
 disorder | [безпорядък](http://ibl.bas.bg/rbe/lang/bg/%D0%B1%D0%B5%D0%B7%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D1%8A%D0%BA/), суматоха, бъркотия | _обратното на order сиреч. БАН посочква, че [безпорядък](https://ru.wiktionary.org/wiki/%D0%B1%D0%B5%D1%81%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA), че е от руски, но в корена си от старославянското *рѧдъ*_
