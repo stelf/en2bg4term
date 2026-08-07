@@ -775,6 +775,7 @@ intrusion | проникване, нахлуване, [взлом](https://ibl.b
 invention | изобретение | _етимологият на всички преводи с общ корен е през стар.фр. _invencion_ (13в.) от лат. _inventionem_
 inventor | изобретател | _очевидно от горените в някакъв смисъл, но различно дори етимологично от inventory_
 inventory | [складова](https://ibl.bas.bg/rbe/lang/bg/%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2/) [наличност](https://ibl.bas.bg/rbe/lang/bg/%D0%BD%D0%B0%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82/), инвентар (ч) | _инвентар е записан в речника на БАН без пояснения за произход, но е чуждица. от фр. inventoire "detailed list of goods, a catalogue" според [тези](https://www.etymonline.com/word/inventory)._
+inversion | обръщане, обрат, размяна
 invoke | призовавам, извиквам, зова
 ip address | мрежови адрес(ч)
 irradiance | облъчване, лъчистост | _тук ни обясняват какво е_
