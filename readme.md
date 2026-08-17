@@ -385,6 +385,7 @@ connected | прикачен, свързан
 (a) connection | връзка
 [connection pool ](https://en.wikipedia.org/wiki/Connection_pool) | набор връзки
 constraint | ограничение | _най-често в база данни_
+(to) contain | съдържам 
 contemporary | съвременен | _вж. temporary_
 content | съдържание
 [content moderation](https://en.wikipedia.org/wiki/Content_moderation) | надзор/контрол (ч) на съдържанието | вж. #100
@@ -393,6 +394,7 @@ contemporary | съвременен | con + temporare
 contingent | условен, вероятен, непредвиден
 [contingency](https://en.wikipedia.org/wiki/Contingency_(philosophy)) | условност | _В логиката, условността е особеност (характеристика) на дадено твърдение, която го прави нито необходимо, нито невъзможно_
 [continuation](https://en.wikipedia.org/wiki/Continuation) | продължение | _в смисъла на подпрограма, в която се продължава изпълнението при приключване на заявна операция. поздрав за всички нодни шивачи_
+[continuity] | непрекъснатост, последователност, приемственост | _най-често при STEM в смисъла на непрекъсната ф-я_
 (a) contract | договор
 contribution | принос, участие, [допринасяне](https://ibl.bas.bg/rbe/lang/bg/%D0%B4%D0%BE%D0%BF%D1%80%D0%B8%D0%BD%D0%B0%D1%81%D1%8F%D0%BD%D0%B5/), допълнение
 contributor | съмишленик, сътрудник, съучастник | _например 'contributors' към настоящето хранилище са си направо съмишленици. за жалост дума 'съприносител' не съществува (не се ползва), макар tribute да е принус в букв. превод_
